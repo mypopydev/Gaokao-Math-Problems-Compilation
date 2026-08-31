@@ -55,6 +55,28 @@ make pdf
 make clean
 ```
 
+### 只编译指定地区（试卷子集）
+
+通过 `AREA` 变量可只编译某一地区的试卷与答案，例如只编译上海卷：
+
+```bash
+make pdf AREA=shanghai
+```
+
+生成：
+
+- `Compilation-shanghai.pdf`
+- `Compilation-answer-shanghai.pdf`
+
+`AREA` 按子串匹配 `content/YYYY/<地区>.tex`，因此 `shanghai` 会同时收录
+`shanghai`、`shanghai_spring`（春考）、`shanghai_science`、`shanghai_liberal`。
+`AREA=all`（默认）编译全部内容；也可用 `beijing`、`tianjin`、`national_paper_1`
+等只编译对应地区。`AREA` 改变后无需手动清理，构建脚本会重新生成过滤后的正文索引
+`tmp/body.tex`。
+
+> 清理时若指定了 `AREA`，`make clean AREA=shanghai` 只清理该子集产物；
+> 不带 `AREA` 的 `make clean` 清理默认（全文）产物。
+
 > 注意：数学字体（TeX Gyre Termes Math、STIX、Latin Modern Math、Asana Math）
 > 在编译前由 `make` 调用 `tools/texlive-font-paths.sh` 生成 `tmp/math-fonts.tex`。
 > 直接运行 `xelatex`（不走 `make`）时，`styles.tex` 会回退到按字体名加载，这在

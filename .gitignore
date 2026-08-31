@@ -21,6 +21,20 @@
 /Compilation-answer.toc
 /Compilation-answer.xdv
 /Compilation-answer.synctex.gz
+/Compilation-*.aux
+/Compilation-*.fdb_latexmk
+/Compilation-*.fls
+/Compilation-*.log
+/Compilation-*.toc
+/Compilation-*.xdv
+/Compilation-*.synctex.gz
+/Compilation-answer-*.aux
+/Compilation-answer-*.fdb_latexmk
+/Compilation-answer-*.fls
+/Compilation-answer-*.log
+/Compilation-answer-*.toc
+/Compilation-answer-*.xdv
+/Compilation-answer-*.synctex.gz
 /missfont.log
 
 # 发布分支不收录的开发资料

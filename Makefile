@@ -15,22 +15,40 @@ IMAGE_LAYOUT_TOOL_INPUTS := tools/typeset/auto_image_layout.go \
 MATH_FONTS_OUTPUT := tmp/math-fonts.tex
 TEXLIVE_FONT_PATHS := tools/texlive-font-paths.sh
 
-.PHONY: all pdf pdf-main pdf-answer image-layout math-fonts clean
+# 试卷子集过滤：AREA=all 编译全部；AREA=shanghai 仅上海卷，以此类推
+# （子串匹配，AREA=shanghai 覆盖 shanghai / shanghai_spring /
+#  shanghai_science / shanghai_liberal）。
+AREA ?= all
+BODY_INDEX := tools/make-body-index.sh
+BODY_OUTPUT := tmp/body.tex
+
+# 子集编译时使用独立的 jobname，避免覆盖全文 PDF。
+ifeq ($(AREA),all)
+JOBNAME_MAIN :=
+JOBNAME_ANSWER :=
+else
+JOBNAME_MAIN := -jobname=Compilation-$(AREA)
+JOBNAME_ANSWER := -jobname=Compilation-answer-$(AREA)
+endif
+
+.PHONY: all pdf pdf-main pdf-answer image-layout math-fonts body-index clean
 
 all: pdf
 
 pdf: pdf-main pdf-answer
 
-pdf-main: math-fonts image-layout
-	$(LATEXMK) $(LATEXMK_FLAGS) Compilation.tex
+pdf-main: math-fonts image-layout body-index
+	$(LATEXMK) $(LATEXMK_FLAGS) $(JOBNAME_MAIN) Compilation.tex
 
-pdf-answer: math-fonts image-layout
-	$(LATEXMK) $(LATEXMK_FLAGS) Compilation-answer.tex
+pdf-answer: math-fonts image-layout body-index
+	$(LATEXMK) $(LATEXMK_FLAGS) $(JOBNAME_ANSWER) Compilation-answer.tex
 
-# B1: 定位 TeX Live 数学字体并生成 tmp/math-fonts.tex（按绝对路径加载，
-# 对 macOS 友好；Windows / Linux 的 TeX Live 同样可用 kpsewhich 找到）。
 math-fonts:
 	$(TEXLIVE_FONT_PATHS) $(MATH_FONTS_OUTPUT)
+
+# 生成过滤后的正文索引 tmp/body.tex（按 AREA 过滤 index/YYYY.tex）。
+body-index:
+	$(BODY_INDEX) $(AREA) $(BODY_OUTPUT)
 
 # C1: 若已存在提交好的布局表则跳过重新生成（auto_image_layout 工具不在仓库内）。
 image-layout:
@@ -49,5 +67,5 @@ crop-ui:
 	go run ./tools/crop/manualcrop -root . -addr 127.0.0.1:8766 -open
 
 clean:
-	$(LATEXMK) -C Compilation.tex
-	$(LATEXMK) -C Compilation-answer.tex
+	$(LATEXMK) -C $(JOBNAME_MAIN) Compilation.tex
+	$(LATEXMK) -C $(JOBNAME_ANSWER) Compilation-answer.tex
