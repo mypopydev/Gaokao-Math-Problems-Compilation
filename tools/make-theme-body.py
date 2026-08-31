@@ -79,9 +79,12 @@ def parse_title(path):
     return int(m.group(1)), m.group(2).strip(), (m.group(3) or "").strip()
 
 
-def label(year, region, session, qidx, nonstd):
-    r"""题源标注，如 （2022·上海·秋·7）；非课标单元追加 △非课标。"""
-    parts = [str(year), region] + ([session] if session else []) + [str(qidx)]
+def label(year, region, session, nonstd):
+    r"""题源标注，如 （2022·上海·秋）；不重复题号（主编号已沿用原卷题号）。
+
+    非课标单元追加 △非课标。
+    """
+    parts = [str(year), region] + ([session] if session else [])
     s = "（%s）" % "·".join(parts)
     if nonstd:
         # 用数学字体输出 △：直接写 Unicode 字符 △ 会被 CJK 字体取代，
@@ -198,7 +201,7 @@ def main():
             lines.append("\\setcounter{probnum}{%d}" % (q - 1))
             lines.append("\\begin{problem}%s" % opt)
             lines.append("\\probmeta{%s}" % label(
-                y, region, session, q, r["primary"] in nonstd))
+                y, region, session, r["primary"] in nonstd))
             lines.append(body.rstrip())
             lines.append("\\end{problem}")
             if ans is not None:
