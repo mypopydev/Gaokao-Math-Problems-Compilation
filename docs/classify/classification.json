@@ -1163,14 +1163,19 @@
   "year": 1985,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "inequality",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
+  "module": "必修",
+  "matched": [
+   "相等关系与不等关系"
+  ],
+  "comp": [
+   "数学运算",
+   "逻辑推理"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 1985,
@@ -1332,14 +1337,19 @@
   "year": 1986,
   "stem": "shanghai_liberal",
   "qidx": 7,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
+  "module": "必修",
+  "matched": [
+   "立体几何初步"
+  ],
+  "comp": [
+   "直观想象",
+   "数学运算"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 1986,
@@ -2751,14 +2761,19 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 12,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 1987,
@@ -2783,16 +2798,17 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 14,
-  "primary": "funcprop",
-  "primary_name": "函数概念与性质",
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算"
+   "数学运算",
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -2937,14 +2953,19 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 22,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
+  "module": "必修",
+  "matched": [
+   "立体几何初步"
+  ],
+  "comp": [
+   "直观想象",
+   "数学运算"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 1987,
@@ -3440,14 +3461,19 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 19,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 1988,
@@ -3630,14 +3656,19 @@
   "year": 1989,
   "stem": "shanghai",
   "qidx": 1,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "line_circle",
+  "primary_name": "直线与圆",
+  "theme": "几何与代数",
+  "module": "选择性必修",
+  "matched": [
+   "直线与圆"
+  ],
+  "comp": [
+   "直观想象",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1989,
@@ -4990,14 +5021,19 @@
   "year": 1991,
   "stem": "shanghai",
   "qidx": 16,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "counting",
+  "primary_name": "计数原理",
+  "theme": "概率与统计",
+  "module": "选择性必修",
+  "matched": [
+   "计数原理"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1991,
@@ -8013,14 +8049,19 @@
   "year": 1995,
   "stem": "shanghai_liberal",
   "qidx": 13,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "counting",
+  "primary_name": "计数原理",
+  "theme": "概率与统计",
+  "module": "选择性必修",
+  "matched": [
+   "计数原理"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1995,
@@ -8588,14 +8629,19 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 13,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "counting",
+  "primary_name": "计数原理",
+  "theme": "概率与统计",
+  "module": "选择性必修",
+  "matched": [
+   "计数原理"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1995,
@@ -10172,14 +10218,19 @@
   "year": 1997,
   "stem": "shanghai_liberal",
   "qidx": 6,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "seq",
+  "primary_name": "数列",
+  "theme": "函数",
+  "module": "选择性必修",
+  "matched": [
+   "数列"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1997,
@@ -10698,14 +10749,19 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 6,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "seq",
+  "primary_name": "数列",
+  "theme": "函数",
+  "module": "选择性必修",
+  "matched": [
+   "数列"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 1997,
@@ -18536,14 +18592,20 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2004,
@@ -18975,14 +19037,20 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 18,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2004,
@@ -20371,7 +20439,8 @@
    "三角函数",
    "幂函数、指数函数、对数函数",
    "函数概念与性质",
-   "复数"
+   "复数",
+   "直线与圆"
   ],
   "comp": [
    "数学运算",
@@ -20516,14 +20585,19 @@
   "year": 2005,
   "stem": "shanghai_spring",
   "qidx": 8,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "counting",
+  "primary_name": "计数原理",
+  "theme": "概率与统计",
+  "module": "选择性必修",
+  "matched": [
+   "计数原理"
+  ],
+  "comp": [
+   "逻辑推理",
+   "数学运算"
+  ],
+  "level": "水平2-3",
+  "note": ""
  },
  {
   "year": 2005,
@@ -23108,14 +23182,19 @@
   "year": 2007,
   "stem": "shanghai_spring",
   "qidx": 9,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2007,
@@ -28688,6 +28767,7 @@
   "matched": [
    "数列",
    "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -31811,7 +31891,8 @@
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "函数概念与性质"
+   "函数概念与性质",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -32232,16 +32313,17 @@
   "year": 2014,
   "stem": "shanghai_science",
   "qidx": 9,
-  "primary": "funcprop",
-  "primary_name": "函数概念与性质",
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算"
+   "数学运算",
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -32527,14 +32609,19 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 1,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2014,
@@ -32929,7 +33016,8 @@
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "平面向量"
+   "平面向量",
+   "直线与圆"
   ],
   "comp": [
    "逻辑推理",
@@ -33123,7 +33211,8 @@
    "常用逻辑用语",
    "函数概念与性质",
    "一元函数导数及其应用",
-   "复数"
+   "复数",
+   "计数原理"
   ],
   "comp": [
    "逻辑推理",
@@ -36834,7 +36923,8 @@
    "相等关系与不等关系",
    "三角函数",
    "函数概念与性质",
-   "复数"
+   "复数",
+   "计数原理"
   ],
   "comp": [
    "逻辑推理",
@@ -41231,14 +41321,19 @@
   "year": 2022,
   "stem": "shanghai_spring",
   "qidx": 14,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "inequality",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
+  "module": "必修",
+  "matched": [
+   "相等关系与不等关系"
+  ],
+  "comp": [
+   "数学运算",
+   "逻辑推理"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2022,
@@ -42215,7 +42310,8 @@
    "常用逻辑用语",
    "函数概念与性质",
    "一元函数导数及其应用",
-   "复数"
+   "复数",
+   "计数原理"
   ],
   "comp": [
    "数学运算",
@@ -42735,14 +42831,19 @@
   "year": 2024,
   "stem": "shanghai_spring",
   "qidx": 5,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "trig",
+  "primary_name": "三角函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "三角函数"
+  ],
+  "comp": [
+   "数学运算",
+   "直观想象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2024,
@@ -43317,14 +43418,19 @@
   "year": 2025,
   "stem": "shanghai",
   "qidx": 14,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2025,
@@ -44141,14 +44247,19 @@
   "year": 2026,
   "stem": "shanghai",
   "qidx": 13,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "elemfunc",
+  "primary_name": "幂函数、指数函数、对数函数",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "幂函数、指数函数、对数函数"
+  ],
+  "comp": [
+   "数学运算",
+   "数学抽象"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2026,
