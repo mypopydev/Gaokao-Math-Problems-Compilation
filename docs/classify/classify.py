@@ -58,6 +58,14 @@ def classify(text, taxo):
         if hits:
             scored.append((u, len(hits), hits))
     scored.sort(key=lambda x: (-x[1], taxo["units"].index(x[0])))
+    # 三角函数优先：含三角符号(\sin/\cos/\tan 等)且语义为“最值/值域/周期/解集”的题
+    # 应归三角函数，而非被“不等式与方程”的宽泛词(最大/最小/解集)吸走。
+    trig_u = next((u for u in taxo["units"] if u["id"] == "trig"), None)
+    if trig_u is not None and re.search(r"\\(?:sin|cos|tan|cot|sec|csc)\b", text):
+        if scored[0][0]["id"] == "inequality" and re.search(
+                r"最值|最大值|最小值|值域|周期|解集", text):
+            scored = [s for s in scored if s[0]["id"] != "trig"]
+            scored.insert(0, (trig_u, 1, ["(三角优先)"]))
     if not scored:
         # “函数” 兜底：含 函数 但无具体单元命中
         if "函数" in text:
