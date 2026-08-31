@@ -41,12 +41,12 @@
   "stem": "shanghai_liberal",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -118,11 +118,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -137,8 +137,8 @@
   "qidx": 8,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -147,7 +147,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -160,7 +160,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -234,12 +234,12 @@
   "stem": "shanghai_science",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -272,11 +272,11 @@
   "stem": "shanghai_science",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -290,12 +290,12 @@
   "stem": "shanghai_science",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -311,11 +311,11 @@
   "stem": "shanghai_science",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "直线与圆"
   ],
@@ -337,7 +337,7 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -354,12 +354,12 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -399,7 +399,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -435,11 +435,11 @@
   "stem": "shanghai_liberal",
   "qidx": 5,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -453,11 +453,11 @@
   "stem": "shanghai_liberal",
   "qidx": 6,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -508,11 +508,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -552,7 +552,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -589,7 +589,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -628,7 +628,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -779,12 +779,12 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -841,7 +841,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -898,7 +898,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -913,11 +913,11 @@
   "stem": "shanghai_science",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -970,7 +970,7 @@
   "qidx": 11,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -1276,7 +1276,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -1292,7 +1292,7 @@
   "qidx": 5,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -1384,11 +1384,11 @@
   "qidx": 10,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -1464,7 +1464,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -1480,7 +1480,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -1515,11 +1515,11 @@
   "stem": "shanghai_liberal",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -1682,12 +1682,12 @@
   "stem": "shanghai_liberal",
   "qidx": 26,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -1757,11 +1757,11 @@
   "stem": "shanghai_liberal",
   "qidx": 30,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -1776,12 +1776,12 @@
   "stem": "shanghai_liberal",
   "qidx": 31,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -1802,7 +1802,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -1934,7 +1934,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -1950,7 +1950,7 @@
   "qidx": 5,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -2050,11 +2050,11 @@
   "qidx": 10,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -2130,7 +2130,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -2163,11 +2163,11 @@
   "stem": "shanghai_science",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -2239,7 +2239,7 @@
   "qidx": 20,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -2329,12 +2329,12 @@
   "stem": "shanghai_science",
   "qidx": 25,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -2404,11 +2404,11 @@
   "stem": "shanghai_science",
   "qidx": 29,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -2464,11 +2464,11 @@
   "stem": "shanghai_science",
   "qidx": 32,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -2487,7 +2487,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -2579,7 +2579,7 @@
   "qidx": 3,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -2640,7 +2640,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -2765,11 +2765,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -2802,11 +2802,11 @@
   "stem": "shanghai",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -2917,7 +2917,7 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -2989,12 +2989,12 @@
   "qidx": 25,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -3052,11 +3052,11 @@
   "stem": "shanghai",
   "qidx": 28,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "复数",
    "空间向量与立体几何"
@@ -3100,11 +3100,11 @@
   "stem": "shanghai",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -3217,7 +3217,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -3347,7 +3347,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -3491,7 +3491,7 @@
   "qidx": 22,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -3545,11 +3545,11 @@
   "stem": "shanghai",
   "qidx": 25,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -3590,7 +3590,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -3669,8 +3669,8 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -3742,11 +3742,11 @@
   "stem": "shanghai",
   "qidx": 7,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -3851,11 +3851,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -3888,7 +3888,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -3973,7 +3973,7 @@
   "module": "必修",
   "matched": [
    "立体几何初步",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "直线与圆"
   ],
@@ -4032,7 +4032,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -4109,7 +4109,7 @@
   "qidx": 26,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -4132,7 +4132,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -4147,11 +4147,11 @@
   "stem": "shanghai",
   "qidx": 28,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "复数",
    "空间向量与立体几何",
@@ -4381,7 +4381,7 @@
   "qidx": 12,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -4479,7 +4479,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -4496,11 +4496,11 @@
   "stem": "shanghai",
   "qidx": 18,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -4542,7 +4542,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -4558,11 +4558,11 @@
   "stem": "shanghai",
   "qidx": 21,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -4581,7 +4581,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -4639,12 +4639,12 @@
   "stem": "shanghai",
   "qidx": 25,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -4687,7 +4687,7 @@
   "matched": [
    "复数",
    "直线与圆",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -4763,7 +4763,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -4897,7 +4897,7 @@
   "qidx": 11,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -4971,7 +4971,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -5023,7 +5023,7 @@
   "qidx": 18,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -5122,12 +5122,12 @@
   "stem": "shanghai",
   "qidx": 23,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -5205,11 +5205,11 @@
   "stem": "shanghai",
   "qidx": 27,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步",
    "三角函数",
    "函数概念与性质",
@@ -5270,7 +5270,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -5285,11 +5285,11 @@
   "stem": "shanghai",
   "qidx": 4,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -5436,7 +5436,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -5480,7 +5480,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -5599,7 +5599,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -5704,7 +5704,7 @@
   "matched": [
    "数列",
    "微积分（选修）",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -5726,7 +5726,7 @@
   "module": "选择性必修",
   "matched": [
    "圆锥曲线",
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
@@ -5742,11 +5742,11 @@
   "stem": "shanghai",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -5765,7 +5765,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -5937,11 +5937,11 @@
   "stem": "shanghai",
   "qidx": 11,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -5960,8 +5960,8 @@
   "module": "选择性必修",
   "matched": [
    "计数原理",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -5976,11 +5976,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -5999,7 +5999,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -6118,7 +6118,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -6242,7 +6242,7 @@
   "module": "选择性必修",
   "matched": [
    "圆锥曲线",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "复数",
    "直线与圆"
@@ -6260,12 +6260,12 @@
   "stem": "shanghai",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6316,11 +6316,11 @@
   "stem": "shanghai",
   "qidx": 4,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6414,7 +6414,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -6434,7 +6434,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -6449,11 +6449,11 @@
   "stem": "shanghai",
   "qidx": 11,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6467,12 +6467,12 @@
   "stem": "shanghai",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6529,7 +6529,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -6551,7 +6551,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -6567,7 +6567,7 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -6622,7 +6622,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -6723,7 +6723,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "平面向量",
    "复数"
   ],
@@ -6745,9 +6745,9 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数",
    "计数原理",
    "微积分（选修）"
@@ -6765,12 +6765,12 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6790,7 +6790,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -6841,11 +6841,11 @@
   "stem": "shanghai_liberal",
   "qidx": 5,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6952,11 +6952,11 @@
   "stem": "shanghai_liberal",
   "qidx": 11,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -6970,12 +6970,12 @@
   "stem": "shanghai_liberal",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7029,7 +7029,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -7065,7 +7065,7 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -7124,7 +7124,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -7203,11 +7203,11 @@
   "stem": "shanghai_liberal",
   "qidx": 24,
   "primary": "deriv",
-  "primary_name": "导数",
+  "primary_name": "一元函数导数及其应用",
   "theme": "函数",
   "module": "选择性必修",
   "matched": [
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "立体几何初步",
    "直线与圆",
@@ -7254,7 +7254,7 @@
   "matched": [
    "平面向量",
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -7270,12 +7270,12 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7326,11 +7326,11 @@
   "stem": "shanghai_science",
   "qidx": 4,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7418,11 +7418,11 @@
   "stem": "shanghai_science",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步"
   ],
   "comp": [
@@ -7443,7 +7443,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -7458,11 +7458,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7476,12 +7476,12 @@
   "stem": "shanghai_science",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7538,7 +7538,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -7560,7 +7560,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -7576,7 +7576,7 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -7635,7 +7635,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -7714,11 +7714,11 @@
   "stem": "shanghai_science",
   "qidx": 24,
   "primary": "deriv",
-  "primary_name": "导数",
+  "primary_name": "一元函数导数及其应用",
   "theme": "函数",
   "module": "选择性必修",
   "matched": [
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆",
    "圆锥曲线"
@@ -7742,7 +7742,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "平面向量",
    "复数"
   ],
@@ -7764,10 +7764,10 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "微积分（选修）",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数",
    "计数原理"
   ],
@@ -7790,7 +7790,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -7807,7 +7807,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -7861,7 +7861,7 @@
   "qidx": 5,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -7899,11 +7899,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -7918,7 +7918,7 @@
   "qidx": 8,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -7938,12 +7938,12 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -7978,8 +7978,8 @@
   "qidx": 11,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -7988,7 +7988,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -7996,11 +7996,11 @@
   "stem": "shanghai_liberal",
   "qidx": 12,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -8194,8 +8194,8 @@
   "qidx": 23,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -8204,7 +8204,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -8274,7 +8274,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "平面向量",
    "复数"
   ],
@@ -8314,11 +8314,11 @@
   "stem": "shanghai_liberal",
   "qidx": 29,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "复数",
    "圆锥曲线"
@@ -8337,11 +8337,11 @@
   "stem": "shanghai_liberal",
   "qidx": 30,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "直线与圆"
@@ -8365,7 +8365,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -8382,7 +8382,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -8436,7 +8436,7 @@
   "qidx": 5,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -8474,11 +8474,11 @@
   "stem": "shanghai_science",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -8493,7 +8493,7 @@
   "qidx": 8,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -8513,12 +8513,12 @@
   "stem": "shanghai_science",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -8553,8 +8553,8 @@
   "qidx": 11,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -8563,7 +8563,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -8571,11 +8571,11 @@
   "stem": "shanghai_science",
   "qidx": 12,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -8851,7 +8851,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "平面向量",
    "复数",
    "直线与圆"
@@ -8892,11 +8892,11 @@
   "stem": "shanghai_science",
   "qidx": 29,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "复数",
    "圆锥曲线"
@@ -8920,7 +8920,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "直线与圆",
@@ -8940,7 +8940,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -8962,7 +8962,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -9040,7 +9040,7 @@
   "qidx": 6,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -9059,11 +9059,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9077,11 +9077,11 @@
   "stem": "shanghai_liberal",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9095,11 +9095,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9113,11 +9113,11 @@
   "stem": "shanghai_liberal",
   "qidx": 10,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -9137,7 +9137,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9424,7 +9424,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -9507,7 +9507,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -9529,7 +9529,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -9544,11 +9544,11 @@
   "stem": "shanghai_science",
   "qidx": 3,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9606,7 +9606,7 @@
   "qidx": 6,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -9646,11 +9646,11 @@
   "stem": "shanghai_science",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9664,11 +9664,11 @@
   "stem": "shanghai_science",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9682,11 +9682,11 @@
   "stem": "shanghai_science",
   "qidx": 10,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -9706,7 +9706,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -9994,7 +9994,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -10077,7 +10077,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -10094,11 +10094,11 @@
   "stem": "shanghai_liberal",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -10186,11 +10186,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -10281,7 +10281,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -10395,7 +10395,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -10411,7 +10411,7 @@
   "qidx": 19,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -10432,7 +10432,7 @@
   "qidx": 20,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -10476,7 +10476,7 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步",
    "空间向量与立体几何",
    "圆锥曲线"
@@ -10520,7 +10520,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -10603,7 +10603,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -10620,11 +10620,11 @@
   "stem": "shanghai_science",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -10810,7 +10810,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -10884,7 +10884,7 @@
   "qidx": 16,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -10945,7 +10945,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -10961,7 +10961,7 @@
   "qidx": 20,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -11005,7 +11005,7 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步",
    "空间向量与立体几何",
    "圆锥曲线"
@@ -11049,7 +11049,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -11133,11 +11133,11 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -11156,7 +11156,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -11226,8 +11226,8 @@
   "qidx": 6,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -11236,7 +11236,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -11263,11 +11263,11 @@
   "stem": "shanghai_liberal",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -11362,7 +11362,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -11400,7 +11400,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -11539,7 +11539,7 @@
   "qidx": 22,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -11565,11 +11565,11 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -11588,7 +11588,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -11698,11 +11698,11 @@
   "stem": "shanghai_science",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -11752,11 +11752,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -11797,7 +11797,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -11835,7 +11835,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -11983,7 +11983,7 @@
    "微积分（选修）",
    "集合",
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "立体几何初步",
@@ -12026,7 +12026,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -12099,7 +12099,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -12119,7 +12119,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -12135,8 +12135,8 @@
   "qidx": 8,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -12145,7 +12145,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -12153,11 +12153,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -12176,7 +12176,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -12267,11 +12267,11 @@
   "stem": "shanghai_liberal",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -12286,7 +12286,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -12307,7 +12307,7 @@
   "qidx": 17,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -12456,7 +12456,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -12529,7 +12529,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -12549,7 +12549,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -12608,7 +12608,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -12700,11 +12700,11 @@
   "stem": "shanghai_science",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -12719,7 +12719,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -12740,7 +12740,7 @@
   "qidx": 17,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -12846,7 +12846,7 @@
   "matched": [
    "圆锥曲线",
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "平面向量",
    "复数",
@@ -12883,11 +12883,11 @@
   "stem": "shanghai_liberal",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -12961,8 +12961,8 @@
   "qidx": 6,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -12971,7 +12971,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -12980,7 +12980,7 @@
   "qidx": 7,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -13005,7 +13005,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -13027,7 +13027,7 @@
   "module": "选择性必修",
   "matched": [
    "计数原理",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -13060,11 +13060,11 @@
   "stem": "shanghai_liberal",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "最优化"
   ],
@@ -13122,7 +13122,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -13144,7 +13144,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -13167,8 +13167,8 @@
   "matched": [
    "三角函数",
    "常用逻辑用语",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -13225,11 +13225,11 @@
   "stem": "shanghai_liberal",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -13268,11 +13268,11 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "平面向量",
    "复数",
@@ -13331,11 +13331,11 @@
   "stem": "shanghai_science",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -13410,8 +13410,8 @@
   "qidx": 6,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -13420,7 +13420,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -13429,7 +13429,7 @@
   "qidx": 7,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -13454,7 +13454,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -13476,7 +13476,7 @@
   "module": "选择性必修",
   "matched": [
    "计数原理",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -13570,7 +13570,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -13592,7 +13592,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -13615,8 +13615,8 @@
   "matched": [
    "三角函数",
    "常用逻辑用语",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -13673,11 +13673,11 @@
   "stem": "shanghai_science",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -13716,11 +13716,11 @@
   "stem": "shanghai_science",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "平面向量",
    "复数"
@@ -13798,11 +13798,11 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -13946,7 +13946,7 @@
   "qidx": 11,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -13964,7 +13964,7 @@
   "qidx": 12,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -14022,12 +14022,12 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -14106,8 +14106,8 @@
   "qidx": 19,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -14116,7 +14116,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -14129,7 +14129,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -14166,15 +14166,15 @@
   "stem": "shanghai_spring",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "圆锥曲线",
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "平面向量",
    "复数"
   ],
@@ -14191,11 +14191,11 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -14250,7 +14250,7 @@
   "qidx": 4,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -14387,7 +14387,7 @@
   "qidx": 11,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14409,8 +14409,8 @@
   "qidx": 12,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -14419,7 +14419,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -14428,7 +14428,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14469,7 +14469,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14489,15 +14489,15 @@
   "stem": "shanghai_liberal",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "微积分（选修）",
    "常用逻辑用语",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -14555,7 +14555,7 @@
   "module": "必修",
   "matched": [
    "立体几何初步",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "复数",
    "空间向量与立体几何"
@@ -14574,7 +14574,7 @@
   "qidx": 20,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -14596,11 +14596,11 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "计数原理"
@@ -14640,11 +14640,11 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -14699,7 +14699,7 @@
   "qidx": 4,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -14834,7 +14834,7 @@
   "qidx": 11,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14856,8 +14856,8 @@
   "qidx": 12,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -14866,7 +14866,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -14875,7 +14875,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14916,7 +14916,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -14936,15 +14936,15 @@
   "stem": "shanghai_science",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "微积分（选修）",
    "常用逻辑用语",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -15002,7 +15002,7 @@
   "module": "必修",
   "matched": [
    "立体几何初步",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "复数",
    "空间向量与立体几何"
@@ -15043,11 +15043,11 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "计数原理"
@@ -15127,7 +15127,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -15296,8 +15296,8 @@
   "qidx": 12,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -15306,7 +15306,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -15315,7 +15315,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -15333,7 +15333,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -15396,11 +15396,11 @@
   "qidx": 17,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -15432,11 +15432,11 @@
   "stem": "shanghai_spring",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "立体几何初步"
   ],
@@ -15558,11 +15558,11 @@
   "stem": "shanghai_liberal",
   "qidx": 3,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -15622,7 +15622,7 @@
   "matched": [
    "直线与圆",
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -15678,8 +15678,8 @@
   "qidx": 9,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -15688,7 +15688,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -15756,7 +15756,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -15775,7 +15775,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -15815,8 +15815,8 @@
   "qidx": 16,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -15825,7 +15825,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -15871,13 +15871,13 @@
   "stem": "shanghai_liberal",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -15916,13 +15916,13 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "计数原理"
@@ -15945,7 +15945,7 @@
   "module": "选择性必修",
   "matched": [
    "计数原理",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -15999,11 +15999,11 @@
   "stem": "shanghai_science",
   "qidx": 3,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -16067,7 +16067,7 @@
    "直线与圆",
    "三角函数",
    "空间向量与立体几何",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "直观想象",
@@ -16202,7 +16202,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -16245,11 +16245,11 @@
   "stem": "shanghai_science",
   "qidx": 15,
   "primary": "deriv",
-  "primary_name": "导数",
+  "primary_name": "一元函数导数及其应用",
   "theme": "函数",
   "module": "选择性必修",
   "matched": [
-   "导数",
+   "一元函数导数及其应用",
    "三角函数",
    "函数概念与性质"
   ],
@@ -16268,11 +16268,11 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "数学建模与应用"
   ],
   "comp": [
@@ -16333,9 +16333,9 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -16375,12 +16375,12 @@
   "stem": "shanghai_science",
   "qidx": 21,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
-   "不等式与方程",
+   "幂函数、指数函数、对数函数",
+   "相等关系与不等关系",
    "函数概念与性质",
    "数列",
    "复数"
@@ -16457,13 +16457,13 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -16484,7 +16484,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -16556,7 +16556,7 @@
   "qidx": 8,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -16580,7 +16580,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -16692,7 +16692,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -16711,7 +16711,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -16812,7 +16812,7 @@
   "matched": [
    "计数原理",
    "微积分（选修）",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "数学建模与应用"
   ],
@@ -16830,11 +16830,11 @@
   "qidx": 22,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "平面向量",
    "复数",
@@ -16858,7 +16858,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -16878,7 +16878,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -16952,7 +16952,7 @@
   "qidx": 6,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -17006,7 +17006,7 @@
   "qidx": 9,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -17026,11 +17026,11 @@
   "stem": "shanghai_liberal",
   "qidx": 10,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -17070,7 +17070,7 @@
   "module": "选择性必修",
   "matched": [
    "圆锥曲线",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -17093,7 +17093,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -17174,7 +17174,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -17215,8 +17215,8 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数",
-   "导数"
+   "幂函数、指数函数、对数函数",
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -17231,11 +17231,11 @@
   "stem": "shanghai_liberal",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "立体几何初步",
    "直线与圆",
@@ -17306,7 +17306,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -17326,7 +17326,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -17402,7 +17402,7 @@
   "qidx": 6,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -17457,7 +17457,7 @@
   "qidx": 9,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -17477,11 +17477,11 @@
   "stem": "shanghai_science",
   "qidx": 10,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -17521,7 +17521,7 @@
   "module": "选择性必修",
   "matched": [
    "圆锥曲线",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -17544,7 +17544,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -17585,12 +17585,12 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -17628,7 +17628,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -17685,11 +17685,11 @@
   "stem": "shanghai_science",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "立体几何初步",
    "直线与圆",
@@ -17735,7 +17735,7 @@
   "qidx": 22,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -17835,7 +17835,7 @@
   "qidx": 5,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -17853,7 +17853,7 @@
   "qidx": 6,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -17890,13 +17890,13 @@
   "stem": "shanghai_spring",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -17989,7 +17989,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -18052,7 +18052,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -18070,11 +18070,11 @@
   "stem": "shanghai_spring",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -18138,7 +18138,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -18240,11 +18240,11 @@
   "qidx": 3,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -18284,8 +18284,8 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -18318,11 +18318,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "最优化"
   ],
   "comp": [
@@ -18437,7 +18437,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -18463,8 +18463,8 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -18501,8 +18501,8 @@
   "qidx": 16,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -18511,7 +18511,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -18569,11 +18569,11 @@
   "stem": "shanghai_liberal",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数",
@@ -18623,7 +18623,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "复数"
   ],
@@ -18679,11 +18679,11 @@
   "qidx": 3,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -18722,8 +18722,8 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -18876,7 +18876,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -18902,8 +18902,8 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -18940,8 +18940,8 @@
   "qidx": 16,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用"
   ],
@@ -18950,7 +18950,7 @@
    "数据分析",
    "数学运算"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -19055,12 +19055,12 @@
   "qidx": 22,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "复数",
    "直线与圆",
@@ -19097,11 +19097,11 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -19154,11 +19154,11 @@
   "stem": "shanghai_spring",
   "qidx": 5,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -19331,7 +19331,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -19351,7 +19351,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -19373,11 +19373,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -19413,11 +19413,11 @@
   "stem": "shanghai_spring",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -19477,7 +19477,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -19493,11 +19493,11 @@
   "stem": "shanghai_spring",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数",
@@ -19523,7 +19523,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -19537,11 +19537,11 @@
   "stem": "shanghai_liberal",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -19555,11 +19555,11 @@
   "stem": "shanghai_liberal",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语"
   ],
   "comp": [
@@ -19598,7 +19598,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -19728,11 +19728,11 @@
   "stem": "shanghai_liberal",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步"
   ],
   "comp": [
@@ -19748,13 +19748,13 @@
   "stem": "shanghai_liberal",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -19770,7 +19770,7 @@
   "qidx": 14,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -19788,7 +19788,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -19849,7 +19849,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -19868,7 +19868,7 @@
   "module": "必修",
   "matched": [
    "平面向量",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -19933,9 +19933,9 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -19957,7 +19957,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -19971,11 +19971,11 @@
   "stem": "shanghai_science",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -20140,11 +20140,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步"
   ],
   "comp": [
@@ -20179,13 +20179,13 @@
   "stem": "shanghai_science",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -20201,7 +20201,7 @@
   "qidx": 14,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -20242,7 +20242,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -20299,11 +20299,11 @@
   "stem": "shanghai_science",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "圆锥曲线",
    "平面向量",
@@ -20347,7 +20347,7 @@
   "matched": [
    "函数概念与性质",
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -20369,7 +20369,7 @@
   "matched": [
    "平面向量",
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "复数"
   ],
@@ -20386,12 +20386,12 @@
   "stem": "shanghai_spring",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -20553,7 +20553,7 @@
   "qidx": 10,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -20597,8 +20597,8 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "计数原理"
   ],
@@ -20616,7 +20616,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -20655,7 +20655,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -20672,11 +20672,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "函数概念与性质",
    "复数"
@@ -20740,7 +20740,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -20778,7 +20778,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "复数",
    "直线与圆"
@@ -20821,7 +20821,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -20915,7 +20915,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -20950,11 +20950,11 @@
   "stem": "shanghai_liberal",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -20968,11 +20968,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -21062,11 +21062,11 @@
   "stem": "shanghai_liberal",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -21081,7 +21081,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21183,7 +21183,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数",
    "计数原理"
   ],
@@ -21200,11 +21200,11 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "圆锥曲线",
    "三角函数",
@@ -21224,13 +21224,13 @@
   "stem": "shanghai_liberal",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -21247,7 +21247,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -21398,7 +21398,7 @@
   "qidx": 9,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -21439,7 +21439,7 @@
   "qidx": 11,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21459,13 +21459,13 @@
   "stem": "shanghai_science",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -21500,7 +21500,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21520,13 +21520,13 @@
   "stem": "shanghai_science",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -21542,7 +21542,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21570,7 +21570,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -21628,7 +21628,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21656,8 +21656,8 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "复数",
    "计数原理"
   ],
@@ -21674,13 +21674,13 @@
   "stem": "shanghai_science",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -21714,11 +21714,11 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -21750,12 +21750,12 @@
   "stem": "shanghai_spring",
   "qidx": 4,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -21879,11 +21879,11 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "直线与圆"
   ],
@@ -21939,11 +21939,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -21958,7 +21958,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -21979,7 +21979,7 @@
   "qidx": 16,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -22021,7 +22021,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -22084,7 +22084,7 @@
   "qidx": 21,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -22123,11 +22123,11 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -22182,7 +22182,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -22256,11 +22256,11 @@
   "qidx": 8,
   "primary": "modeling",
   "primary_name": "数学建模与应用",
-  "theme": "数学建模活动",
-  "module": "选修",
+  "theme": "数学建模活动与数学探究活动",
+  "module": "必修",
   "matched": [
    "数学建模与应用",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学建模",
@@ -22268,7 +22268,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -22338,7 +22338,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -22373,7 +22373,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22394,7 +22394,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22451,7 +22451,7 @@
   "qidx": 18,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22478,7 +22478,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -22515,11 +22515,11 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线",
    "三角函数",
    "平面向量",
@@ -22594,11 +22594,11 @@
   "stem": "shanghai_science",
   "qidx": 4,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -22612,11 +22612,11 @@
   "stem": "shanghai_science",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -22635,7 +22635,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -22709,7 +22709,7 @@
   "qidx": 10,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22754,7 +22754,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -22770,11 +22770,11 @@
   "stem": "shanghai_science",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -22807,7 +22807,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22865,7 +22865,7 @@
   "qidx": 18,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -22912,7 +22912,7 @@
   "matched": [
    "数列",
    "计数原理",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "复数"
   ],
@@ -22976,7 +22976,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -22992,12 +22992,12 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -23017,7 +23017,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -23160,7 +23160,7 @@
   "qidx": 12,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -23216,11 +23216,11 @@
   "stem": "shanghai_spring",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -23256,11 +23256,11 @@
   "stem": "shanghai_spring",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步",
    "常用逻辑用语",
    "平面向量",
@@ -23369,12 +23369,12 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -23390,7 +23390,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -23430,7 +23430,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -23529,7 +23529,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -23543,11 +23543,11 @@
   "stem": "shanghai_liberal",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "概率",
    "统计"
   ],
@@ -23565,11 +23565,11 @@
   "stem": "shanghai_liberal",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量"
   ],
@@ -23607,7 +23607,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -23647,7 +23647,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -23712,7 +23712,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "直线与圆"
@@ -23731,11 +23731,11 @@
   "stem": "shanghai_liberal",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -23775,7 +23775,7 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -23795,12 +23795,12 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -23816,7 +23816,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -23893,7 +23893,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -23949,11 +23949,11 @@
   "stem": "shanghai_science",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "概率",
    "统计"
   ],
@@ -23994,11 +23994,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "平面向量",
    "直线与圆"
   ],
@@ -24034,7 +24034,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -24074,7 +24074,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -24140,7 +24140,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数",
    "直线与圆"
@@ -24159,11 +24159,11 @@
   "stem": "shanghai_science",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -24223,7 +24223,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -24281,7 +24281,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -24428,11 +24428,11 @@
   "stem": "shanghai_spring",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "空间向量与立体几何",
    "直线与圆"
@@ -24489,7 +24489,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -24513,7 +24513,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -24573,8 +24573,8 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数",
-   "导数",
+   "幂函数、指数函数、对数函数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -24677,7 +24677,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -24695,7 +24695,7 @@
   "qidx": 3,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -24772,11 +24772,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "最优化"
   ],
   "comp": [
@@ -24836,7 +24836,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -25015,7 +25015,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -25050,11 +25050,11 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "复数"
   ],
@@ -25136,7 +25136,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -25154,7 +25154,7 @@
   "qidx": 3,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -25217,7 +25217,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -25313,11 +25313,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -25375,11 +25375,11 @@
   "stem": "shanghai_science",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "平面向量"
   ],
@@ -25398,11 +25398,11 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -25420,7 +25420,7 @@
   "qidx": 16,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -25496,11 +25496,11 @@
   "stem": "shanghai_science",
   "qidx": 20,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "复数"
   ],
@@ -25583,11 +25583,11 @@
   "stem": "shanghai_spring",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -25625,7 +25625,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -25641,7 +25641,7 @@
   "qidx": 4,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -25790,7 +25790,7 @@
   "qidx": 12,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -25829,11 +25829,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -25884,11 +25884,11 @@
   "stem": "shanghai_spring",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "复数",
    "计数原理"
@@ -25958,9 +25958,9 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -25978,7 +25978,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -25995,12 +25995,12 @@
   "stem": "shanghai_liberal",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -26132,7 +26132,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "平面向量"
   ],
   "comp": [
@@ -26245,11 +26245,11 @@
   "stem": "shanghai_liberal",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "最优化",
    "常用逻辑用语"
   ],
@@ -26268,7 +26268,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -26289,11 +26289,11 @@
   "qidx": 17,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -26343,11 +26343,11 @@
   "stem": "shanghai_liberal",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步",
    "直线与圆",
    "复数"
@@ -26370,7 +26370,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -26391,10 +26391,10 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
-   "基本初等函数",
-   "导数",
+   "幂函数、指数函数、对数函数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -26433,12 +26433,12 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -26573,7 +26573,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "平面向量"
   ],
   "comp": [
@@ -26689,7 +26689,7 @@
   "qidx": 14,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -26711,7 +26711,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -26753,11 +26753,11 @@
   "stem": "shanghai_science",
   "qidx": 17,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "集合"
   ],
   "comp": [
@@ -26814,7 +26814,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -26836,7 +26836,7 @@
   "matched": [
    "立体几何初步",
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "复数"
   ],
@@ -26859,7 +26859,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -26876,7 +26876,7 @@
   "qidx": 23,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -26905,7 +26905,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -26957,7 +26957,7 @@
   "qidx": 4,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -27087,12 +27087,12 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -27112,7 +27112,7 @@
   "module": "必修",
   "matched": [
    "算法与程序框图",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -27184,11 +27184,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -27203,7 +27203,7 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -27262,13 +27262,13 @@
   "stem": "shanghai_spring",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -27331,11 +27331,11 @@
   "qidx": 23,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "数列",
    "复数"
   ],
@@ -27353,7 +27353,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -27411,7 +27411,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -27446,12 +27446,12 @@
   "stem": "shanghai_liberal",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -27503,11 +27503,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语"
   ],
   "comp": [
@@ -27541,11 +27541,11 @@
   "stem": "shanghai_liberal",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "矩阵与变换"
   ],
   "comp": [
@@ -27625,7 +27625,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -27640,11 +27640,11 @@
   "stem": "shanghai_liberal",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -27659,13 +27659,13 @@
   "qidx": 17,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -27743,7 +27743,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -27759,11 +27759,11 @@
   "stem": "shanghai_liberal",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线",
    "平面向量",
    "复数",
@@ -27783,12 +27783,12 @@
   "qidx": 23,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -27824,7 +27824,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -27860,12 +27860,12 @@
   "stem": "shanghai_science",
   "qidx": 4,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -27944,7 +27944,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -27978,11 +27978,11 @@
   "stem": "shanghai_science",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "矩阵与变换"
   ],
   "comp": [
@@ -28075,11 +28075,11 @@
   "stem": "shanghai_science",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -28098,9 +28098,9 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -28177,7 +28177,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -28237,11 +28237,11 @@
   "stem": "shanghai_science",
   "qidx": 23,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
    "复数",
    "空间向量与立体几何"
@@ -28278,7 +28278,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -28424,11 +28424,11 @@
   "stem": "shanghai_spring",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线",
    "直线与圆"
   ],
@@ -28499,11 +28499,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -28575,7 +28575,7 @@
   "qidx": 18,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -28600,7 +28600,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "函数概念与性质",
    "复数"
@@ -28666,7 +28666,7 @@
    "微积分（选修）",
    "函数概念与性质",
    "集合",
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "复数"
   ],
@@ -28687,7 +28687,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -28722,7 +28722,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -28744,7 +28744,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -28800,11 +28800,11 @@
   "stem": "shanghai_liberal",
   "qidx": 6,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -28876,11 +28876,11 @@
   "stem": "shanghai_liberal",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "最优化",
    "常用逻辑用语"
   ],
@@ -28995,7 +28995,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -29140,11 +29140,11 @@
   "stem": "shanghai_liberal",
   "qidx": 23,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "复数"
   ],
@@ -29180,7 +29180,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -29410,11 +29410,11 @@
   "stem": "shanghai_science",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步"
   ],
   "comp": [
@@ -29473,7 +29473,7 @@
   "module": "选择性必修",
   "matched": [
    "概率",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数据分析",
@@ -29618,7 +29618,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -29696,7 +29696,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -29713,11 +29713,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -29767,12 +29767,12 @@
   "stem": "shanghai_spring",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -29824,11 +29824,11 @@
   "stem": "shanghai_spring",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -29847,7 +29847,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -29938,7 +29938,7 @@
   "qidx": 18,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -29982,11 +29982,11 @@
   "stem": "shanghai_spring",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -30053,7 +30053,7 @@
   "matched": [
    "三角函数",
    "平面向量",
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
    "函数概念与性质",
    "复数",
@@ -30072,12 +30072,12 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -30152,7 +30152,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
@@ -30205,11 +30205,11 @@
   "stem": "shanghai_liberal",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -30304,11 +30304,11 @@
   "stem": "shanghai_liberal",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -30327,7 +30327,7 @@
   "module": "必修",
   "matched": [
    "平面向量",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -30361,7 +30361,7 @@
   "qidx": 16,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -30379,11 +30379,11 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -30398,11 +30398,11 @@
   "stem": "shanghai_liberal",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "微积分（选修）",
    "数列",
    "直线与圆",
@@ -30441,13 +30441,13 @@
   "stem": "shanghai_liberal",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "计数原理",
    "数学建模与应用"
@@ -30630,11 +30630,11 @@
   "stem": "shanghai_science",
   "qidx": 6,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -30671,7 +30671,7 @@
   "qidx": 8,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -30759,7 +30759,7 @@
   "matched": [
    "函数概念与性质",
    "常用逻辑用语",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学抽象",
@@ -30812,7 +30812,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -30830,7 +30830,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -30869,11 +30869,11 @@
   "stem": "shanghai_science",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "直线与圆"
   ],
@@ -30911,11 +30911,11 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理",
    "数学建模与应用"
@@ -30938,10 +30938,10 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -31004,11 +31004,11 @@
   "stem": "shanghai_spring",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -31023,11 +31023,11 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -31065,7 +31065,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -31103,7 +31103,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -31304,11 +31304,11 @@
   "stem": "shanghai_spring",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -31366,7 +31366,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -31401,7 +31401,7 @@
   "qidx": 22,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -31419,7 +31419,7 @@
   "qidx": 23,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -31478,11 +31478,11 @@
   "stem": "shanghai_spring",
   "qidx": 26,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -31541,7 +31541,7 @@
   "qidx": 29,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -31569,7 +31569,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数"
@@ -31588,12 +31588,12 @@
   "qidx": 31,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "平面向量",
    "复数",
    "直线与圆"
@@ -31616,8 +31616,8 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -31707,11 +31707,11 @@
   "stem": "shanghai_liberal",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -31763,11 +31763,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "函数概念与性质",
    "集合"
@@ -31887,7 +31887,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -31905,7 +31905,7 @@
   "qidx": 16,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -31941,13 +31941,13 @@
   "stem": "shanghai_liberal",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "直线与圆",
    "计数原理",
    "矩阵与变换"
@@ -31991,7 +31991,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -32011,7 +32011,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆"
   ],
@@ -32030,7 +32030,7 @@
   "qidx": 22,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -32058,7 +32058,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
    "常用逻辑用语",
    "复数",
@@ -32082,7 +32082,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -32153,11 +32153,11 @@
   "stem": "shanghai_science",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -32271,7 +32271,7 @@
   "qidx": 11,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -32327,7 +32327,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -32349,7 +32349,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -32385,13 +32385,13 @@
   "stem": "shanghai_science",
   "qidx": 17,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "直线与圆"
   ],
   "comp": [
@@ -32407,11 +32407,11 @@
   "stem": "shanghai_science",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -32484,7 +32484,7 @@
   "qidx": 22,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -32512,7 +32512,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -32668,11 +32668,11 @@
   "stem": "shanghai_spring",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -32870,11 +32870,11 @@
   "stem": "shanghai_spring",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -32925,7 +32925,7 @@
   "qidx": 23,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -32968,12 +32968,12 @@
   "qidx": 25,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -32989,11 +32989,11 @@
   "stem": "shanghai_spring",
   "qidx": 26,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -33117,12 +33117,12 @@
   "qidx": 32,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -33143,7 +33143,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -33161,7 +33161,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -33214,11 +33214,11 @@
   "stem": "shanghai_liberal",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "矩阵与变换"
   ],
   "comp": [
@@ -33252,11 +33252,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线",
    "空间向量与立体几何"
   ],
@@ -33273,11 +33273,11 @@
   "stem": "shanghai_liberal",
   "qidx": 8,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -33291,11 +33291,11 @@
   "stem": "shanghai_liberal",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "最优化"
   ],
   "comp": [
@@ -33367,11 +33367,11 @@
   "stem": "shanghai_liberal",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量"
   ],
   "comp": [
@@ -33392,7 +33392,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "函数概念与性质"
   ],
@@ -33411,7 +33411,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -33428,11 +33428,11 @@
   "stem": "shanghai_liberal",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -33510,7 +33510,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -33526,11 +33526,11 @@
   "stem": "shanghai_liberal",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "空间向量与立体几何"
   ],
@@ -33576,7 +33576,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -33594,7 +33594,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -33629,11 +33629,11 @@
   "stem": "shanghai_science",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "矩阵与变换"
   ],
   "comp": [
@@ -33667,11 +33667,11 @@
   "stem": "shanghai_science",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线",
    "空间向量与立体几何"
   ],
@@ -33708,11 +33708,11 @@
   "stem": "shanghai_science",
   "qidx": 7,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -33764,11 +33764,11 @@
   "stem": "shanghai_science",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -33826,7 +33826,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "函数概念与性质"
   ],
@@ -33864,7 +33864,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -33960,11 +33960,11 @@
   "stem": "shanghai_science",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "空间向量与立体几何"
   ],
@@ -34006,11 +34006,11 @@
   "stem": "shanghai_science",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "复数",
    "计数原理"
@@ -34035,8 +34035,8 @@
    "三角函数",
    "常用逻辑用语",
    "函数概念与性质",
-   "基本初等函数",
-   "导数",
+   "幂函数、指数函数、对数函数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆"
   ],
@@ -34055,7 +34055,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -34095,7 +34095,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
@@ -34166,11 +34166,11 @@
   "stem": "shanghai_spring",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -34186,11 +34186,11 @@
   "stem": "shanghai_spring",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "矩阵与变换"
   ],
   "comp": [
@@ -34206,12 +34206,12 @@
   "stem": "shanghai_spring",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
-   "不等式与方程",
+   "幂函数、指数函数、对数函数",
+   "相等关系与不等关系",
    "函数概念与性质",
    "算法与程序框图"
   ],
@@ -34248,7 +34248,7 @@
   "qidx": 11,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -34287,11 +34287,11 @@
   "stem": "shanghai_spring",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语"
   ],
   "comp": [
@@ -34325,12 +34325,12 @@
   "stem": "shanghai_spring",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -34350,7 +34350,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -34446,13 +34446,13 @@
   "stem": "shanghai_spring",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
-   "导数",
+   "一元函数导数及其应用",
    "计数原理"
   ],
   "comp": [
@@ -34467,11 +34467,11 @@
   "stem": "shanghai_spring",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -34505,7 +34505,7 @@
   "qidx": 24,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -34543,11 +34543,11 @@
   "stem": "shanghai_spring",
   "qidx": 26,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "常用逻辑用语"
   ],
@@ -34607,11 +34607,11 @@
   "stem": "shanghai_spring",
   "qidx": 29,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "函数概念与性质",
    "复数",
@@ -34631,7 +34631,7 @@
   "qidx": 30,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -34650,11 +34650,11 @@
   "stem": "shanghai_spring",
   "qidx": 31,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -34674,7 +34674,7 @@
   "matched": [
    "数列",
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "计数原理"
   ],
   "comp": [
@@ -34697,7 +34697,7 @@
   "matched": [
    "复数",
    "圆锥曲线",
-   "不等式与方程",
+   "相等关系与不等关系",
    "空间向量与立体几何",
    "直线与圆",
    "计数原理"
@@ -34741,7 +34741,7 @@
   "matched": [
    "函数概念与性质",
    "常用逻辑用语",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -34764,9 +34764,9 @@
    "函数概念与性质",
    "集合",
    "常用逻辑用语",
-   "不等式与方程",
-   "基本初等函数",
-   "导数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆"
   ],
@@ -34783,12 +34783,12 @@
   "stem": "shanghai_liberal",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -34864,7 +34864,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -34899,11 +34899,11 @@
   "stem": "shanghai_liberal",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -34922,7 +34922,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -35012,11 +35012,11 @@
   "stem": "shanghai_liberal",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -35030,11 +35030,11 @@
   "stem": "shanghai_liberal",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "计数原理"
   ],
@@ -35051,7 +35051,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -35088,12 +35088,12 @@
   "qidx": 17,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "逻辑推理",
@@ -35206,7 +35206,7 @@
    "数列",
    "集合",
    "常用逻辑用语",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "计数原理"
   ],
@@ -35223,12 +35223,12 @@
   "stem": "shanghai_liberal",
   "qidx": 23,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "集合",
    "函数概念与性质",
    "复数"
@@ -35246,12 +35246,12 @@
   "stem": "shanghai_science",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -35364,7 +35364,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -35416,11 +35416,11 @@
   "stem": "shanghai_science",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -35434,11 +35434,11 @@
   "stem": "shanghai_science",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "计数原理"
   ],
@@ -35473,7 +35473,7 @@
   "qidx": 13,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -35515,7 +35515,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -35559,7 +35559,7 @@
    "数列",
    "微积分（选修）",
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -35666,12 +35666,12 @@
   "stem": "shanghai_science",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "集合",
    "函数概念与性质",
    "复数"
@@ -35731,11 +35731,11 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -35787,7 +35787,7 @@
   "qidx": 5,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -35883,7 +35883,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -35899,11 +35899,11 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -35917,11 +35917,11 @@
   "stem": "shanghai_spring",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "直线与圆"
   ],
@@ -35995,11 +35995,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -36088,7 +36088,7 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -36107,11 +36107,11 @@
   "stem": "shanghai_spring",
   "qidx": 22,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -36147,7 +36147,7 @@
   "qidx": 24,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -36193,7 +36193,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -36237,7 +36237,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -36255,7 +36255,7 @@
   "qidx": 29,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -36400,7 +36400,7 @@
    "数列",
    "集合",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数",
    "计数原理"
   ],
@@ -36418,7 +36418,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -36453,12 +36453,12 @@
   "stem": "shanghai",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -36554,7 +36554,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -36614,7 +36614,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -36630,7 +36630,7 @@
   "qidx": 12,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -36651,11 +36651,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理",
    "矩阵与变换"
   ],
@@ -36695,7 +36695,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -36714,11 +36714,11 @@
   "stem": "shanghai",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "集合",
    "直线与圆",
@@ -36765,7 +36765,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -36782,11 +36782,11 @@
   "stem": "shanghai",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数列",
    "复数",
    "计数原理"
@@ -36827,11 +36827,11 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "函数概念与性质",
    "复数"
@@ -36851,7 +36851,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -36868,12 +36868,12 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -36924,11 +36924,11 @@
   "stem": "shanghai_spring",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -36961,11 +36961,11 @@
   "stem": "shanghai_spring",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
@@ -37082,7 +37082,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -37098,7 +37098,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -37235,11 +37235,11 @@
   "stem": "shanghai_spring",
   "qidx": 21,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "数列",
    "复数"
@@ -37317,7 +37317,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学抽象",
@@ -37368,11 +37368,11 @@
   "stem": "shanghai",
   "qidx": 7,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -37387,11 +37387,11 @@
   "stem": "shanghai",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量"
   ],
   "comp": [
@@ -37466,11 +37466,11 @@
   "stem": "shanghai",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -37506,7 +37506,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -37586,7 +37586,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -37607,7 +37607,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -37624,7 +37624,7 @@
   "qidx": 20,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -37671,12 +37671,12 @@
   "stem": "shanghai_spring",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -37710,7 +37710,7 @@
   "qidx": 3,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -37930,7 +37930,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -37973,7 +37973,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -38039,11 +38039,11 @@
   "stem": "shanghai_spring",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -38083,7 +38083,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -38155,11 +38155,11 @@
   "stem": "shanghai",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -38178,7 +38178,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -38194,11 +38194,11 @@
   "stem": "shanghai",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -38299,7 +38299,7 @@
   "qidx": 12,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -38423,12 +38423,12 @@
   "stem": "shanghai",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "复数"
   ],
@@ -38516,7 +38516,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -38551,12 +38551,12 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -38607,11 +38607,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -38679,11 +38679,11 @@
   "stem": "shanghai_spring",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -38719,7 +38719,7 @@
   "qidx": 12,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -38759,7 +38759,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语"
@@ -38801,7 +38801,7 @@
   "matched": [
    "直线与圆",
    "圆锥曲线",
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "直观想象",
@@ -38907,7 +38907,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -38978,11 +38978,11 @@
   "stem": "shanghai",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -39091,7 +39091,7 @@
   "qidx": 11,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -39111,11 +39111,11 @@
   "stem": "shanghai",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量"
   ],
   "comp": [
@@ -39131,11 +39131,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -39189,13 +39189,13 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "逻辑推理",
@@ -39237,8 +39237,8 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -39255,11 +39255,11 @@
   "stem": "shanghai",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -39321,7 +39321,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -39338,12 +39338,12 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -39363,7 +39363,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -39506,11 +39506,11 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量"
   ],
   "comp": [
@@ -39563,7 +39563,7 @@
   "qidx": 14,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -39652,7 +39652,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -39716,11 +39716,11 @@
   "qidx": 21,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "常用逻辑用语",
    "复数"
@@ -39757,7 +39757,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -39847,11 +39847,11 @@
   "stem": "shanghai",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -39944,11 +39944,11 @@
   "stem": "shanghai",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -39962,11 +39962,11 @@
   "stem": "shanghai",
   "qidx": 13,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -40000,7 +40000,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -40021,11 +40021,11 @@
   "stem": "shanghai",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -40125,11 +40125,11 @@
   "stem": "shanghai",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -40183,12 +40183,12 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -40241,11 +40241,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -40264,7 +40264,7 @@
   "module": "选择性必修",
   "matched": [
    "计数原理",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "逻辑推理",
@@ -40278,11 +40278,11 @@
   "stem": "shanghai_spring",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -40362,7 +40362,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语"
   ],
   "comp": [
@@ -40402,7 +40402,7 @@
   "qidx": 14,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -40425,7 +40425,7 @@
   "matched": [
    "函数概念与性质",
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
@@ -40442,7 +40442,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -40533,7 +40533,7 @@
   "matched": [
    "函数概念与性质",
    "常用逻辑用语",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -40554,7 +40554,7 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
    "复数",
    "计数原理"
@@ -40614,7 +40614,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -40666,11 +40666,11 @@
   "stem": "shanghai",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -40797,7 +40797,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -40814,11 +40814,11 @@
   "stem": "shanghai",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -40833,7 +40833,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -40854,7 +40854,7 @@
   "qidx": 16,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -40895,12 +40895,12 @@
   "stem": "shanghai",
   "qidx": 18,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
    "复数"
   ],
@@ -40917,11 +40917,11 @@
   "stem": "shanghai",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "空间向量与立体几何",
    "直线与圆"
@@ -40945,7 +40945,7 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "圆锥曲线",
    "平面向量",
@@ -41006,7 +41006,7 @@
   "qidx": 2,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -41023,12 +41023,12 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -41061,11 +41061,11 @@
   "stem": "shanghai_spring",
   "qidx": 5,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -41152,11 +41152,11 @@
   "stem": "shanghai_spring",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量"
   ],
@@ -41173,11 +41173,11 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "圆锥曲线"
   ],
   "comp": [
@@ -41199,7 +41199,7 @@
   "matched": [
    "函数概念与性质",
    "微积分（选修）",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "直线与圆"
   ],
   "comp": [
@@ -41331,7 +41331,7 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -41348,11 +41348,11 @@
   "stem": "shanghai_spring",
   "qidx": 20,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "圆锥曲线",
    "三角函数",
@@ -41372,15 +41372,15 @@
   "stem": "shanghai_spring",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "常用逻辑用语",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -41396,12 +41396,12 @@
   "stem": "shanghai",
   "qidx": 1,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -41563,11 +41563,11 @@
   "stem": "shanghai",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "计数原理"
   ],
   "comp": [
@@ -41582,11 +41582,11 @@
   "stem": "shanghai",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "立体几何初步",
    "空间向量与立体几何"
@@ -41623,7 +41623,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -41663,7 +41663,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -41791,10 +41791,10 @@
   "matched": [
    "数列",
    "常用逻辑用语",
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆",
    "计数原理"
@@ -41813,7 +41813,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -41848,11 +41848,11 @@
   "stem": "shanghai_spring",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -41903,11 +41903,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -41921,11 +41921,11 @@
   "stem": "shanghai_spring",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "统计",
    "概率"
   ],
@@ -41961,11 +41961,11 @@
   "stem": "shanghai_spring",
   "qidx": 9,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -42018,11 +42018,11 @@
   "stem": "shanghai_spring",
   "qidx": 12,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "平面向量",
    "空间向量与立体几何"
   ],
@@ -42059,11 +42059,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "数学建模与应用"
   ],
   "comp": [
@@ -42167,7 +42167,7 @@
   "matched": [
    "立体几何初步",
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理"
   ],
@@ -42206,15 +42206,15 @@
   "stem": "shanghai_spring",
   "qidx": 21,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "直线与圆",
    "常用逻辑用语",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数"
   ],
   "comp": [
@@ -42232,7 +42232,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -42267,12 +42267,12 @@
   "stem": "shanghai",
   "qidx": 3,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -42401,11 +42401,11 @@
   "qidx": 10,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学抽象",
@@ -42485,7 +42485,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质"
   ],
   "comp": [
@@ -42503,7 +42503,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -42529,7 +42529,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
    "常用逻辑用语"
   ],
@@ -42573,9 +42573,9 @@
   "module": "选择性必修",
   "matched": [
    "数列",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -42636,12 +42636,12 @@
   "stem": "shanghai",
   "qidx": 21,
   "primary": "deriv",
-  "primary_name": "导数",
+  "primary_name": "一元函数导数及其应用",
   "theme": "函数",
   "module": "选择性必修",
   "matched": [
-   "导数",
-   "不等式与方程",
+   "一元函数导数及其应用",
+   "相等关系与不等关系",
    "函数概念与性质",
    "集合",
    "常用逻辑用语",
@@ -42663,11 +42663,11 @@
   "stem": "shanghai_spring",
   "qidx": 1,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "函数概念与性质"
   ],
   "comp": [
@@ -42749,11 +42749,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -42882,11 +42882,11 @@
   "stem": "shanghai_spring",
   "qidx": 13,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -42919,7 +42919,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -42945,7 +42945,7 @@
   "module": "必修",
   "matched": [
    "函数概念与性质",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学抽象",
@@ -42966,7 +42966,7 @@
   "matched": [
    "三角函数",
    "函数概念与性质",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -43053,11 +43053,11 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "复数"
   ],
@@ -43075,7 +43075,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -43092,12 +43092,12 @@
   "stem": "shanghai",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -43206,11 +43206,11 @@
   "stem": "shanghai",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -43247,7 +43247,7 @@
   "module": "必修",
   "matched": [
    "复数",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -43301,7 +43301,7 @@
   "qidx": 13,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -43331,11 +43331,11 @@
   "stem": "shanghai",
   "qidx": 15,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -43417,12 +43417,12 @@
   "stem": "shanghai",
   "qidx": 19,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数",
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数",
    "常用逻辑用语",
    "函数概念与性质",
    "复数"
@@ -43471,7 +43471,7 @@
    "函数概念与性质",
    "集合",
    "三角函数",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -43488,7 +43488,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -43505,12 +43505,12 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -43616,12 +43616,12 @@
   "stem": "shanghai_spring",
   "qidx": 8,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -43642,7 +43642,7 @@
   "matched": [
    "立体几何初步",
    "直线与圆",
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "直观想象",
@@ -43678,11 +43678,11 @@
   "stem": "shanghai_spring",
   "qidx": 11,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
    "圆锥曲线"
   ],
@@ -43705,7 +43705,7 @@
   "module": "必修",
   "matched": [
    "平面向量",
-   "不等式与方程",
+   "相等关系与不等关系",
    "立体几何初步"
   ],
   "comp": [
@@ -43742,11 +43742,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "elemfunc",
-  "primary_name": "基本初等函数",
+  "primary_name": "幂函数、指数函数、对数函数",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "基本初等函数"
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -43779,11 +43779,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数"
   ],
   "comp": [
@@ -43825,7 +43825,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -43900,7 +43900,7 @@
    "函数概念与性质",
    "常用逻辑用语",
    "集合",
-   "基本初等函数",
+   "幂函数、指数函数、对数函数",
    "复数"
   ],
   "comp": [
@@ -43917,7 +43917,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -44026,11 +44026,11 @@
   "stem": "shanghai",
   "qidx": 7,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -44106,7 +44106,7 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "导数"
+   "一元函数导数及其应用"
   ],
   "comp": [
    "数学运算",
@@ -44156,7 +44156,7 @@
   "qidx": 14,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -44174,7 +44174,7 @@
   "qidx": 15,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -44219,7 +44219,7 @@
   "module": "选择性必修",
   "matched": [
    "统计",
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数",
    "计数原理",
    "概率"
@@ -44265,10 +44265,10 @@
   "module": "选择性必修",
   "matched": [
    "直线与圆",
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "立体几何初步"
   ],
@@ -44312,7 +44312,7 @@
   "qidx": 21,
   "primary": "logic",
   "primary_name": "常用逻辑用语",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "常用逻辑用语",
@@ -44333,7 +44333,7 @@
   "qidx": 1,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合"
@@ -44350,12 +44350,12 @@
   "stem": "shanghai_spring",
   "qidx": 2,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
-   "基本初等函数"
+   "相等关系与不等关系",
+   "幂函数、指数函数、对数函数"
   ],
   "comp": [
    "数学运算",
@@ -44426,11 +44426,11 @@
   "stem": "shanghai_spring",
   "qidx": 6,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -44483,11 +44483,11 @@
   "stem": "shanghai_spring",
   "qidx": 9,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "复数"
   ],
   "comp": [
@@ -44503,11 +44503,11 @@
   "stem": "shanghai_spring",
   "qidx": 10,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量"
   ],
@@ -44582,11 +44582,11 @@
   "stem": "shanghai_spring",
   "qidx": 14,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程"
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
@@ -44601,7 +44601,7 @@
   "qidx": 15,
   "primary": "set",
   "primary_name": "集合",
-  "theme": "函数",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
    "集合",
@@ -44622,11 +44622,11 @@
   "stem": "shanghai_spring",
   "qidx": 16,
   "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary_name": "相等关系与不等关系",
+  "theme": "预备知识",
   "module": "必修",
   "matched": [
-   "不等式与方程",
+   "相等关系与不等关系",
    "集合",
    "常用逻辑用语",
    "函数概念与性质"
@@ -44692,9 +44692,9 @@
   "module": "必修",
   "matched": [
    "三角函数",
-   "不等式与方程",
+   "相等关系与不等关系",
    "函数概念与性质",
-   "导数",
+   "一元函数导数及其应用",
    "复数",
    "直线与圆"
   ],
