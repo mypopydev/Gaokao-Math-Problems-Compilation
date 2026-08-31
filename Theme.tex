@@ -1,0 +1,28 @@
+% 分主题分册（题目册）：正文由 tools/make-theme-body.py 生成，
+% 经 tmp/theme/driver-<id>.tex 通过 \themebodyfile 注入，构建见 Makefile 的
+% pdf-theme 目标。答案册为 Theme-answer.tex，二者仅 \showanswer 开关不同。
+\documentclass[12pt, oneside, UTF8]{ctexbook}
+
+\input{styles.tex}
+\input{theme-styles.tex}
+
+\showanswerfalse
+
+\tallpagefalse
+
+\begin{document}
+
+\ifx\themebodyfile\undefined
+    \errmessage{Theme.tex: \noexpand\themebodyfile 未定义，
+        请通过 tmp/theme/driver-<id>.tex 编译}
+\fi
+
+\frontmatter
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+\mainmatter
+
+\input{\themebodyfile}
+
+\end{document}

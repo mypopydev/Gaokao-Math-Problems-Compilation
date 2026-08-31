@@ -35,6 +35,15 @@
 /Compilation-answer-*.toc
 /Compilation-answer-*.xdv
 /Compilation-answer-*.synctex.gz
+
+# 分主题分册（make pdf-theme）构建产物；Theme.tex / Theme-answer.tex 为源文件
+/Theme-*.aux
+/Theme-*.fdb_latexmk
+/Theme-*.fls
+/Theme-*.log
+/Theme-*.toc
+/Theme-*.xdv
+/Theme-*.synctex.gz
 /missfont.log
 
 # 发布分支不收录的开发资料

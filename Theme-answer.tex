@@ -1,0 +1,26 @@
+% 分主题分册（答案册）：题目 + 答案/解析，与 Theme.tex 共用同一份正文。
+\documentclass[12pt, oneside, UTF8]{ctexbook}
+
+\input{styles.tex}
+\input{theme-styles.tex}
+
+\showanswertrue
+
+\tallpagefalse
+
+\begin{document}
+
+\ifx\themebodyfile\undefined
+    \errmessage{Theme-answer.tex: \noexpand\themebodyfile 未定义，
+        请通过 tmp/theme/driver-answer-<id>.tex 编译}
+\fi
+
+\frontmatter
+\setcounter{tocdepth}{1}
+\tableofcontents
+
+\mainmatter
+
+\input{\themebodyfile}
+
+\end{document}

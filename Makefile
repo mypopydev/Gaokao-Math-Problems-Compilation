@@ -31,7 +31,17 @@ JOBNAME_MAIN := -jobname=Compilation-$(AREA)
 JOBNAME_ANSWER := -jobname=Compilation-answer-$(AREA)
 endif
 
-.PHONY: all pdf pdf-main pdf-answer image-layout math-fonts body-index clean
+# 分主题分册（课标5主题 + 未分类附录），题目册 + 答案册共 12 个 PDF。
+# 依赖 tools/make-theme-body.py 生成 tmp/theme/body-*.tex 与 driver-*.tex，
+# 再由子 make 循环编译各册。
+THEME_TOOL := tools/make-theme-body.py
+THEME_DIR := tmp/theme
+THEME_NAMES_MK := $(THEME_DIR)/theme-names.mk
+THEME_AREA ?= shanghai
+-include $(THEME_NAMES_MK)
+
+.PHONY: all pdf pdf-main pdf-answer image-layout math-fonts body-index clean \
+        pdf-theme theme-index theme-compile
 
 all: pdf
 
@@ -66,6 +76,25 @@ image-layout:
 crop-ui:
 	go run ./tools/crop/manualcrop -root . -addr 127.0.0.1:8766 -open
 
+# --- 分主题分册 ---
+pdf-theme: math-fonts image-layout
+	@python3 $(THEME_TOOL) --area $(THEME_AREA) --outdir $(THEME_DIR)
+	@$(MAKE) --no-print-directory theme-compile
+
+theme-index:
+	python3 $(THEME_TOOL) --area $(THEME_AREA) --outdir $(THEME_DIR)
+
+theme-compile: $(foreach i,$(THEME_IDS),theme-pdf-$(i) theme-answer-pdf-$(i))
+
+theme-pdf-%: $(THEME_DIR)/driver-%.tex Theme.tex theme-styles.tex
+	$(LATEXMK) $(LATEXMK_FLAGS) -jobname=Theme-$*-$(THEME_NAME_$*) $(THEME_DIR)/driver-$*.tex
+
+theme-answer-pdf-%: $(THEME_DIR)/driver-answer-%.tex Theme-answer.tex theme-styles.tex
+	$(LATEXMK) $(LATEXMK_FLAGS) -jobname=Theme-answer-$*-$(THEME_NAME_$*) $(THEME_DIR)/driver-answer-$*.tex
+
 clean:
 	$(LATEXMK) -C $(JOBNAME_MAIN) Compilation.tex
 	$(LATEXMK) -C $(JOBNAME_ANSWER) Compilation-answer.tex
+	@for ext in aux fdb_latexmk fls log toc xdv synctex.gz pdf; do \
+		rm -f Theme-*."$$ext" Theme-answer-*."$$ext"; \
+	done

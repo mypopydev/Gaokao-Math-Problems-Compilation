@@ -77,6 +77,40 @@ make pdf AREA=shanghai
 > 清理时若指定了 `AREA`，`make clean AREA=shanghai` 只清理该子集产物；
 > 不带 `AREA` 的 `make clean` 清理默认（全文）产物。
 
+### 按课标主题分册编译
+
+`make pdf-theme` 按《普通高中数学课程标准（2017 年版 2025 年修订）》的 5 个主题
+重组题目，每册按年份倒序编排（同一年份下按原卷顺序）：
+
+```bash
+make pdf-theme                      # 默认 THEME_AREA=shanghai
+make pdf-theme THEME_AREA=beijing   # 其它地区（需已有对应分类结果）
+```
+
+生成 6 册题目 + 6 册答案，共 12 个 PDF：
+
+| 分册 | 主题 | 上海卷题数 |
+| --- | --- | --- |
+| `Theme-1-预备知识.pdf` | 主题一 预备知识 | 477 |
+| `Theme-2-函数.pdf` | 主题二 函数 | 798 |
+| `Theme-3-几何与代数.pdf` | 主题三 几何与代数 | 759 |
+| `Theme-4-概率与统计.pdf` | 主题四 概率与统计 | 190 |
+| `Theme-5-数学建模活动与数学探究活动.pdf` | 主题五 数学建模活动与数学探究活动 | 17 |
+| `Theme-0-未分类.pdf` | 附录 未分类 | 20 |
+
+对应的答案册为 `Theme-answer-<id>-<主题>.pdf`，内容为「题目 + 答案/解析」。
+
+每册要点：
+
+- **题号**沿用原试卷题号，题首灰色小字标注题源，形如 `（2022·上海·秋·7）`；
+- **非课标**内容（微积分、矩阵与行列式、参数方程、算法初步等，上海卷共 74 题）
+  仍按内容相近的主题归册，并在题源后标 `△非课标`；
+- 分类结果来自 `docs/classify/classification.json`（由
+  `python3 docs/classify/classify.py --all` 生成），正文由
+  `tools/make-theme-body.py` 抽取重组，分册入口为 `Theme.tex` /
+  `Theme-answer.tex`，专用宏在 `theme-styles.tex`。
+
+
 > 注意：数学字体（TeX Gyre Termes Math、STIX、Latin Modern Math、Asana Math）
 > 在编译前由 `make` 调用 `tools/texlive-font-paths.sh` 生成 `tmp/math-fonts.tex`。
 > 直接运行 `xelatex`（不走 `make`）时，`styles.tex` 会回退到按字体名加载，这在
