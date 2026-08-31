@@ -44,11 +44,17 @@ def extract_problems(path):
 
 def classify(text, taxo):
     text = text or ""
-    # 归一化：避免 '\i'(虚数单位) 误命中 '\in'(属于) 与 '\bs{i}'(向量基)
+    # 归一化：避免关键词在中文/LaTeX 常用词中的子串误命中
+    # - '\i'(虚数单位) vs '\in'(属于) / '\bs{i}'(向量基)
+    # - '\bar' 补集 vs 共轭：taxonomy 已用 '\bar z' 精确化
     text = text.replace("\\in", "∈elem").replace("\\bs{i}", "𝐛𝐢𝐬")
+    # 中文歧义保护：'复数' 若嵌在 '重复数字/重复数据' 中(如"无重复数字")则不算命中
+    fushu_allowed = "重复数字" not in text and "重复数据" not in text
     scored = []
     for u in taxo["units"]:
-        hits = [kw for kw in u["kw"] if kw in text]
+        hits = [kw for kw in u["kw"]
+                if (kw == "复数" and fushu_allowed and kw in text) or
+                   (kw != "复数" and kw in text)]
         if hits:
             scored.append((u, len(hits), hits))
     scored.sort(key=lambda x: (-x[1], taxo["units"].index(x[0])))
