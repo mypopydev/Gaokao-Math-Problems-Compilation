@@ -14407,14 +14407,20 @@
   "year": 2001,
   "stem": "shanghai_liberal",
   "qidx": 12,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动",
+  "module": "选修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平3",
+  "note": ""
  },
  {
   "year": 2001,
@@ -14848,14 +14854,20 @@
   "year": 2001,
   "stem": "shanghai_science",
   "qidx": 12,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动",
+  "module": "选修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平3",
+  "note": ""
  },
  {
   "year": 2001,
@@ -15801,14 +15813,20 @@
   "year": 2002,
   "stem": "shanghai_liberal",
   "qidx": 16,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动",
+  "module": "选修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平3",
+  "note": ""
  },
  {
   "year": 2002,
@@ -16254,12 +16272,15 @@
   "module": "必修",
   "matched": [
    "常用逻辑用语",
-   "不等式与方程"
+   "不等式与方程",
+   "数学建模与应用"
   ],
   "comp": [
    "逻辑推理",
    "数学抽象",
-   "数学运算"
+   "数学运算",
+   "数学建模",
+   "数据分析"
   ],
   "level": "水平1-2",
   "note": ""
@@ -18478,14 +18499,20 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 16,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动",
+  "module": "选修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平3",
+  "note": ""
  },
  {
   "year": 2004,
@@ -18911,14 +18938,20 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 16,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "modeling",
+  "primary_name": "数学建模与应用",
+  "theme": "数学建模活动",
+  "module": "选修",
+  "matched": [
+   "数学建模与应用"
+  ],
+  "comp": [
+   "数学建模",
+   "数据分析",
+   "数学运算"
+  ],
+  "level": "水平3",
+  "note": ""
  },
  {
   "year": 2004,
@@ -31907,22 +31940,22 @@
   "year": 2014,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
+  "primary": "inequality",
+  "primary_name": "不等式与方程",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "常用逻辑用语",
    "不等式与方程",
+   "常用逻辑用语",
    "基本初等函数",
    "直线与圆",
    "计数原理",
    "矩阵与变换"
   ],
   "comp": [
+   "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "数学运算"
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -32351,20 +32384,20 @@
   "year": 2014,
   "stem": "shanghai_science",
   "qidx": 17,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
+  "primary": "inequality",
+  "primary_name": "不等式与方程",
   "theme": "函数",
   "module": "必修",
   "matched": [
-   "常用逻辑用语",
    "不等式与方程",
+   "常用逻辑用语",
    "基本初等函数",
    "直线与圆"
   ],
   "comp": [
+   "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "数学运算"
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -38573,14 +38606,19 @@
   "year": 2019,
   "stem": "shanghai_spring",
   "qidx": 6,
-  "primary": null,
-  "primary_name": "未分类",
-  "theme": "",
-  "module": "",
-  "matched": [],
-  "comp": [],
-  "level": "",
-  "note": "无可匹配关键词"
+  "primary": "inequality",
+  "primary_name": "不等式与方程",
+  "theme": "函数",
+  "module": "必修",
+  "matched": [
+   "不等式与方程"
+  ],
+  "comp": [
+   "数学运算",
+   "逻辑推理"
+  ],
+  "level": "水平1-2",
+  "note": ""
  },
  {
   "year": 2019,

@@ -737,7 +737,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2001	shanghai_liberal	9	三角函数	函数	必修	三角函数	数学运算;直观想象	水平1-2	
 2001	shanghai_liberal	10	计数原理	概率与统计	选择性必修	计数原理;概率;数学建模与应用	逻辑推理;数学运算;数据分析;数学建模	水平2-3	
 2001	shanghai_liberal	11	常用逻辑用语	函数	必修	常用逻辑用语;函数概念与性质;复数;直线与圆	逻辑推理;数学抽象;数学运算	水平1-2	
-2001	shanghai_liberal	12	未分类						无可匹配关键词
+2001	shanghai_liberal	12	数学建模与应用	数学建模活动	选修	数学建模与应用	数学建模;数据分析;数学运算	水平3	
 2001	shanghai_liberal	13	常用逻辑用语	函数	必修	常用逻辑用语;立体几何初步;直线与圆	逻辑推理;数学抽象;直观想象;数学运算	水平1-2	
 2001	shanghai_liberal	14	平面向量	几何与代数	必修	平面向量;立体几何初步	数学运算;直观想象	水平1-2	
 2001	shanghai_liberal	15	常用逻辑用语	函数	必修	常用逻辑用语;直线与圆	逻辑推理;数学抽象;直观想象;数学运算	水平1-2	
@@ -759,7 +759,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2001	shanghai_science	9	三角函数	函数	必修	三角函数	数学运算;直观想象	水平1-2	
 2001	shanghai_science	10	三角函数	函数	必修	三角函数;平面向量;直线与圆	数学运算;直观想象	水平1-2	
 2001	shanghai_science	11	常用逻辑用语	函数	必修	常用逻辑用语;函数概念与性质;复数;直线与圆	逻辑推理;数学抽象;数学运算	水平1-2	
-2001	shanghai_science	12	未分类						无可匹配关键词
+2001	shanghai_science	12	数学建模与应用	数学建模活动	选修	数学建模与应用	数学建模;数据分析;数学运算	水平3	
 2001	shanghai_science	13	常用逻辑用语	函数	必修	常用逻辑用语;立体几何初步;直线与圆	逻辑推理;数学抽象;直观想象;数学运算	水平1-2	
 2001	shanghai_science	14	平面向量	几何与代数	必修	平面向量;立体几何初步	数学运算;直观想象	水平1-2	
 2001	shanghai_science	15	常用逻辑用语	函数	必修	常用逻辑用语;直线与圆	逻辑推理;数学抽象;直观想象;数学运算	水平1-2	
@@ -807,7 +807,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2002	shanghai_liberal	13	集合	函数	必修	集合;复数	数学抽象;数学运算	水平1-2	
 2002	shanghai_liberal	14	常用逻辑用语	函数	必修	常用逻辑用语;复数;直线与圆	逻辑推理;数学抽象;数学运算;直观想象	水平1-2	
 2002	shanghai_liberal	15	三角函数	函数	必修	三角函数	数学运算;直观想象	水平1-2	
-2002	shanghai_liberal	16	未分类						无可匹配关键词
+2002	shanghai_liberal	16	数学建模与应用	数学建模活动	选修	数学建模与应用	数学建模;数据分析;数学运算	水平3	
 2002	shanghai_liberal	17	三角函数	函数	必修	三角函数;立体几何初步	数学运算;直观想象	水平1-2	
 2002	shanghai_liberal	18	空间向量与立体几何	几何与代数	选择性必修	空间向量与立体几何;直线与圆	直观想象;数学运算	水平2-3	
 2002	shanghai_liberal	19	不等式与方程	函数	必修	不等式与方程;函数概念与性质;导数;复数	数学运算;逻辑推理;数学抽象	水平1-2	
@@ -829,7 +829,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2002	shanghai_science	13	集合	函数	必修	集合;复数;直线与圆	数学抽象;数学运算;直观想象	水平1-2	
 2002	shanghai_science	14	立体几何初步	几何与代数	必修	立体几何初步;常用逻辑用语;复数;直线与圆	直观想象;数学运算;逻辑推理;数学抽象	水平1-2	
 2002	shanghai_science	15	导数	函数	选择性必修	导数;三角函数;函数概念与性质	数学运算;逻辑推理;直观想象;数学抽象	水平2-3	
-2002	shanghai_science	16	常用逻辑用语	函数	必修	常用逻辑用语;不等式与方程	逻辑推理;数学抽象;数学运算	水平1-2	
+2002	shanghai_science	16	常用逻辑用语	函数	必修	常用逻辑用语;不等式与方程;数学建模与应用	逻辑推理;数学抽象;数学运算;数学建模;数据分析	水平1-2	
 2002	shanghai_science	17	三角函数	函数	必修	三角函数;立体几何初步	数学运算;直观想象	水平1-2	
 2002	shanghai_science	18	空间向量与立体几何	几何与代数	选择性必修	空间向量与立体几何;直线与圆	直观想象;数学运算	水平2-3	
 2002	shanghai_science	19	三角函数	函数	必修	三角函数;不等式与方程;函数概念与性质;导数;复数	数学运算;直观想象;逻辑推理;数学抽象	水平1-2	
@@ -939,7 +939,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2004	shanghai_liberal	13	集合	函数	必修	集合;常用逻辑用语;直线与圆	数学抽象;数学运算;逻辑推理;直观想象	水平1-2	
 2004	shanghai_liberal	14	三角函数	函数	必修	三角函数;不等式与方程;基本初等函数	数学运算;直观想象;逻辑推理;数学抽象	水平1-2	
 2004	shanghai_liberal	15	函数概念与性质	函数	必修	函数概念与性质;直线与圆	数学抽象;数学运算;直观想象	水平1-2	
-2004	shanghai_liberal	16	未分类						无可匹配关键词
+2004	shanghai_liberal	16	数学建模与应用	数学建模活动	选修	数学建模与应用	数学建模;数据分析;数学运算	水平3	
 2004	shanghai_liberal	17	复数	几何与代数	必修	复数	数学运算;数学抽象	水平1-2	
 2004	shanghai_liberal	18	未分类						无可匹配关键词
 2004	shanghai_liberal	19	函数概念与性质	函数	必修	函数概念与性质;复数	数学抽象;数学运算	水平1-2	
@@ -961,7 +961,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2004	shanghai_science	13	集合	函数	必修	集合;常用逻辑用语;直线与圆	数学抽象;数学运算;逻辑推理;直观想象	水平1-2	
 2004	shanghai_science	14	三角函数	函数	必修	三角函数;不等式与方程;基本初等函数	数学运算;直观想象;逻辑推理;数学抽象	水平1-2	
 2004	shanghai_science	15	函数概念与性质	函数	必修	函数概念与性质;平面向量	数学抽象;数学运算;直观想象	水平1-2	
-2004	shanghai_science	16	未分类						无可匹配关键词
+2004	shanghai_science	16	数学建模与应用	数学建模活动	选修	数学建模与应用	数学建模;数据分析;数学运算	水平3	
 2004	shanghai_science	17	复数	几何与代数	必修	复数	数学运算;数学抽象	水平1-2	
 2004	shanghai_science	18	未分类						无可匹配关键词
 2004	shanghai_science	19	函数概念与性质	函数	必修	函数概念与性质;复数	数学抽象;数学运算	水平1-2	
@@ -1616,7 +1616,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2014	shanghai_liberal	15	常用逻辑用语	函数	必修	常用逻辑用语	逻辑推理;数学抽象	水平1-2	
 2014	shanghai_liberal	16	集合	函数	必修	集合;复数	数学抽象;数学运算	水平1-2	
 2014	shanghai_liberal	17	平面向量	几何与代数	必修	平面向量	数学运算;直观想象	水平1-2	
-2014	shanghai_liberal	18	常用逻辑用语	函数	必修	常用逻辑用语;不等式与方程;基本初等函数;直线与圆;计数原理;矩阵与变换	逻辑推理;数学抽象;数学运算	水平1-2	
+2014	shanghai_liberal	18	不等式与方程	函数	必修	不等式与方程;常用逻辑用语;基本初等函数;直线与圆;计数原理;矩阵与变换	数学运算;逻辑推理;数学抽象	水平1-2	
 2014	shanghai_liberal	19	立体几何初步	几何与代数	必修	立体几何初步;直线与圆;三角函数;平面向量	直观想象;数学运算	水平1-2	
 2014	shanghai_liberal	20	函数概念与性质	函数	必修	函数概念与性质;基本初等函数;复数	数学抽象;数学运算	水平1-2	
 2014	shanghai_liberal	21	三角函数	函数	必修	三角函数;导数;复数;直线与圆	数学运算;直观想象;逻辑推理;数学抽象	水平1-2	
@@ -1638,7 +1638,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2014	shanghai_science	14	常用逻辑用语	函数	必修	常用逻辑用语;平面向量;直线与圆	逻辑推理;数学抽象;数学运算;直观想象	水平1-2	
 2014	shanghai_science	15	常用逻辑用语	函数	必修	常用逻辑用语	逻辑推理;数学抽象	水平1-2	
 2014	shanghai_science	16	立体几何初步	几何与代数	必修	立体几何初步;平面向量	直观想象;数学运算	水平1-2	
-2014	shanghai_science	17	常用逻辑用语	函数	必修	常用逻辑用语;不等式与方程;基本初等函数;直线与圆	逻辑推理;数学抽象;数学运算	水平1-2	
+2014	shanghai_science	17	不等式与方程	函数	必修	不等式与方程;常用逻辑用语;基本初等函数;直线与圆	数学运算;逻辑推理;数学抽象	水平1-2	
 2014	shanghai_science	18	不等式与方程	函数	必修	不等式与方程;函数概念与性质	数学运算;逻辑推理;数学抽象	水平1-2	
 2014	shanghai_science	19	立体几何初步	几何与代数	必修	立体几何初步;三角函数	直观想象;数学运算	水平1-2	
 2014	shanghai_science	20	函数概念与性质	函数	必修	函数概念与性质;复数	数学抽象;数学运算	水平1-2	
@@ -1951,7 +1951,7 @@ year	stem	qidx	primary_unit	theme	module	matched_units	competencies	level	note
 2019	shanghai_spring	3	不等式与方程	函数	必修	不等式与方程;基本初等函数	数学运算;逻辑推理;数学抽象	水平1-2	
 2019	shanghai_spring	4	函数概念与性质	函数	必修	函数概念与性质	数学抽象;数学运算	水平1-2	
 2019	shanghai_spring	5	复数	几何与代数	必修	复数	数学运算;数学抽象	水平1-2	
-2019	shanghai_spring	6	未分类						无可匹配关键词
+2019	shanghai_spring	6	不等式与方程	函数	必修	不等式与方程	数学运算;逻辑推理	水平1-2	
 2019	shanghai_spring	7	计数原理	概率与统计	选择性必修	计数原理	逻辑推理;数学运算	水平2-3	
 2019	shanghai_spring	8	三角函数	函数	必修	三角函数	数学运算;直观想象	水平1-2	
 2019	shanghai_spring	9	计数原理	概率与统计	选择性必修	计数原理	逻辑推理;数学运算	水平2-3	
