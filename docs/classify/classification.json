@@ -606,20 +606,20 @@
   "year": 1985,
   "stem": "shanghai_liberal",
   "qidx": 14,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
    "立体几何初步",
+   "直线与圆",
    "空间向量与立体几何"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -948,18 +948,18 @@
   "year": 1985,
   "stem": "shanghai_science",
   "qidx": 10,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
   "module": "必修",
   "matched": [
+   "立体几何初步",
    "三角函数",
-   "平面向量",
-   "立体几何初步"
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
-   "直观想象"
+   "直观想象",
+   "数学运算"
   ],
   "level": "水平1-2",
   "note": ""
@@ -1701,19 +1701,19 @@
   "year": 1986,
   "stem": "shanghai_liberal",
   "qidx": 27,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
-   "立体几何初步"
+   "立体几何初步",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -2348,19 +2348,19 @@
   "year": 1986,
   "stem": "shanghai_science",
   "qidx": 26,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
-   "立体几何初步"
+   "立体几何初步",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -2615,19 +2615,19 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 5,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
-   "立体几何初步"
+   "立体几何初步",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -3173,20 +3173,20 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 5,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
-   "三角函数",
-   "立体几何初步"
+   "三角函数"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -3967,20 +3967,20 @@
   "year": 1989,
   "stem": "shanghai",
   "qidx": 19,
-  "primary": "inequality",
-  "primary_name": "不等式与方程",
-  "theme": "函数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
   "module": "必修",
   "matched": [
+   "立体几何初步",
    "不等式与方程",
    "三角函数",
-   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
   "level": "水平1-2",
   "note": ""
@@ -4680,22 +4680,22 @@
   "year": 1990,
   "stem": "shanghai",
   "qidx": 27,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "complex",
+  "primary_name": "复数",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "复数",
    "直线与圆",
-   "不等式与方程",
-   "复数"
+   "不等式与方程"
   ],
   "comp": [
-   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "直观想象",
+   "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -5210,17 +5210,16 @@
   "module": "必修",
   "matched": [
    "不等式与方程",
+   "立体几何初步",
    "三角函数",
    "函数概念与性质",
    "复数",
-   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "数学运算",
    "逻辑推理",
-   "直观想象",
-   "数学抽象"
+   "直观想象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -5339,18 +5338,19 @@
   "year": 1992,
   "stem": "shanghai",
   "qidx": 7,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -5855,18 +5855,19 @@
   "year": 1993,
   "stem": "shanghai",
   "qidx": 7,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -8134,18 +8135,19 @@
   "year": 1995,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -8711,18 +8713,19 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -9259,18 +9262,19 @@
   "year": 1996,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -10366,18 +10370,19 @@
   "year": 1997,
   "stem": "shanghai_liberal",
   "qidx": 17,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -10858,18 +10863,19 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 15,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -11883,18 +11889,18 @@
   "year": 1998,
   "stem": "shanghai_science",
   "qidx": 18,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "complex",
+  "primary_name": "复数",
   "theme": "几何与代数",
   "module": "必修",
   "matched": [
-   "平面向量",
-   "复数"
+   "复数",
+   "平面向量"
   ],
   "comp": [
    "数学运算",
-   "直观想象",
-   "数学抽象"
+   "数学抽象",
+   "直观想象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -12902,6 +12908,7 @@
   "matched": [
    "圆锥曲线",
    "平面向量",
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
@@ -13350,6 +13357,7 @@
    "圆锥曲线",
    "三角函数",
    "平面向量",
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
@@ -18364,21 +18372,21 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "平面向量",
    "圆锥曲线"
   ],
   "comp": [
    "直观想象",
-   "数学运算",
-   "逻辑推理"
+   "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -18798,21 +18806,21 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 11,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "平面向量",
    "圆锥曲线"
   ],
   "comp": [
    "直观想象",
-   "数学运算",
-   "逻辑推理"
+   "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -26307,15 +26315,14 @@
   "module": "必修",
   "matched": [
    "不等式与方程",
+   "立体几何初步",
    "直线与圆",
-   "复数",
-   "立体几何初步"
+   "复数"
   ],
   "comp": [
    "数学运算",
    "逻辑推理",
-   "直观想象",
-   "数学抽象"
+   "直观想象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -26789,23 +26796,23 @@
   "year": 2010,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "不等式与方程",
    "三角函数",
-   "复数",
-   "立体几何初步"
+   "复数"
   ],
   "comp": [
    "直观想象",
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -27086,18 +27093,19 @@
   "year": 2010,
   "stem": "shanghai_spring",
   "qidx": 13,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -27424,18 +27432,19 @@
   "year": 2011,
   "stem": "shanghai_liberal",
   "qidx": 7,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -30200,11 +30209,12 @@
   "year": 2013,
   "stem": "shanghai_liberal",
   "qidx": 10,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "三角函数"
   ],
@@ -30212,7 +30222,7 @@
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -31699,18 +31709,18 @@
   "year": 2014,
   "stem": "shanghai_liberal",
   "qidx": 8,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
   "module": "必修",
   "matched": [
+   "立体几何初步",
    "三角函数",
-   "直线与圆",
-   "立体几何初步"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
-   "直观想象"
+   "直观想象",
+   "数学运算"
   ],
   "level": "水平1-2",
   "note": ""
@@ -32127,18 +32137,19 @@
   "year": 2014,
   "stem": "shanghai_science",
   "qidx": 6,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
+  "theme": "几何与代数",
   "module": "必修",
   "matched": [
+   "立体几何初步",
    "三角函数",
    "空间向量与立体几何",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
-   "直观想象"
+   "直观想象",
+   "数学运算"
   ],
   "level": "水平1-2",
   "note": ""
@@ -32900,14 +32911,14 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 24,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "圆锥曲线",
-   "立体几何初步",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -32915,7 +32926,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -33029,11 +33040,12 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 30,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "常用逻辑用语",
    "圆锥曲线"
@@ -33044,7 +33056,7 @@
    "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -33439,20 +33451,20 @@
   "year": 2015,
   "stem": "shanghai_liberal",
   "qidx": 19,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
    "立体几何初步",
+   "直线与圆",
    "三角函数"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -33894,20 +33906,20 @@
   "year": 2015,
   "stem": "shanghai_science",
   "qidx": 19,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
-   "三角函数",
-   "立体几何初步"
+   "三角函数"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -34338,19 +34350,19 @@
   "year": 2015,
   "stem": "shanghai_spring",
   "qidx": 18,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
-   "立体几何初步"
+   "立体几何初步",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -36248,20 +36260,20 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 31,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "complex",
+  "primary_name": "复数",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
-   "复数"
+   "复数",
+   "直线与圆"
   ],
   "comp": [
-   "直观想象",
    "数学运算",
-   "数学抽象"
+   "数学抽象",
+   "直观想象"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -36308,11 +36320,12 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 34,
-  "primary": "space_vec",
-  "primary_name": "空间向量与立体几何",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "空间向量与立体几何",
    "直线与圆"
   ],
@@ -36320,7 +36333,7 @@
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -37512,13 +37525,13 @@
   "year": 2018,
   "stem": "shanghai",
   "qidx": 17,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
    "立体几何初步",
+   "直线与圆",
    "复数"
   ],
   "comp": [
@@ -37526,7 +37539,7 @@
    "数学运算",
    "数学抽象"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -37967,13 +37980,13 @@
   "year": 2018,
   "stem": "shanghai_spring",
   "qidx": 19,
-  "primary": "conic",
-  "primary_name": "圆锥曲线",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "圆锥曲线",
    "立体几何初步",
+   "圆锥曲线",
    "空间向量与立体几何",
    "函数概念与性质",
    "平面向量",
@@ -37985,7 +37998,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -39158,19 +39171,19 @@
   "year": 2020,
   "stem": "shanghai",
   "qidx": 17,
-  "primary": "complex",
-  "primary_name": "复数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
   "module": "必修",
   "matched": [
-   "复数",
    "立体几何初步",
+   "复数",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -39832,11 +39845,12 @@
   "year": 2021,
   "stem": "shanghai",
   "qidx": 9,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "三角函数"
   ],
@@ -39844,7 +39858,7 @@
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -40150,18 +40164,19 @@
   "year": 2021,
   "stem": "shanghai_spring",
   "qidx": 4,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -40593,18 +40608,19 @@
   "year": 2022,
   "stem": "shanghai",
   "qidx": 5,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆"
   ],
   "comp": [
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -41227,13 +41243,13 @@
   "year": 2022,
   "stem": "shanghai_spring",
   "qidx": 17,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
-   "直线与圆",
    "立体几何初步",
+   "直线与圆",
    "复数",
    "空间向量与立体几何"
   ],
@@ -41242,7 +41258,7 @@
    "数学运算",
    "数学抽象"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -42928,19 +42944,20 @@
   "year": 2024,
   "stem": "shanghai_spring",
   "qidx": 18,
-  "primary": "complex",
-  "primary_name": "复数",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
   "module": "必修",
   "matched": [
+   "立体几何初步",
    "复数",
    "空间向量与立体几何",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
   "level": "水平1-2",
   "note": ""
@@ -43340,11 +43357,12 @@
   "year": 2025,
   "stem": "shanghai",
   "qidx": 18,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "复数"
   ],
@@ -43353,7 +43371,7 @@
    "数学运算",
    "数学抽象"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -43579,21 +43597,21 @@
   "year": 2025,
   "stem": "shanghai_spring",
   "qidx": 9,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
-   "不等式与方程",
-   "立体几何初步"
+   "不等式与方程"
   ],
   "comp": [
    "直观想象",
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {
@@ -44485,11 +44503,12 @@
   "year": 2026,
   "stem": "shanghai_spring",
   "qidx": 12,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "solid_basic",
+  "primary_name": "立体几何初步",
   "theme": "几何与代数",
-  "module": "选择性必修",
+  "module": "必修",
   "matched": [
+   "立体几何初步",
    "直线与圆",
    "空间向量与立体几何"
   ],
@@ -44497,7 +44516,7 @@
    "直观想象",
    "数学运算"
   ],
-  "level": "水平2-3",
+  "level": "水平1-2",
   "note": ""
  },
  {

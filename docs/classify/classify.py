@@ -66,6 +66,29 @@ def classify(text, taxo):
                 r"最值|最大值|最小值|值域|周期|解集", text):
             scored = [s for s in scored if s[0]["id"] != "trig"]
             scored.insert(0, (trig_u, 1, ["(三角优先)"]))
+    # 立体几何优先：含立体主体词(棱柱/棱锥/圆柱/圆锥/球/截面/体积等)的题应归
+    # 立体几何初步/空间向量，而非被“直线与圆”的宽泛词(直线/圆/圆心)吸走。
+    # 注意：保护“三角形的外接圆/内切圆”(属直线与圆)，故仅在不含该场景时触发。
+    if scored and scored[0][0]["id"] == "line_circle":
+        has_solid = re.search(
+            r"棱锥|棱柱|棱台|正方体|长方体|四面体|圆柱|圆锥|圆台|球体|球面|"
+            r"旋转体|母线|截面|二面角|异面|线面|面面|点到平面|体积|表面积|侧面积|"
+            r"三视图|直观图", text)
+        tri_circum = re.search(r"△|三角形", text) and ("外接圆" in text or "内切圆" in text)
+        if has_solid and not tri_circum:
+            hit_solid = [s for s in scored if s[0]["id"] in ("solid_basic", "space_vec")]
+            if hit_solid:
+                target_id = hit_solid[0][0]["id"]
+                scored = [s for s in scored if s[0]["id"] != target_id]
+                scored.insert(0, (hit_solid[0][0], 1, ["(立体优先)"]))
+    # 复数优先：含复数/虚数/复平面/共轭/实部/虚部等信号的题应归复数，
+    # 而非被“直线与圆/平面向量”的坐标/轨迹词吸走。
+    if scored and scored[0][0]["id"] in ("line_circle", "vector2d"):
+        if re.search(r"复数|虚数|复平面|共轭|实部|虚部|虚根|虚数单位|辐角主值", text):
+            hit_complex = any(u["id"] == "complex" for u, _, _ in scored)
+            if hit_complex:
+                scored = [s for s in scored if s[0]["id"] != "complex"]
+                scored.insert(0, (next(u for u in taxo["units"] if u["id"] == "complex"), 1, ["(复数优先)"]))
     if not scored:
         # “函数” 兜底：含 函数 但无具体单元命中
         if "函数" in text:
