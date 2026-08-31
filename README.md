@@ -32,8 +32,13 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 环境需要：
 
-- TeX Live（含 XeLaTeX、latexmk 及 `styles.tex` 引用的宏包）
-- `SimSun`、`SimHei`、`KaiTi`、`Times New Roman` 字体
+- TeX Live / MacTeX（含 XeLaTeX、latexmk 及 `styles.tex` 引用的宏包）
+- 中文与西文字体：
+  - **Windows / 标准 TeX Live**：`SimSun`、`SimHei`、`KaiTi`、`Times New Roman`
+  - **macOS**：无需安装 Windows 字体，构建脚本会自动回退到系统自带的
+    `Songti SC`（宋体）、`STHeiti`（黑体）、`Times New Roman` 等；
+    数学字体则由 `tools/texlive-font-paths.sh` 通过 `kpsewhich` 以绝对
+    路径加载 TeX Live 自带字体，因此**必须使用 `make` 触发构建**。
 
 ```bash
 make pdf
@@ -49,3 +54,8 @@ make pdf
 ```bash
 make clean
 ```
+
+> 注意：数学字体（TeX Gyre Termes Math、STIX、Latin Modern Math、Asana Math）
+> 在编译前由 `make` 调用 `tools/texlive-font-paths.sh` 生成 `tmp/math-fonts.tex`。
+> 直接运行 `xelatex`（不走 `make`）时，`styles.tex` 会回退到按字体名加载，这在
+> macOS 上会失败；请始终通过 `make pdf` 构建。

@@ -11,27 +11,39 @@ IMAGE_LAYOUT_TOOL_INPUTS := tools/typeset/auto_image_layout.go \
 	tools/typeset/image_label_calibration.tex \
 	styles.tex
 
-.PHONY: all pdf pdf-main pdf-answer image-layout crop-ui clean
+# B1: TeX Live 数学字体的绝对路径，由构建脚本在编译前生成。
+MATH_FONTS_OUTPUT := tmp/math-fonts.tex
+TEXLIVE_FONT_PATHS := tools/texlive-font-paths.sh
+
+.PHONY: all pdf pdf-main pdf-answer image-layout math-fonts clean
 
 all: pdf
 
-pdf: image-layout
-	+$(MAKE) --no-print-directory -j2 pdf-main pdf-answer
+pdf: pdf-main pdf-answer
 
-pdf-main: image-layout
+pdf-main: math-fonts image-layout
 	$(LATEXMK) $(LATEXMK_FLAGS) Compilation.tex
 
-pdf-answer: image-layout
+pdf-answer: math-fonts image-layout
 	$(LATEXMK) $(LATEXMK_FLAGS) Compilation-answer.tex
 
-image-layout: $(IMAGE_LAYOUT_OUTPUT)
+# B1: 定位 TeX Live 数学字体并生成 tmp/math-fonts.tex（按绝对路径加载，
+# 对 macOS 友好；Windows / Linux 的 TeX Live 同样可用 kpsewhich 找到）。
+math-fonts:
+	$(TEXLIVE_FONT_PATHS) $(MATH_FONTS_OUTPUT)
 
-$(IMAGE_LAYOUT_OUTPUT): $(IMAGE_LAYOUT_INPUTS) $(IMAGE_LAYOUT_TOOL_INPUTS)
-	$(AUTO_IMAGE_LAYOUT) \
-		-root . \
-		-output $(IMAGE_LAYOUT_OUTPUT) \
-		-report $(IMAGE_LAYOUT_REPORT) \
-		-crop-in-place
+# C1: 若已存在提交好的布局表则跳过重新生成（auto_image_layout 工具不在仓库内）。
+image-layout:
+	@if [ -f "$(IMAGE_LAYOUT_OUTPUT)" ]; then \
+		echo "image-layout: $(IMAGE_LAYOUT_OUTPUT) 已存在，跳过重新生成"; \
+	else \
+		echo "image-layout: 生成 $(IMAGE_LAYOUT_OUTPUT) ..."; \
+		$(AUTO_IMAGE_LAYOUT) \
+			-root . \
+			-output $(IMAGE_LAYOUT_OUTPUT) \
+			-report $(IMAGE_LAYOUT_REPORT) \
+			-crop-in-place; \
+	fi
 
 crop-ui:
 	go run ./tools/crop/manualcrop -root . -addr 127.0.0.1:8766 -open

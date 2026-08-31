@@ -8,10 +8,30 @@
 }
 \tolerance=1000                          % 提高断行容忍度，允许稍松的行以避免标点溢出到下一行
 \emergencystretch=3em                    % 加大紧急伸缩量
-\setCJKmainfont{SimSun}[
-    BoldFont = SimHei,
-    ItalicFont = KaiTi
-]
+% --- CJK 字体：自适应选择 ---
+% Windows 使用 SimSun / SimHei / KaiTi；macOS 等系统缺少这些字体时，
+% 回退到对应的系统中文字体（Songti SC / STHeiti / Kaiti SC 等）。
+\ExplSyntaxOn
+\cs_new_protected:Npn \exam_first_font:Nn #1#2 {
+  \tl_gclear:N #1
+  \clist_map_inline:nn {#2} {
+    \IfFontExistsTF {##1} { \tl_gset:Nn #1 {##1} \clist_map_break: } { }
+  }
+}
+\NewDocumentCommand{\examSetCJKMain}{}{
+  \exam_first_font:Nn \l_exam_cjk_main   {SimSun, Songti~SC, STSong}
+  \exam_first_font:Nn \l_exam_cjk_bold   {SimHei, STHeiti, Heiti~SC}
+  \exam_first_font:Nn \l_exam_cjk_italic {KaiTi, Kaiti~SC, STKaiti}
+  \tl_if_empty:NT \l_exam_cjk_italic {
+    \tl_gset:Nx \l_exam_cjk_italic { \l_exam_cjk_main }
+  }
+  \setCJKmainfont{\l_exam_cjk_main}[
+    BoldFont = \l_exam_cjk_bold,
+    ItalicFont = \l_exam_cjk_italic
+  ]
+}
+\ExplSyntaxOff
+\examSetCJKMain
 \setmainfont{Times New Roman}
 
 % 全局段落设置：无缩进，无段间距，正文行距
@@ -196,21 +216,24 @@
 % 数学相关
 \usepackage{amsmath, amssymb, amsthm, bm}
 \usepackage{unicode-math}
-\setmathfont{TeX Gyre Termes Math}
-% 希腊字母使用 STIX 字体 (MathType 风格，正体)
-\setmathfont{STIX}[
-    range = {up/{Greek,greek}, it/{Greek,greek}, bfup/{Greek,greek}, bfit/{Greek,greek}}
-]
-
-% 大运算符和空集使用 Latin Modern Math (LaTeX 默认风格)
-\setmathfont{Latin Modern Math}[
-    range = {\sum, \prod, \coprod, \int, \iint, \iiint, \iiiint, \oint, \bigcup, \bigcap, \bigsqcup, \bigvee, \bigwedge, \bigoplus, \bigotimes, \bigodot}
-]
+% 数学字体：默认由构建脚本 (tools/texlive-font-paths.sh) 通过绝对路径加载，
+% 跨平台且对 macOS 友好（macOS 上 XeTeX 走 Core Text，按字体名找不到 TeX Live 的数学字体）。
+% 若直接 xelatex（未走 make），则回退到按字体名加载（Windows / 标准 TeX Live 可用）。
+\InputIfFileExists{tmp/math-fonts}{}{%
+    \setmathfont{TeX Gyre Termes Math}%
+    % 希腊字母使用 STIX 字体 (MathType 风格，正体)
+    \setmathfont{STIX}[
+        range = {up/{Greek,greek}, it/{Greek,greek}, bfup/{Greek,greek}, bfit/{Greek,greek}}
+    ]%
+    % 大运算符和空集使用 Latin Modern Math (LaTeX 默认风格)
+    \setmathfont{Latin Modern Math}[
+        range = {\sum, \prod, \coprod, \int, \iint, \iiint, \iiiint, \oint, \bigcup, \bigcap, \bigsqcup, \bigvee, \bigwedge, \bigoplus, \bigotimes, \bigodot}
+    ]%
+    \setmathfont{Asana Math}[
+        range = {\varnothing}
+    ]%
+}
 \let\emptyset\varnothing
-
-\setmathfont{Asana Math}[
-    range = {\varnothing}
-]
 
 \allowdisplaybreaks
 
