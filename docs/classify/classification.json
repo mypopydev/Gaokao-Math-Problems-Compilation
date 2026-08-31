@@ -42420,19 +42420,19 @@
   "year": 2024,
   "stem": "shanghai",
   "qidx": 13,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "stat",
+  "primary_name": "统计",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "统计"
+   "统计",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
-   "数学建模"
+   "数学建模",
+   "逻辑推理",
+   "数学运算"
   ],
   "level": "水平2-3",
   "note": ""
@@ -43803,18 +43803,20 @@
   "year": 2025,
   "stem": "shanghai_spring",
   "qidx": 19,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "stat",
+  "primary_name": "统计",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
+   "统计",
    "计数原理",
    "常用逻辑用语",
    "复数",
-   "概率",
-   "统计"
+   "概率"
   ],
   "comp": [
+   "数据分析",
+   "数学建模",
    "逻辑推理",
    "数学运算",
    "数学抽象"

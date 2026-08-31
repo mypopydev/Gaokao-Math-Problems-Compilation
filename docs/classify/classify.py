@@ -62,7 +62,7 @@ def classify(text, taxo):
     # 应归三角函数，而非被“不等式与方程”的宽泛词(最大/最小/解集)吸走。
     trig_u = next((u for u in taxo["units"] if u["id"] == "trig"), None)
     if trig_u is not None and re.search(r"\\(?:sin|cos|tan|cot|sec|csc)\b", text):
-        if scored[0][0]["id"] == "inequality" and re.search(
+        if scored and scored[0][0]["id"] == "inequality" and re.search(
                 r"最值|最大值|最小值|值域|周期|解集", text):
             scored = [s for s in scored if s[0]["id"] != "trig"]
             scored.insert(0, (trig_u, 1, ["(三角优先)"]))
@@ -89,6 +89,15 @@ def classify(text, taxo):
             if hit_complex:
                 scored = [s for s in scored if s[0]["id"] != "complex"]
                 scored.insert(0, (next(u for u in taxo["units"] if u["id"] == "complex"), 1, ["(复数优先)"]))
+    # 统计优先：含统计核心词(茎叶图/直方图/百分位数/中位数/回归/相关系数等)的题
+    # 应归统计，而非被“排列/选取”等计数噪声词吸走(如茎叶图的“排列在中间”非排列数)。
+    if scored and scored[0][0]["id"] == "counting":
+        if re.search(r"茎叶图|直方图|百分位|中位数|回归|相关系数|独立性检验|"
+                     r"频率分布|方差分析|置信|加权平均|样本(?!点)", text):
+            hit_stat = [s for s in scored if s[0]["id"] == "stat"]
+            if hit_stat:
+                scored = [s for s in scored if s[0]["id"] != "stat"]
+                scored.insert(0, (hit_stat[0][0], 1, ["(统计优先)"]))
     if not scored:
         # “函数” 兜底：含 函数 但无具体单元命中
         if "函数" in text:
