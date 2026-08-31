@@ -1,0 +1,98 @@
+year	stem	our_problems	our_answers	our_sections	upstream_pdf	upstream_problem_est	upstream_sections
+1977	shanghai_liberal	8	0	解答题	Sources/AI/gaokaomath/普通高考/1977/1977上海文.pdf	13	
+1977	shanghai_science	10	0	解答题,附加题	Sources/AI/gaokaomath/普通高考/1977/1977上海理.pdf	20	
+1985	shanghai_liberal	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1985/1985上海文.pdf	0	
+1985	shanghai_science	23	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1985/1985上海理.pdf	0	
+1986	shanghai_liberal	35	30	单选题,填空题,解答题	Sources/AI/gaokaomath/普通高考/1986/1986上海文.pdf	0	
+1986	shanghai_science	35	30	单选题,填空题,解答题	Sources/AI/gaokaomath/普通高考/1986/1986上海理.pdf	0	
+1987	shanghai	29	24	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1987/1987上海.pdf	0	
+1988	shanghai	28	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1988/1988上海.pdf	0	
+1989	shanghai	28	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1989/1989上海.pdf	0	
+1990	shanghai	27	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1990/1990上海.pdf	30	
+1991	shanghai	27	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1991/1991上海.pdf	0	
+1992	shanghai	26	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1992/1992上海.pdf	0	
+1993	shanghai	26	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1993/1993上海.pdf	0	
+1994	shanghai	26	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1994/1994上海.pdf	0	
+1994	shanghai_liberal	26	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1994/1994上海试点教材文.pdf	0	
+1994	shanghai_science	26	20	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1994/1994上海试点教材理.pdf	0	
+1995	shanghai_liberal	30	23	单选题,填空题,选做题：填空题,选做题：解答题,解答题	Sources/AI/gaokaomath/普通高考/1995/1995上海文.pdf	0	
+1995	shanghai_science	30	23	单选题,填空题,选做题：填空题,选做题：解答题,解答题	Sources/AI/gaokaomath/普通高考/1995/1995上海理.pdf	0	
+1996	shanghai_liberal	29	22	单选题,填空题,选做题：填空题,解答题,选做题：解答题,解答题	Sources/AI/gaokaomath/普通高考/1996/1996上海文.pdf	0	
+1996	shanghai_science	29	22	单选题,填空题,选做题：填空题,解答题,选做题：解答题,解答题	Sources/AI/gaokaomath/普通高考/1996/1996上海理.pdf	0	
+1997	shanghai_liberal	27	20	单选题,填空题,选做题：填空题,解答题,选做题：解答题,解答题,解答题	Sources/AI/gaokaomath/普通高考/1997/1997上海文.pdf	0	
+1997	shanghai_science	27	20	单选题,填空题,选做题：填空题,解答题,选做题：解答题,解答题	Sources/AI/gaokaomath/普通高考/1997/1997上海理.pdf	0	
+1998	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1998/1998上海文.pdf	0	
+1998	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1998/1998上海理.pdf	0	
+1999	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1999/1999上海文.pdf	0	
+1999	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/1999/1999上海理.pdf	0	
+2000	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2000/2000上海文.pdf	32	填空题,解答题,选择题
+2000	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2000/2000上海理.pdf	32	填空题,解答题,选择题
+2000	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2000/2000春季上海.pdf	0	
+2001	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2001/2001上海文.pdf	35	填空题,解答题,选择题
+2001	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2001/2001上海理.pdf	32	填空题,解答题,选择题
+2001	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2001/2001春季上海.pdf	34	填空题,解答题,选择题
+2002	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2002/2002上海文.pdf	33	填空题,解答题,选择题
+2002	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2002/2002上海理.pdf	33	填空题,解答题,选择题
+2002	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2002/2002春季上海.pdf	32	填空题,解答题,选择题
+2003	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2003/2003上海文.pdf	31	填空题,解答题,选择题
+2003	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2003/2003上海理.pdf	33	填空题,解答题,选择题
+2003	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2003/2003春季上海.pdf	32	填空题,解答题,选择题
+2004	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2004/2004上海文.pdf	31	填空题,解答题,选择题
+2004	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2004/2004上海理.pdf	31	填空题,解答题,选择题
+2004	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2004/2004春季上海.pdf	32	填空题,解答题,选择题
+2005	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2005/2005上海文.pdf	32	填空题,解答题,选择题
+2005	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2005/2005上海理.pdf	32	填空题,解答题,选择题
+2005	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2005/2005春季上海.pdf	31	填空题,解答题,选择题
+2006	shanghai_liberal	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2006/2006上海文.pdf	32	填空题,解答题,选择题
+2006	shanghai_science	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2006/2006上海理.pdf	32	填空题,解答题,选择题
+2006	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2006/2006春季上海.pdf	0	
+2007	shanghai_liberal	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2007/2007上海文.pdf	32	填空题,解答题,选择题
+2007	shanghai_science	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2007/2007上海理.pdf	32	填空题,解答题,选择题
+2007	shanghai_spring	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2007/2007春季上海.pdf	0	
+2008	shanghai_liberal	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2008/2008上海文.pdf	31	填空题,解答题,选择题
+2008	shanghai_science	21	15	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2008/2008上海理.pdf	31	填空题,解答题,选择题
+2008	shanghai_spring	22	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2008/2008春季上海.pdf	0	
+2009	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2009/2009上海文.pdf	33	填空题,解答题,选择题
+2009	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2009/2009上海理.pdf	33	填空题,解答题,选择题
+2009	shanghai_spring	20	15	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2009/2009春季上海.pdf	39	填空题,解答题,选择题
+2010	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2010/2010上海文.pdf	33	填空题,解答题,选择题
+2010	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2010/2010上海理.pdf	37	填空题,解答题,选择题
+2010	shanghai_spring	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2010/2010春季上海.pdf	0	
+2011	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2011/2011上海文.pdf	33	填空题,解答题,选择题
+2011	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2011/2011上海理.pdf	33	填空题,解答题,选择题
+2011	shanghai_spring	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2011/2011春季上海.pdf	0	
+2012	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2012/2012上海文.pdf	35	填空题,解答题,选择题
+2012	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2012/2012上海理.pdf	35	填空题,解答题,选择题
+2012	shanghai_spring	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2012/2012春季上海.pdf	0	
+2013	shanghai_liberal	23	18	填空题,选择题,解答题	Sources/AI/gaokaomath/普通高考/2013/2013上海文.pdf	33	填空题,解答题,选择题
+2013	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2013/2013上海理.pdf	33	填空题,解答题,选择题
+2013	shanghai_spring	31	24	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2013/2013春季上海.pdf	68	填空题,解答题,选择题
+2014	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2014/2014上海文.pdf	34	填空题,解答题,选择题
+2014	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2014/2014上海理.pdf	33	填空题,解答题,选择题
+2014	shanghai_spring	32	24	填空题,单选题,解答题,附加题	Sources/AI/gaokaomath/春季高考/2014/2014春季上海.pdf	77	填空题,解答题,选择题
+2015	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2015/2015上海文.pdf	33	填空题,解答题,选择题
+2015	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2015/2015上海理.pdf	33	填空题,解答题,选择题
+2015	shanghai_spring	36	30	填空题,单选题,解答题,附加题：选择题,附加题：填空题,附加题：解答题	Sources/AI/gaokaomath/春季高考/2015/2015春季上海.pdf	44	填空题,解答题,选择题
+2016	shanghai_liberal	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2016/2016上海文.pdf	35	填空题,解答题,选择题
+2016	shanghai_science	23	18	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2016/2016上海理.pdf	36	填空题,解答题,选择题
+2016	shanghai_spring	36	30	填空题,单选题,解答题,附加题：选择题,附加题：填空题,附加题：解答题	Sources/AI/gaokaomath/春季高考/2016/2016春季上海.pdf	90	填空题,解答题,选择题
+2017	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2017/2017上海.pdf	33	填空题,解答题,选择题
+2017	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2017/2017春季上海.pdf	46	填空题,解答题,选择题
+2018	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2018/2018上海.pdf	33	填空题,解答题,选择题
+2018	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2018/2018春季上海.pdf	53	填空题,解答题,选择题
+2019	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2019/2019上海.pdf	33	填空题,解答题,选择题
+2019	shanghai_spring	20	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2019/2019春季上海.pdf	76	填空题,解答题
+2020	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2020/2020上海.pdf	33	解答题,选择题
+2020	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2020/2020春季上海.pdf	87	填空题,解答题,计算题,选择题
+2021	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2021/2021上海.pdf	33	填空题,解答题,选择题
+2021	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2021/2021春季上海.pdf	87	填空题,解答题
+2022	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2022/2022上海.pdf	35	填空题,解答题,选择题
+2022	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2022/2022春季上海.pdf	85	填空题,解答题
+2023	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2023/2023上海.pdf	33	填空题,解答题,选择题
+2023	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2023/2023春季上海.pdf	85	填空题,解答题
+2024	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2024/2024上海.pdf	35	填空题,解答题,选择题
+2024	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2024/2024春季上海.pdf	96	填空题,解答题
+2025	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2025/2025上海.pdf	36	填空题,解答题,选择题
+2025	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2025/2025春季上海.pdf	91	填空题,解答题
+2026	shanghai	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/普通高考/2026/2026上海.pdf	50	填空题,解答题,选择题
+2026	shanghai_spring	21	16	填空题,单选题,解答题	Sources/AI/gaokaomath/春季高考/2026/2026上海春季.pdf	98	填空题,解答题

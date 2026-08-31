@@ -1,0 +1,2262 @@
+year	stem	section	qidx	has_answer	has_solution	answer_text
+1977	shanghai_liberal	解答题	1	0	1	
+1977	shanghai_liberal	解答题	2	0	1	
+1977	shanghai_liberal	解答题	3	0	1	
+1977	shanghai_liberal	解答题	4	0	1	
+1977	shanghai_liberal	解答题	5	0	1	
+1977	shanghai_liberal	解答题	6	0	1	
+1977	shanghai_liberal	解答题	7	0	1	
+1977	shanghai_liberal	解答题	8	0	1	
+1977	shanghai_science	解答题	1	0	1	
+1977	shanghai_science	解答题	2	0	1	
+1977	shanghai_science	解答题	3	0	1	
+1977	shanghai_science	解答题	4	0	1	
+1977	shanghai_science	解答题	5	0	1	
+1977	shanghai_science	解答题	6	0	1	
+1977	shanghai_science	解答题	7	0	1	
+1977	shanghai_science	解答题	8	0	1	
+1977	shanghai_science	附加题	9	0	1	
+1977	shanghai_science	附加题	10	0	1	
+1985	shanghai_liberal	填空题	1	1	1	\(\left(-3,-1\right)\)
+1985	shanghai_liberal	填空题	2	1	1	\(y=(x+1)^8\)，\(x\geqslant-1\)
+1985	shanghai_liberal	填空题	3	1	1	\(\dfrac{\pi}{2}\)
+1985	shanghai_liberal	填空题	4	1	1	\(29\)
+1985	shanghai_liberal	填空题	5	1	1	\(x=1\)
+1985	shanghai_liberal	填空题	6	1	1	\(>\)
+1985	shanghai_liberal	填空题	7	1	1	\(\left(x-2\right)^2+\left(y-4\right)^2=5\)
+1985	shanghai_liberal	填空题	8	1	1	\(\dfrac{3\pi}{4}\)
+1985	shanghai_liberal	填空题	9	1	1	\(\dfrac{2(1-a)}{a}\)
+1985	shanghai_liberal	填空题	10	1	1	\(\pi\)
+1985	shanghai_liberal	单选题	11	1	1	C
+1985	shanghai_liberal	单选题	12	1	1	D
+1985	shanghai_liberal	单选题	13	1	1	D
+1985	shanghai_liberal	单选题	14	1	1	B
+1985	shanghai_liberal	单选题	15	1	1	A
+1985	shanghai_liberal	解答题	16	0	1	
+1985	shanghai_liberal	解答题	17	0	1	
+1985	shanghai_liberal	解答题	18	0	1	
+1985	shanghai_liberal	解答题	19	0	1	
+1985	shanghai_liberal	解答题	20	0	1	
+1985	shanghai_liberal	解答题	21	0	1	
+1985	shanghai_science	填空题	1	1	1	\(\left(-3,-1\right)\)
+1985	shanghai_science	填空题	2	1	1	\(y=\left(x+1\right)^3\)
+1985	shanghai_science	填空题	3	1	1	\(\dfrac{\sqrt{2}}{2}\)
+1985	shanghai_science	填空题	4	1	1	\(4\)
+1985	shanghai_science	填空题	5	1	1	\(\left(x-2\right)^2+\left(y-4\right)^2=5\)
+1985	shanghai_science	填空题	6	1	1	\(l\parallel\alpha\)
+1985	shanghai_science	填空题	7	1	1	\(-1\)
+1985	shanghai_science	填空题	8	1	1	\(x=2\)
+1985	shanghai_science	填空题	9	1	1	\(\dfrac{\sqrt{5}}{5}\)
+1985	shanghai_science	填空题	10	1	1	\(\pi\)
+1985	shanghai_science	单选题	11	1	1	C
+1985	shanghai_science	单选题	12	1	1	C
+1985	shanghai_science	单选题	13	1	1	D
+1985	shanghai_science	单选题	14	1	1	B
+1985	shanghai_science	单选题	15	1	1	D
+1985	shanghai_science	解答题	16	0	1	
+1985	shanghai_science	解答题	17	0	1	
+1985	shanghai_science	解答题	18	0	1	
+1985	shanghai_science	解答题	19	0	1	
+1985	shanghai_science	解答题	20	0	1	
+1985	shanghai_science	解答题	21	0	1	
+1985	shanghai_science	解答题	22	0	1	
+1985	shanghai_science	解答题	23	0	1	
+1986	shanghai_liberal	单选题	1	1	1	B
+1986	shanghai_liberal	单选题	2	1	1	B
+1986	shanghai_liberal	单选题	3	1	1	D
+1986	shanghai_liberal	单选题	4	1	1	B
+1986	shanghai_liberal	单选题	5	1	1	C
+1986	shanghai_liberal	单选题	6	1	1	A
+1986	shanghai_liberal	单选题	7	1	1	C
+1986	shanghai_liberal	单选题	8	1	1	A
+1986	shanghai_liberal	单选题	9	1	1	D
+1986	shanghai_liberal	单选题	10	1	1	B
+1986	shanghai_liberal	单选题	11	1	1	B
+1986	shanghai_liberal	单选题	12	1	1	A
+1986	shanghai_liberal	单选题	13	1	1	D
+1986	shanghai_liberal	单选题	14	1	1	B
+1986	shanghai_liberal	单选题	15	1	1	D
+1986	shanghai_liberal	单选题	16	1	1	C
+1986	shanghai_liberal	单选题	17	1	1	C
+1986	shanghai_liberal	单选题	18	1	1	D
+1986	shanghai_liberal	单选题	19	1	1	A
+1986	shanghai_liberal	单选题	20	1	1	C
+1986	shanghai_liberal	填空题	21	1	1	\(\left( -3,-12 \right)\)
+1986	shanghai_liberal	填空题	22	1	1	\(\frac{\pi}{6}\)
+1986	shanghai_liberal	填空题	23	1	1	\(2\)
+1986	shanghai_liberal	填空题	24	1	1	\(1\)
+1986	shanghai_liberal	填空题	25	1	1	\(28\)或\(\mathrm C_8^6\)
+1986	shanghai_liberal	填空题	26	1	1	\(1\leqslant x<10\)
+1986	shanghai_liberal	填空题	27	1	1	\(\pi\)
+1986	shanghai_liberal	填空题	28	1	1	\(12\)
+1986	shanghai_liberal	填空题	29	1	1	\(7\)
+1986	shanghai_liberal	填空题	30	1	1	\(\left( 0,1 \right)\)
+1986	shanghai_liberal	解答题	31	0	1	
+1986	shanghai_liberal	解答题	32	0	1	
+1986	shanghai_liberal	解答题	33	0	1	
+1986	shanghai_liberal	解答题	34	0	1	
+1986	shanghai_liberal	解答题	35	0	1	
+1986	shanghai_science	单选题	1	1	1	B
+1986	shanghai_science	单选题	2	1	1	B
+1986	shanghai_science	单选题	3	1	1	D
+1986	shanghai_science	单选题	4	1	1	B
+1986	shanghai_science	单选题	5	1	1	C
+1986	shanghai_science	单选题	6	1	1	A
+1986	shanghai_science	单选题	7	1	1	C
+1986	shanghai_science	单选题	8	1	1	A
+1986	shanghai_science	单选题	9	1	1	D
+1986	shanghai_science	单选题	10	1	1	B
+1986	shanghai_science	单选题	11	1	1	B
+1986	shanghai_science	单选题	12	1	1	A
+1986	shanghai_science	单选题	13	1	1	D
+1986	shanghai_science	单选题	14	1	1	B
+1986	shanghai_science	单选题	15	1	1	A
+1986	shanghai_science	单选题	16	1	1	C
+1986	shanghai_science	单选题	17	1	1	D
+1986	shanghai_science	单选题	18	1	1	A
+1986	shanghai_science	单选题	19	1	1	C
+1986	shanghai_science	单选题	20	1	1	D
+1986	shanghai_science	填空题	21	1	1	\(\left( -3,-12 \right)\)
+1986	shanghai_science	填空题	22	1	1	\(\frac{\pi}{6}\)
+1986	shanghai_science	填空题	23	1	1	\(1\)
+1986	shanghai_science	填空题	24	1	1	\(28\) 或 \(\mathrm C_8^6\)
+1986	shanghai_science	填空题	25	1	1	\(3\leqslant x\leqslant 5\)
+1986	shanghai_science	填空题	26	1	1	\(\pi\)
+1986	shanghai_science	填空题	27	1	1	\(12\)
+1986	shanghai_science	填空题	28	1	1	\(7\)
+1986	shanghai_science	填空题	29	1	1	\((0,1)\)
+1986	shanghai_science	填空题	30	1	1	\(-4\)
+1986	shanghai_science	解答题	31	0	1	
+1986	shanghai_science	解答题	32	0	1	
+1986	shanghai_science	解答题	33	0	1	
+1986	shanghai_science	解答题	34	0	1	
+1986	shanghai_science	解答题	35	0	1	
+1987	shanghai	填空题	1	1	1	\(y=-\sqrt{x}\)
+1987	shanghai	填空题	2	1	1	\(1023\)
+1987	shanghai	填空题	3	1	1	\(b=0\)
+1987	shanghai	填空题	4	1	1	\(\dfrac{\pi}{2}\)
+1987	shanghai	填空题	5	1	1	\(\pi a^3\)
+1987	shanghai	填空题	6	1	1	\(\dfrac{\pi}{4}\)
+1987	shanghai	填空题	7	1	1	\(\dfrac{2\pi}{5}\)
+1987	shanghai	填空题	8	1	1	\(2x-y+3=0\)，\(2x+y-3=0\)
+1987	shanghai	填空题	9	1	1	\(y^2=2x\)
+1987	shanghai	填空题	10	1	1	\(4\)
+1987	shanghai	填空题	11	1	1	\(0\)
+1987	shanghai	填空题	12	1	1	\(1\)
+1987	shanghai	单选题	13	1	1	C
+1987	shanghai	单选题	14	1	1	D
+1987	shanghai	单选题	15	1	1	B
+1987	shanghai	单选题	16	1	1	C
+1987	shanghai	单选题	17	1	1	A
+1987	shanghai	单选题	18	1	1	C
+1987	shanghai	单选题	19	1	1	D
+1987	shanghai	单选题	20	1	1	B
+1987	shanghai	单选题	21	1	1	B
+1987	shanghai	单选题	22	1	1	D
+1987	shanghai	单选题	23	1	1	B
+1987	shanghai	单选题	24	1	1	B
+1987	shanghai	解答题	25	0	1	
+1987	shanghai	解答题	26	0	1	
+1987	shanghai	解答题	27	0	1	
+1987	shanghai	解答题	28	0	1	
+1987	shanghai	解答题	29	0	1	
+1988	shanghai	填空题	1	1	1	\(2\)
+1988	shanghai	填空题	2	1	1	\(y=x^2+1\)（\(x\geqslant0\)）
+1988	shanghai	填空题	3	1	1	\(\rho=a\sin\theta\)
+1988	shanghai	填空题	4	1	1	\(y=\frac{x^2-x}{2}\)
+1988	shanghai	填空题	5	1	1	\(\frac{3}{5}\)
+1988	shanghai	填空题	6	1	1	\(6\)
+1988	shanghai	填空题	7	1	1	\(2\)
+1988	shanghai	填空题	8	1	1	\(7\)
+1988	shanghai	填空题	9	1	1	\(y^2=-4(x-5)\)
+1988	shanghai	填空题	10	1	1	\(240\)
+1988	shanghai	单选题	11	1	1	D
+1988	shanghai	单选题	12	1	1	B
+1988	shanghai	单选题	13	1	1	A
+1988	shanghai	单选题	14	1	1	A
+1988	shanghai	单选题	15	1	1	C
+1988	shanghai	单选题	16	1	1	B
+1988	shanghai	单选题	17	1	1	D
+1988	shanghai	单选题	18	1	1	B
+1988	shanghai	单选题	19	1	1	D
+1988	shanghai	单选题	20	1	1	C
+1988	shanghai	解答题	21	0	1	
+1988	shanghai	解答题	22	0	1	
+1988	shanghai	解答题	23	0	1	
+1988	shanghai	解答题	24	0	1	
+1988	shanghai	解答题	25	0	1	
+1988	shanghai	解答题	26	0	1	
+1988	shanghai	解答题	27	0	1	
+1988	shanghai	解答题	28	0	1	
+1989	shanghai	填空题	1	1	1	\(\frac{1}{3}\)
+1989	shanghai	填空题	2	1	1	\(-\sqrt{2}\i\)
+1989	shanghai	填空题	3	1	1	\(\left\{x\mid x=4k\pi+\frac{2\pi}{3}\text{\ 或\ }x=4k\pi-2\pi,\ k\in\Z\right\}\)
+1989	shanghai	填空题	4	1	1	\(\frac{16}{3}\)
+1989	shanghai	填空题	5	1	1	\((-\infty,0)\)
+1989	shanghai	填空题	6	1	1	\(\frac{60}{13}\)
+1989	shanghai	填空题	7	1	1	\(x=4\)
+1989	shanghai	填空题	8	1	1	\(-\frac{2}{3}\sqrt{3}\)
+1989	shanghai	填空题	9	1	1	\(\frac{3}{2}\)
+1989	shanghai	填空题	10	1	1	\(y=-\frac{17}{16}\)
+1989	shanghai	单选题	11	1	1	C
+1989	shanghai	单选题	12	1	1	A
+1989	shanghai	单选题	13	1	1	B
+1989	shanghai	单选题	14	1	1	D
+1989	shanghai	单选题	15	1	1	B
+1989	shanghai	单选题	16	1	1	C
+1989	shanghai	单选题	17	1	1	D
+1989	shanghai	单选题	18	1	1	A
+1989	shanghai	单选题	19	1	1	B
+1989	shanghai	单选题	20	1	1	D
+1989	shanghai	解答题	21	0	1	
+1989	shanghai	解答题	22	0	1	
+1989	shanghai	解答题	23	0	1	
+1989	shanghai	解答题	24	0	1	
+1989	shanghai	解答题	25	0	1	
+1989	shanghai	解答题	26	0	1	
+1989	shanghai	解答题	27	0	1	
+1989	shanghai	解答题	28	0	1	
+1990	shanghai	填空题	1	1	1	\([-4,-2)\cup(-2,+\infty)\)
+1990	shanghai	填空题	2	1	1	\(y=\sin x\)，\(x\in[-\frac{\pi}{2},\frac{\pi}{2}]\)
+1990	shanghai	填空题	3	1	1	\(2x+y-4=0\)
+1990	shanghai	填空题	4	1	1	\(2\pi\)
+1990	shanghai	填空题	5	1	1	\(\frac{2\sqrt5}{5}\)
+1990	shanghai	填空题	6	1	1	\(0\)
+1990	shanghai	填空题	7	1	1	\(al\)
+1990	shanghai	填空题	8	1	1	\(-2\)
+1990	shanghai	填空题	9	1	1	\(-\frac43\)
+1990	shanghai	填空题	10	1	1	\(60\)
+1990	shanghai	单选题	11	1	1	C
+1990	shanghai	单选题	12	1	1	B
+1990	shanghai	单选题	13	1	1	A
+1990	shanghai	单选题	14	1	1	A
+1990	shanghai	单选题	15	1	1	C
+1990	shanghai	单选题	16	1	1	B
+1990	shanghai	单选题	17	1	1	B
+1990	shanghai	单选题	18	1	1	D
+1990	shanghai	单选题	19	1	1	B
+1990	shanghai	单选题	20	1	1	D
+1990	shanghai	解答题	21	0	1	
+1990	shanghai	解答题	22	0	1	
+1990	shanghai	解答题	23	0	1	
+1990	shanghai	解答题	24	0	1	
+1990	shanghai	解答题	25	0	1	
+1990	shanghai	解答题	26	0	1	
+1990	shanghai	解答题	27	0	1	
+1991	shanghai	填空题	1	1	1	\(y = \log_3 x\)（\(x \geqslant 1\)）
+1991	shanghai	填空题	2	1	1	\(-\frac{\sqrt{10}}{10}\)
+1991	shanghai	填空题	3	1	1	\(\frac{3}{2}\)
+1991	shanghai	填空题	4	1	1	\(2\)
+1991	shanghai	填空题	5	1	1	\(\frac{\sqrt{3}}{2}\)
+1991	shanghai	填空题	6	1	1	\(\frac{9}{2}\sqrt{3}\)
+1991	shanghai	填空题	7	1	1	\(8\sqrt{2}\pi\)
+1991	shanghai	填空题	8	1	1	\(60\)
+1991	shanghai	填空题	9	1	1	\(x^2 - 4x + 5\)
+1991	shanghai	填空题	10	1	1	\(\rho = -8\cos \theta\)
+1991	shanghai	单选题	11	1	1	B
+1991	shanghai	单选题	12	1	1	C
+1991	shanghai	单选题	13	1	1	B
+1991	shanghai	单选题	14	1	1	C
+1991	shanghai	单选题	15	1	1	B
+1991	shanghai	单选题	16	1	1	A
+1991	shanghai	单选题	17	1	1	D
+1991	shanghai	单选题	18	1	1	A
+1991	shanghai	单选题	19	1	1	D
+1991	shanghai	单选题	20	1	1	A
+1991	shanghai	解答题	21	0	1	
+1991	shanghai	解答题	22	0	1	
+1991	shanghai	解答题	23	0	1	
+1991	shanghai	解答题	24	0	1	
+1991	shanghai	解答题	25	0	1	
+1991	shanghai	解答题	26	0	1	
+1991	shanghai	解答题	27	0	1	
+1992	shanghai	填空题	1	1	1	\(-\frac{\sqrt{2}}{4}\)
+1992	shanghai	填空题	2	1	1	56
+1992	shanghai	填空题	3	1	1	\(\frac{3}{2}\)
+1992	shanghai	填空题	4	1	1	4
+1992	shanghai	填空题	5	1	1	\(-64\)
+1992	shanghai	填空题	6	1	1	\(x - y + 1 = 0\)
+1992	shanghai	填空题	7	1	1	\(60\sqrt{2}\pi\)
+1992	shanghai	填空题	8	1	1	\([-1,+\infty)\)
+1992	shanghai	填空题	9	1	1	72
+1992	shanghai	填空题	10	1	1	\(\arcsin \frac{\sqrt{6}}{4}\)
+1992	shanghai	单选题	11	1	1	D
+1992	shanghai	单选题	12	1	1	C
+1992	shanghai	单选题	13	1	1	D
+1992	shanghai	单选题	14	1	1	D
+1992	shanghai	单选题	15	1	1	C
+1992	shanghai	单选题	16	1	1	A
+1992	shanghai	单选题	17	1	1	B
+1992	shanghai	单选题	18	1	1	A
+1992	shanghai	单选题	19	1	1	B
+1992	shanghai	单选题	20	1	1	B
+1992	shanghai	解答题	21	0	1	
+1992	shanghai	解答题	22	0	1	
+1992	shanghai	解答题	23	0	1	
+1992	shanghai	解答题	24	0	1	
+1992	shanghai	解答题	25	0	1	
+1992	shanghai	解答题	26	0	1	
+1993	shanghai	填空题	1	1	1	2
+1993	shanghai	填空题	2	1	1	\(\frac{\pi}{\omega}\)
+1993	shanghai	填空题	3	1	1	\(\frac{7\pi}{5}\)
+1993	shanghai	填空题	4	1	1	72
+1993	shanghai	填空题	5	1	1	\(y = \cos x\)（\(\frac{\pi}{2} \leqslant x \leqslant \pi\)）
+1993	shanghai	填空题	6	1	1	2
+1993	shanghai	填空题	7	1	1	\(600\pi\)
+1993	shanghai	填空题	8	1	1	12
+1993	shanghai	填空题	9	1	1	\(\rho \sin \theta = 2\)
+1993	shanghai	填空题	10	1	1	\(\arccos \frac{\sqrt{3}}{3}\)
+1993	shanghai	单选题	11	1	1	C
+1993	shanghai	单选题	12	1	1	B
+1993	shanghai	单选题	13	1	1	D
+1993	shanghai	单选题	14	1	1	C
+1993	shanghai	单选题	15	1	1	D
+1993	shanghai	单选题	16	1	1	B
+1993	shanghai	单选题	17	1	1	A
+1993	shanghai	单选题	18	1	1	C
+1993	shanghai	单选题	19	1	1	B
+1993	shanghai	单选题	20	1	1	C
+1993	shanghai	解答题	21	0	1	
+1993	shanghai	解答题	22	0	1	
+1993	shanghai	解答题	23	0	1	
+1993	shanghai	解答题	24	0	1	
+1993	shanghai	解答题	25	0	1	
+1993	shanghai	解答题	26	0	1	
+1994	shanghai	填空题	1	1	1	\(-2 < x < 0\)
+1994	shanghai	填空题	2	1	1	\(\frac{\sqrt{7}}{4}\)
+1994	shanghai	填空题	3	1	1	\((x + 2)^2 + (y - 3)^2 = 4\)
+1994	shanghai	填空题	4	1	1	\(x = 4\)
+1994	shanghai	填空题	5	1	1	\(24\)
+1994	shanghai	填空题	6	1	1	\(y = -\sqrt{x^2 + 1}\)（\(x \geqslant 0\)）
+1994	shanghai	填空题	7	1	1	\((0,\sqrt{3})\) 和 \((0,-\sqrt{3})\)
+1994	shanghai	填空题	8	1	1	\(40\)
+1994	shanghai	填空题	9	1	1	\(\sqrt{2} - 1\)
+1994	shanghai	填空题	10	1	1	\(\frac{\pi}{2}\)
+1994	shanghai	单选题	11	1	1	B
+1994	shanghai	单选题	12	1	1	A
+1994	shanghai	单选题	13	1	1	C
+1994	shanghai	单选题	14	1	1	C
+1994	shanghai	单选题	15	1	1	D
+1994	shanghai	单选题	16	1	1	B
+1994	shanghai	单选题	17	1	1	A
+1994	shanghai	单选题	18	1	1	D
+1994	shanghai	单选题	19	1	1	B
+1994	shanghai	单选题	20	1	1	C
+1994	shanghai	解答题	21	0	1	
+1994	shanghai	解答题	22	0	1	
+1994	shanghai	解答题	23	0	1	
+1994	shanghai	解答题	24	0	1	
+1994	shanghai	解答题	25	0	1	
+1994	shanghai	解答题	26	0	1	
+1994	shanghai_liberal	填空题	1	1	1	\(-2 < x < 0\)
+1994	shanghai_liberal	填空题	2	1	1	\(\pi\)
+1994	shanghai_liberal	填空题	3	1	1	\(-4\)
+1994	shanghai_liberal	填空题	4	1	1	\((x + 2)^2 + (y - 3)^2 = 4\)
+1994	shanghai_liberal	填空题	5	1	1	\(x = 4\)
+1994	shanghai_liberal	填空题	6	1	1	\(y = -\sqrt{x^{2} + 1}\)（\(x \geqslant 0\)）
+1994	shanghai_liberal	填空题	7	1	1	\((0,\sqrt{3})\) 和 \((0,-\sqrt{3})\)
+1994	shanghai_liberal	填空题	8	1	1	\(40\)
+1994	shanghai_liberal	填空题	9	1	1	\(-\frac{2}{3}\)
+1994	shanghai_liberal	填空题	10	1	1	\(25400\)
+1994	shanghai_liberal	单选题	11	1	1	B
+1994	shanghai_liberal	单选题	12	1	1	A
+1994	shanghai_liberal	单选题	13	1	1	C
+1994	shanghai_liberal	单选题	14	1	1	C
+1994	shanghai_liberal	单选题	15	1	1	D
+1994	shanghai_liberal	单选题	16	1	1	B
+1994	shanghai_liberal	单选题	17	1	1	A
+1994	shanghai_liberal	单选题	18	1	1	D
+1994	shanghai_liberal	单选题	19	1	1	B
+1994	shanghai_liberal	单选题	20	1	1	C
+1994	shanghai_liberal	解答题	21	0	1	
+1994	shanghai_liberal	解答题	22	0	1	
+1994	shanghai_liberal	解答题	23	0	1	
+1994	shanghai_liberal	解答题	24	0	1	
+1994	shanghai_liberal	解答题	25	0	1	
+1994	shanghai_liberal	解答题	26	0	1	
+1994	shanghai_science	填空题	1	1	1	\(-2 < x < 0\)
+1994	shanghai_science	填空题	2	1	1	\(-4\)
+1994	shanghai_science	填空题	3	1	1	\((x + 2)^2 + (y - 3)^2 = 4\)
+1994	shanghai_science	填空题	4	1	1	\(x = 4\)
+1994	shanghai_science	填空题	5	1	1	\(-\frac{2}{3}\)
+1994	shanghai_science	填空题	6	1	1	\(y = -\sqrt{x^2 + 1}\)（\(x \geqslant 0\)）
+1994	shanghai_science	填空题	7	1	1	\((0, \sqrt{3})\) 和 \((0, -\sqrt{3})\)
+1994	shanghai_science	填空题	8	1	1	\(40\)
+1994	shanghai_science	填空题	9	1	1	\(300\)
+1994	shanghai_science	填空题	10	1	1	\(\frac{\pi}{2}\)
+1994	shanghai_science	单选题	11	1	1	B
+1994	shanghai_science	单选题	12	1	1	A
+1994	shanghai_science	单选题	13	1	1	C
+1994	shanghai_science	单选题	14	1	1	C
+1994	shanghai_science	单选题	15	1	1	D
+1994	shanghai_science	单选题	16	1	1	B
+1994	shanghai_science	单选题	17	1	1	A
+1994	shanghai_science	单选题	18	1	1	D
+1994	shanghai_science	单选题	19	1	1	B
+1994	shanghai_science	单选题	20	1	1	C
+1994	shanghai_science	解答题	21	0	1	
+1994	shanghai_science	解答题	22	0	1	
+1994	shanghai_science	解答题	23	0	1	
+1994	shanghai_science	解答题	24	0	1	
+1994	shanghai_science	解答题	25	0	1	
+1994	shanghai_science	解答题	26	0	1	
+1995	shanghai_liberal	单选题	1	1	1	C
+1995	shanghai_liberal	单选题	2	1	1	B
+1995	shanghai_liberal	单选题	3	1	1	B
+1995	shanghai_liberal	单选题	4	1	1	C
+1995	shanghai_liberal	单选题	5	1	1	A
+1995	shanghai_liberal	单选题	6	1	1	A
+1995	shanghai_liberal	单选题	7	1	1	D
+1995	shanghai_liberal	单选题	8	1	1	B
+1995	shanghai_liberal	填空题	9	1	1	\(x<-3\) 或 \(x>4\)
+1995	shanghai_liberal	填空题	10	1	1	\(3x\pm4y=0\)
+1995	shanghai_liberal	填空题	11	1	1	\(y=54.8\left(1+x\%\right)^8\)
+1995	shanghai_liberal	填空题	12	1	1	\(1\)
+1995	shanghai_liberal	填空题	13	1	1	\(11\)
+1995	shanghai_liberal	填空题	14	1	1	\(y^2=-8x+8\)
+1995	shanghai_liberal	填空题	15	1	1	\(-\sqrt{\frac{x-1}{3}}\)（\(x\geqslant1\)）
+1995	shanghai_liberal	填空题	16	1	1	\((\lg2,+\infty)\)
+1995	shanghai_liberal	填空题	17	1	1	\(\left[-\frac{3\pi}{2},\frac{\pi}{2}\right]\)
+1995	shanghai_liberal	选做题：填空题	18	1	1	\(-2<r<0\)
+1995	shanghai_liberal	选做题：填空题	19	1	1	\(350\)
+1995	shanghai_liberal	选做题：填空题	20	1	1	\(37.70\)（或 \(37.68\) 或 \(37.69\)）
+1995	shanghai_liberal	选做题：填空题	21	1	1	\(\e\)
+1995	shanghai_liberal	选做题：填空题	22	1	1	\(\frac{25}{33}\)（或 \(0.76\)）
+1995	shanghai_liberal	选做题：填空题	23	1	1	\(14\)
+1995	shanghai_liberal	选做题：解答题	24	0	1	
+1995	shanghai_liberal	选做题：解答题	25	0	1	
+1995	shanghai_liberal	选做题：解答题	26	0	1	
+1995	shanghai_liberal	选做题：解答题	27	0	1	
+1995	shanghai_liberal	解答题	28	0	1	
+1995	shanghai_liberal	解答题	29	0	1	
+1995	shanghai_liberal	解答题	30	0	1	
+1995	shanghai_science	单选题	1	1	1	C
+1995	shanghai_science	单选题	2	1	1	B
+1995	shanghai_science	单选题	3	1	1	B
+1995	shanghai_science	单选题	4	1	1	C
+1995	shanghai_science	单选题	5	1	1	A
+1995	shanghai_science	单选题	6	1	1	A
+1995	shanghai_science	单选题	7	1	1	D
+1995	shanghai_science	单选题	8	1	1	B
+1995	shanghai_science	填空题	9	1	1	\(x<-3\) 或 \(x>4\)
+1995	shanghai_science	填空题	10	1	1	\(3x\pm4y=0\)
+1995	shanghai_science	填空题	11	1	1	\(y=54.8(1+x\%)^8\)
+1995	shanghai_science	填空题	12	1	1	\(1\)
+1995	shanghai_science	填空题	13	1	1	\(11\)
+1995	shanghai_science	填空题	14	1	1	\(y^2=-8x+8\)
+1995	shanghai_science	填空题	15	1	1	\(x^2+(y-1)^2=1\)
+1995	shanghai_science	填空题	16	1	1	\(3x^2-y^2=1\)
+1995	shanghai_science	填空题	17	1	1	\(\left[-\frac{3\pi}{2},\frac{\pi}{2}\right]\)
+1995	shanghai_science	选做题：填空题	18	1	1	\(-2<r<0\)
+1995	shanghai_science	选做题：填空题	19	1	1	\(350\)
+1995	shanghai_science	选做题：填空题	20	1	1	\(37.70\)（或 \(37.68\)，\(37.69\)）
+1995	shanghai_science	选做题：填空题	21	1	1	\(\e\)
+1995	shanghai_science	选做题：填空题	22	1	1	\(\frac{25}{33}\)（或 \(0.76\)）
+1995	shanghai_science	选做题：填空题	23	1	1	\(2+\i\)
+1995	shanghai_science	选做题：解答题	24	0	1	
+1995	shanghai_science	选做题：解答题	25	0	1	
+1995	shanghai_science	选做题：解答题	26	0	1	
+1995	shanghai_science	选做题：解答题	27	0	1	
+1995	shanghai_science	解答题	28	0	1	
+1995	shanghai_science	解答题	29	0	1	
+1995	shanghai_science	解答题	30	0	1	
+1996	shanghai_liberal	单选题	1	1	1	D
+1996	shanghai_liberal	单选题	2	1	1	B
+1996	shanghai_liberal	单选题	3	1	1	B
+1996	shanghai_liberal	单选题	4	1	1	C
+1996	shanghai_liberal	单选题	5	1	1	C
+1996	shanghai_liberal	单选题	6	1	1	D
+1996	shanghai_liberal	单选题	7	1	1	D
+1996	shanghai_liberal	单选题	8	1	1	A
+1996	shanghai_liberal	填空题	9	1	1	\(1\)
+1996	shanghai_liberal	填空题	10	1	1	\(\{x \mid 1 < x < 2\}\)（或 \((1,2)\)）
+1996	shanghai_liberal	填空题	11	1	1	\(\frac{7\pi}{12}\)
+1996	shanghai_liberal	填空题	12	1	1	\(y=-\sqrt{\frac{1}{x}}\)（\(x>0\)）
+1996	shanghai_liberal	填空题	13	1	1	\(y^2=6x-3\)
+1996	shanghai_liberal	填空题	14	1	1	\(4\)
+1996	shanghai_liberal	选做题：填空题	15	1	1	\((4,2)\)
+1996	shanghai_liberal	选做题：填空题	16	1	1	\((1,-1)\)
+1996	shanghai_liberal	选做题：填空题	17	1	1	\(1440\)
+1996	shanghai_liberal	选做题：填空题	18	1	1	\(\frac{2\sqrt{2}}{3}\pi\)
+1996	shanghai_liberal	选做题：填空题	19	1	1	\(-63\)
+1996	shanghai_liberal	选做题：填空题	20	1	1	\(-\frac{1}{4}\)
+1996	shanghai_liberal	选做题：填空题	21	1	1	\(\frac{1}{28}\)
+1996	shanghai_liberal	选做题：填空题	22	1	1	投资房地产
+1996	shanghai_liberal	解答题	23	0	1	
+1996	shanghai_liberal	解答题	24	0	1	
+1996	shanghai_liberal	解答题	25	0	1	
+1996	shanghai_liberal	选做题：解答题	26	0	1	
+1996	shanghai_liberal	选做题：解答题	27	0	1	
+1996	shanghai_liberal	解答题	28	0	1	
+1996	shanghai_liberal	解答题	29	0	1	
+1996	shanghai_science	单选题	1	1	1	D
+1996	shanghai_science	单选题	2	1	1	B
+1996	shanghai_science	单选题	3	1	1	B
+1996	shanghai_science	单选题	4	1	1	C
+1996	shanghai_science	单选题	5	1	1	C
+1996	shanghai_science	单选题	6	1	1	D
+1996	shanghai_science	单选题	7	1	1	D
+1996	shanghai_science	单选题	8	1	1	A
+1996	shanghai_science	填空题	9	1	1	\(1\)
+1996	shanghai_science	填空题	10	1	1	\(\{x\mid 1<x<2\}\)（或 \((1,2)\)）
+1996	shanghai_science	填空题	11	1	1	\(2\pi - 2\arcsin \frac{1}{3}\)
+1996	shanghai_science	填空题	12	1	1	\(y=-\sqrt{\frac{1}{x}}\)（\(x>0\)）
+1996	shanghai_science	填空题	13	1	1	\(\frac{\sqrt{2}}{2}\)
+1996	shanghai_science	填空题	14	1	1	\(-8\)
+1996	shanghai_science	选做题：填空题	15	1	1	\((4,2)\)
+1996	shanghai_science	选做题：填空题	16	1	1	\((1,-1)\)
+1996	shanghai_science	选做题：填空题	17	1	1	\(1440\)
+1996	shanghai_science	选做题：填空题	18	1	1	\(\frac{5}{8}\)
+1996	shanghai_science	选做题：填空题	19	1	1	\(-63\)
+1996	shanghai_science	选做题：填空题	20	1	1	\(-\frac{1}{4}\)
+1996	shanghai_science	选做题：填空题	21	1	1	\(\frac{1}{28}\)
+1996	shanghai_science	选做题：填空题	22	1	1	\(\frac{\sqrt{6}}{2}-\frac{\sqrt{2}}{2}\i\)（或 \(\sqrt{2}\left(\cos \frac{11\pi}{6}+\i\sin \frac{11\pi}{6}\right)\)）
+1996	shanghai_science	解答题	23	0	1	
+1996	shanghai_science	解答题	24	0	1	
+1996	shanghai_science	解答题	25	0	1	
+1996	shanghai_science	选做题：解答题	26	0	1	
+1996	shanghai_science	选做题：解答题	27	0	1	
+1996	shanghai_science	解答题	28	0	1	
+1996	shanghai_science	解答题	29	0	1	
+1997	shanghai_liberal	单选题	1	1	1	B
+1997	shanghai_liberal	单选题	2	1	1	D
+1997	shanghai_liberal	单选题	3	1	1	B
+1997	shanghai_liberal	单选题	4	1	1	C
+1997	shanghai_liberal	单选题	5	1	1	A
+1997	shanghai_liberal	单选题	6	1	1	D
+1997	shanghai_liberal	填空题	7	1	1	\(x=-5\)
+1997	shanghai_liberal	填空题	8	1	1	8
+1997	shanghai_liberal	填空题	9	1	1	\(-2\i\)
+1997	shanghai_liberal	填空题	10	1	1	\(x+y-4=0\)
+1997	shanghai_liberal	填空题	11	1	1	54
+1997	shanghai_liberal	填空题	12	1	1	\(\frac{1}{2}\)
+1997	shanghai_liberal	选做题：填空题	13	1	1	\(-4\)
+1997	shanghai_liberal	选做题：填空题	14	1	1	\(\e^{4}\)
+1997	shanghai_liberal	选做题：填空题	15	1	1	32
+1997	shanghai_liberal	选做题：填空题	16	1	1	\(-2\)
+1997	shanghai_liberal	选做题：填空题	17	1	1	\(\frac{5}{3}\)
+1997	shanghai_liberal	选做题：填空题	18	1	1	\(\left(0,\frac{4}{3}\right)\)
+1997	shanghai_liberal	选做题：填空题	19	1	1	30
+1997	shanghai_liberal	选做题：填空题	20	1	1	\(\frac{1}{7}\)
+1997	shanghai_liberal	解答题	21	0	1	
+1997	shanghai_liberal	解答题	22	0	1	
+1997	shanghai_liberal	解答题	23	0	1	
+1997	shanghai_liberal	选做题：解答题	24	0	1	
+1997	shanghai_liberal	选做题：解答题	25	0	1	
+1997	shanghai_liberal	解答题	26	0	1	
+1997	shanghai_liberal	解答题	27	0	1	
+1997	shanghai_science	单选题	1	1	1	B
+1997	shanghai_science	单选题	2	1	1	D
+1997	shanghai_science	单选题	3	1	1	B
+1997	shanghai_science	单选题	4	1	1	C
+1997	shanghai_science	单选题	5	1	1	A
+1997	shanghai_science	单选题	6	1	1	D
+1997	shanghai_science	填空题	7	1	1	\((-4,0)\)
+1997	shanghai_science	填空题	8	1	1	8
+1997	shanghai_science	填空题	9	1	1	\(-4\)
+1997	shanghai_science	填空题	10	1	1	\(x+y-4=0\)
+1997	shanghai_science	填空题	11	1	1	54
+1997	shanghai_science	填空题	12	1	1	\(\frac{1}{2}\)
+1997	shanghai_science	选做题：填空题	13	1	1	\(-4\)
+1997	shanghai_science	选做题：填空题	14	1	1	32
+1997	shanghai_science	选做题：填空题	15	1	1	\(\frac{5}{3}\)
+1997	shanghai_science	选做题：填空题	16	1	1	30
+1997	shanghai_science	选做题：填空题	17	1	1	\(\e^4\)
+1997	shanghai_science	选做题：填空题	18	1	1	\(-2\)
+1997	shanghai_science	选做题：填空题	19	1	1	\(\left(0,\frac{4}{3}\right)\)
+1997	shanghai_science	选做题：填空题	20	1	1	\(\frac{1}{7}\)
+1997	shanghai_science	解答题	21	0	1	
+1997	shanghai_science	解答题	22	0	1	
+1997	shanghai_science	解答题	23	0	1	
+1997	shanghai_science	选做题：解答题	24	0	1	
+1997	shanghai_science	选做题：解答题	25	0	1	
+1997	shanghai_science	解答题	26	0	1	
+1997	shanghai_science	解答题	27	0	1	
+1998	shanghai_liberal	填空题	1	1	1	2
+1998	shanghai_liberal	填空题	2	1	1	5
+1998	shanghai_liberal	填空题	3	1	1	4
+1998	shanghai_liberal	填空题	4	1	1	\((x-2)^3+1\)，\(x\in\R\)
+1998	shanghai_liberal	填空题	5	1	1	\(\dfrac{2\sqrt{2}}{3}\)
+1998	shanghai_liberal	填空题	6	1	1	11
+1998	shanghai_liberal	填空题	7	1	1	\(\dfrac{18}{35}\)
+1998	shanghai_liberal	填空题	8	1	1	4
+1998	shanghai_liberal	填空题	9	1	1	4
+1998	shanghai_liberal	填空题	10	1	1	2
+1998	shanghai_liberal	填空题	11	1	1	\(\dfrac{x^2}{9}-\dfrac{y^2}{16}=1\)
+1998	shanghai_liberal	单选题	12	1	1	B
+1998	shanghai_liberal	单选题	13	1	1	A
+1998	shanghai_liberal	单选题	14	1	1	C
+1998	shanghai_liberal	单选题	15	1	1	D
+1998	shanghai_liberal	单选题	16	1	1	C
+1998	shanghai_liberal	解答题	17	0	1	
+1998	shanghai_liberal	解答题	18	0	1	
+1998	shanghai_liberal	解答题	19	0	1	
+1998	shanghai_liberal	解答题	20	0	1	
+1998	shanghai_liberal	解答题	21	0	1	
+1998	shanghai_liberal	解答题	22	0	1	
+1998	shanghai_science	填空题	1	1	1	\(2\)
+1998	shanghai_science	填空题	2	1	1	\(5\)
+1998	shanghai_science	填空题	3	1	1	\(4\)
+1998	shanghai_science	填空题	4	1	1	\((x-2)^3+1\)，\(x\in\R\)
+1998	shanghai_science	填空题	5	1	1	\(\frac{2\sqrt{2}}{3}\)
+1998	shanghai_science	填空题	6	1	1	\(\frac{x^2}{3}+\frac{y^2}{4}=1\)
+1998	shanghai_science	填空题	7	1	1	\(\frac{18}{35}\)
+1998	shanghai_science	填空题	8	1	1	\(4\)
+1998	shanghai_science	填空题	9	1	1	\(4\)
+1998	shanghai_science	填空题	10	1	1	\(2\)
+1998	shanghai_science	填空题	11	1	1	\(\frac{1}{2}\) 或 \(\frac{3}{2}\)
+1998	shanghai_science	单选题	12	1	1	B
+1998	shanghai_science	单选题	13	1	1	A
+1998	shanghai_science	单选题	14	1	1	C
+1998	shanghai_science	单选题	15	1	1	D
+1998	shanghai_science	单选题	16	1	1	C
+1998	shanghai_science	解答题	17	0	1	
+1998	shanghai_science	解答题	18	0	1	
+1998	shanghai_science	解答题	19	0	1	
+1998	shanghai_science	解答题	20	0	1	
+1998	shanghai_science	解答题	21	0	1	
+1998	shanghai_science	解答题	22	0	1	
+1999	shanghai_liberal	填空题	1	1	1	\(2-\sqrt{3}\)
+1999	shanghai_liberal	填空题	2	1	1	\([3,+\infty)\)
+1999	shanghai_liberal	填空题	3	1	1	\(40\)
+1999	shanghai_liberal	填空题	4	1	1	\(2\sqrt{3}\) 或 \(\sqrt{3}\)
+1999	shanghai_liberal	填空题	5	1	1	\((2,2)\)
+1999	shanghai_liberal	填空题	6	1	1	\(\pi\)
+1999	shanghai_liberal	填空题	7	1	1	\(\left(-\frac{5\pi}{6},-\frac{\pi}{3}\right)\)
+1999	shanghai_liberal	填空题	8	1	1	\(4\)
+1999	shanghai_liberal	填空题	9	1	1	\(\frac{1}{2}\)
+1999	shanghai_liberal	填空题	10	1	1	\(9\)
+1999	shanghai_liberal	填空题	11	1	1	\(\frac{2}{9}\)
+1999	shanghai_liberal	填空题	12	1	1	\(\frac{\sqrt{11}}{12}\)；\(\frac{\sqrt{14}}{12}\)；\(\frac{\sqrt{11}}{6}\)（三者中的任一个）
+1999	shanghai_liberal	单选题	13	1	1	C
+1999	shanghai_liberal	单选题	14	1	1	D
+1999	shanghai_liberal	单选题	15	1	1	B
+1999	shanghai_liberal	单选题	16	1	1	C
+1999	shanghai_liberal	解答题	17	0	1	
+1999	shanghai_liberal	解答题	18	0	1	
+1999	shanghai_liberal	解答题	19	0	1	
+1999	shanghai_liberal	解答题	20	0	1	
+1999	shanghai_liberal	解答题	21	0	1	
+1999	shanghai_liberal	解答题	22	0	1	
+1999	shanghai_science	填空题	1	1	1	\(2-\sqrt{3}\)
+1999	shanghai_science	填空题	2	1	1	\([3,+\infty)\)
+1999	shanghai_science	填空题	3	1	1	\(40\)
+1999	shanghai_science	填空题	4	1	1	\(2\sqrt{3}\) 或 \(\sqrt{3}\)
+1999	shanghai_science	填空题	5	1	1	\((2,2)\)
+1999	shanghai_science	填空题	6	1	1	\(\pi\)
+1999	shanghai_science	填空题	7	1	1	\(\left(-\frac{5\pi}{6},-\frac{\pi}{3}\right)\)
+1999	shanghai_science	填空题	8	1	1	\(\left\{\frac{\sqrt2}{2}, \frac{3\sqrt2}{2}\right\}\)
+1999	shanghai_science	填空题	9	1	1	\(\left(\sqrt{10},0\right)\)，\(\left(\sqrt{10},\pi\right)\)
+1999	shanghai_science	填空题	10	1	1	\(9\)
+1999	shanghai_science	填空题	11	1	1	\(\frac{2}{9}\)
+1999	shanghai_science	填空题	12	1	1	\(\frac{\sqrt{11}}{12}\)，\(\frac{\sqrt{14}}{12}\)，\(\frac{\sqrt{11}}{6}\)（三者中的任一个）
+1999	shanghai_science	单选题	13	1	1	C
+1999	shanghai_science	单选题	14	1	1	D
+1999	shanghai_science	单选题	15	1	1	B
+1999	shanghai_science	单选题	16	1	1	C
+1999	shanghai_science	解答题	17	0	1	
+1999	shanghai_science	解答题	18	0	1	
+1999	shanghai_science	解答题	19	0	1	
+1999	shanghai_science	解答题	20	0	1	
+1999	shanghai_science	解答题	21	0	1	
+1999	shanghai_science	解答题	22	0	1	
+2000	shanghai_liberal	填空题	1	1	1	\(\dfrac{3}{2}\)
+2000	shanghai_liberal	填空题	2	1	1	\(\left(\frac{1}{2},3\right)\)
+2000	shanghai_liberal	填空题	3	1	1	\(\left(-4,0\right)\)，\(\left(6,0\right)\)
+2000	shanghai_liberal	填空题	4	1	1	\(\e^{-2}\)
+2000	shanghai_liberal	填空题	5	1	1	\(1\)
+2000	shanghai_liberal	填空题	6	1	1	\(9\)
+2000	shanghai_liberal	填空题	7	1	1	侧棱相等
+2000	shanghai_liberal	填空题	8	1	1	\(x\)
+2000	shanghai_liberal	填空题	9	1	1	\(-462\)
+2000	shanghai_liberal	填空题	10	1	1	\(\dfrac{1}{14}\)
+2000	shanghai_liberal	填空题	11	1	1	\((0,5)\)
+2000	shanghai_liberal	填空题	12	1	1	\(b_1b_2\cdots b_n=b_1b_2\cdots b_{17-n}\)，\((n<17,\ n\in\N^{*})\)
+2000	shanghai_liberal	单选题	13	1	1	C
+2000	shanghai_liberal	单选题	14	1	1	A
+2000	shanghai_liberal	单选题	15	1	1	A
+2000	shanghai_liberal	单选题	16	1	1	D
+2000	shanghai_liberal	解答题	17	0	1	
+2000	shanghai_liberal	解答题	18	0	1	
+2000	shanghai_liberal	解答题	19	0	1	
+2000	shanghai_liberal	解答题	20	0	1	
+2000	shanghai_liberal	解答题	21	0	1	
+2000	shanghai_liberal	解答题	22	0	1	
+2000	shanghai_science	填空题	1	1	1	\(\dfrac{3}{2}\)
+2000	shanghai_science	填空题	2	1	1	\(\left(\frac{1}{2},3\right)\)
+2000	shanghai_science	填空题	3	1	1	\((-4,0)\)，\((6,0)\)
+2000	shanghai_science	填空题	4	1	1	\(\e^{-2}\)
+2000	shanghai_science	填空题	5	1	1	\(1\)
+2000	shanghai_science	填空题	6	1	1	\(9\)
+2000	shanghai_science	填空题	7	1	1	侧棱相等
+2000	shanghai_science	填空题	8	1	1	\(x\)
+2000	shanghai_science	填空题	9	1	1	\(-462\)
+2000	shanghai_science	填空题	10	1	1	\(\frac{1}{14}\)
+2000	shanghai_science	填空题	11	1	1	\(2\sqrt{3}\)
+2000	shanghai_science	填空题	12	1	1	\(b_{1}b_{2}\cdots b_{n}=b_{1}b_{2}\cdots b_{17-n}\)，\(n<17\)，\(n\in\N^*\)
+2000	shanghai_science	单选题	13	1	1	C
+2000	shanghai_science	单选题	14	1	1	A
+2000	shanghai_science	单选题	15	1	1	A
+2000	shanghai_science	单选题	16	1	1	D
+2000	shanghai_science	解答题	17	0	1	
+2000	shanghai_science	解答题	18	0	1	
+2000	shanghai_science	解答题	19	0	1	
+2000	shanghai_science	解答题	20	0	1	
+2000	shanghai_science	解答题	21	0	1	
+2000	shanghai_science	解答题	22	0	1	
+2000	shanghai_spring	填空题	1	1	1	\(-\dfrac{7}{25}\)
+2000	shanghai_spring	填空题	2	1	1	\(-\dfrac12\)
+2000	shanghai_spring	填空题	3	1	1	\(x=2\)
+2000	shanghai_spring	填空题	4	1	1	\(\dfrac{1}{a}\)
+2000	shanghai_spring	填空题	5	1	1	\(60^\circ\)
+2000	shanghai_spring	填空题	6	1	1	\(x+2y-1=0\)
+2000	shanghai_spring	填空题	7	1	1	\(\dfrac{3}{2}\)
+2000	shanghai_spring	填空题	8	1	1	\(45^\circ\)
+2000	shanghai_spring	填空题	9	1	1	\(5\sqrt{5}\)
+2000	shanghai_spring	填空题	10	1	1	\(5\)
+2000	shanghai_spring	填空题	11	1	1	\(3\) 或 \(7\)
+2000	shanghai_spring	填空题	12	1	1	\(\overline{Q}\cap P\)
+2000	shanghai_spring	单选题	13	1	1	B
+2000	shanghai_spring	单选题	14	1	1	D
+2000	shanghai_spring	单选题	15	1	1	A
+2000	shanghai_spring	单选题	16	1	1	A
+2000	shanghai_spring	解答题	17	0	1	
+2000	shanghai_spring	解答题	18	0	1	
+2000	shanghai_spring	解答题	19	0	1	
+2000	shanghai_spring	解答题	20	0	1	
+2000	shanghai_spring	解答题	21	0	1	
+2000	shanghai_spring	解答题	22	0	1	
+2001	shanghai_liberal	填空题	1	1	1	\(3\)
+2001	shanghai_liberal	填空题	2	1	1	\(153\)
+2001	shanghai_liberal	填空题	3	1	1	\(x^2-4y^2=1\)
+2001	shanghai_liberal	填空题	4	1	1	\(1\)
+2001	shanghai_liberal	填空题	5	1	1	\(\left(0,\frac{1}{4}\right)\)
+2001	shanghai_liberal	填空题	6	1	1	\((0,7)\)
+2001	shanghai_liberal	填空题	7	1	1	\(7\)
+2001	shanghai_liberal	填空题	8	1	1	\(0\)
+2001	shanghai_liberal	填空题	9	1	1	\(\left[0,\frac{2\pi}{3}\right]\)
+2001	shanghai_liberal	填空题	10	1	1	\(A_3\)
+2001	shanghai_liberal	填空题	11	1	1	若两圆方程为 \((x-a)^2+(y-b)^2=r^2\) 与 \((x-c)^2+(y-d)^2=r^2\)，且 \(a\ne c\) 或 \(b\ne d\)，则由两式相减可得两圆的对称轴方程.
+2001	shanghai_liberal	填空题	12	1	1	在 \(1950\) 至 \(1970\)、\(1970\) 至 \(1990\)、\(1990\) 至 \(2000\) 年间，纵坐标分别为 \(16\)、\(21\)、\(25\)（百平方公里）.
+2001	shanghai_liberal	单选题	13	1	1	C
+2001	shanghai_liberal	单选题	14	1	1	A
+2001	shanghai_liberal	单选题	15	1	1	D
+2001	shanghai_liberal	单选题	16	1	1	D
+2001	shanghai_liberal	解答题	17	0	1	
+2001	shanghai_liberal	解答题	18	0	1	
+2001	shanghai_liberal	解答题	19	0	1	
+2001	shanghai_liberal	解答题	20	0	1	
+2001	shanghai_liberal	解答题	21	0	1	
+2001	shanghai_liberal	解答题	22	0	1	
+2001	shanghai_science	填空题	1	1	1	\(3\)
+2001	shanghai_science	填空题	2	1	1	\(58\)
+2001	shanghai_science	填空题	3	1	1	\(x^2-4y^2=1\)
+2001	shanghai_science	填空题	4	1	1	\(1\)
+2001	shanghai_science	填空题	5	1	1	\(\left(0,\frac14\right)\)
+2001	shanghai_science	填空题	6	1	1	\((0,7)\)
+2001	shanghai_science	填空题	7	1	1	\(7\)
+2001	shanghai_science	填空题	8	1	1	\(15\)
+2001	shanghai_science	填空题	9	1	1	\(\left[0,\frac{2\pi}{3}\right]\)
+2001	shanghai_science	填空题	10	1	1	\(\left(\frac12,\frac12\right)\)
+2001	shanghai_science	填空题	11	1	1	若两圆方程为 \((x-a)^2+(y-b)^2=r^2\) 与 \((x-c)^2+(y-d)^2=r^2\)，且 \(a\ne c\) 或 \(b\ne d\)，则由两式相减可得两圆的对称轴方程.
+2001	shanghai_science	填空题	12	1	1	阶梯图在 \(1950\) 至 \(1970\)、\(1970\) 至 \(1990\)、\(1990\) 至 \(2000\) 年间的纵坐标分别为 \(16\)、\(21\)、\(25\)（百平方公里）.
+2001	shanghai_science	单选题	13	1	1	C
+2001	shanghai_science	单选题	14	1	1	A
+2001	shanghai_science	单选题	15	1	1	D
+2001	shanghai_science	单选题	16	1	1	D
+2001	shanghai_science	解答题	17	0	1	
+2001	shanghai_science	解答题	18	0	1	
+2001	shanghai_science	解答题	19	0	1	
+2001	shanghai_science	解答题	20	0	1	
+2001	shanghai_science	解答题	21	0	1	
+2001	shanghai_science	解答题	22	0	1	
+2001	shanghai_spring	填空题	1	1	1	\(-\sqrt{x-1}\)（\(x\geqslant1\)）
+2001	shanghai_spring	填空题	2	1	1	\(1+\i\)
+2001	shanghai_spring	填空题	3	1	1	\(2\pi\)
+2001	shanghai_spring	填空题	4	1	1	\(20\)
+2001	shanghai_spring	填空题	5	1	1	\(\dfrac{x^{2}}{9}-\dfrac{y^{2}}{16}=1\)
+2001	shanghai_spring	填空题	6	1	1	\((x-1)^{2}+(y-1)^{2}=1\)
+2001	shanghai_spring	填空题	7	1	1	\(\e^{2}\)
+2001	shanghai_spring	填空题	8	1	1	\(\dfrac{\pi}{2}\)
+2001	shanghai_spring	填空题	9	1	1	\(\dfrac{4}{5}\)
+2001	shanghai_spring	填空题	10	1	1	\(a\ast b+b\ast c=a\ast c+b\)
+2001	shanghai_spring	填空题	11	1	1	序号为 \(1\)，取 \(\varphi=k\pi\)（\(k\in\Z\)）.
+2001	shanghai_spring	填空题	12	1	1	\(219.01\)
+2001	shanghai_spring	单选题	13	1	1	A
+2001	shanghai_spring	单选题	14	1	1	C
+2001	shanghai_spring	单选题	15	1	1	D
+2001	shanghai_spring	单选题	16	1	1	B
+2001	shanghai_spring	解答题	17	0	1	
+2001	shanghai_spring	解答题	18	0	1	
+2001	shanghai_spring	解答题	19	0	1	
+2001	shanghai_spring	解答题	20	0	1	
+2001	shanghai_spring	解答题	21	0	1	
+2001	shanghai_spring	解答题	22	0	1	
+2002	shanghai_liberal	填空题	1	1	1	\(-3-\i\)
+2002	shanghai_liberal	填空题	2	1	1	\(13\)
+2002	shanghai_liberal	填空题	3	1	1	\(-1\)
+2002	shanghai_liberal	填空题	4	1	1	\(30^{\circ}\)
+2002	shanghai_liberal	填空题	5	1	1	\(\dfrac{1}{2}\)
+2002	shanghai_liberal	填空题	6	1	1	\(\dfrac{4}{3}\)
+2002	shanghai_liberal	填空题	7	1	1	\(\dfrac{3}{13}\)
+2002	shanghai_liberal	填空题	8	1	1	\((2,1)\)
+2002	shanghai_liberal	填空题	9	1	1	\(11\)
+2002	shanghai_liberal	填空题	10	1	1	\(\dfrac{(2k+1)\pi}{4}\)，\(k\in\Z\)
+2002	shanghai_liberal	填空题	11	1	1	\(3^{2^{n-1}}\)
+2002	shanghai_liberal	填空题	12	1	1	其图象在直线 \(y=x\) 的下方，且与 \(y\) 轴的交点为 \((0,a)\)
+2002	shanghai_liberal	单选题	13	1	1	D
+2002	shanghai_liberal	单选题	14	1	1	B
+2002	shanghai_liberal	单选题	15	1	1	C
+2002	shanghai_liberal	单选题	16	1	1	C
+2002	shanghai_liberal	解答题	17	0	1	
+2002	shanghai_liberal	解答题	18	0	1	
+2002	shanghai_liberal	解答题	19	0	1	
+2002	shanghai_liberal	解答题	20	0	1	
+2002	shanghai_liberal	解答题	21	0	1	
+2002	shanghai_liberal	解答题	22	0	1	
+2002	shanghai_science	填空题	1	1	1	\(-3-\i\)
+2002	shanghai_science	填空题	2	1	1	\(13\)
+2002	shanghai_science	填空题	3	1	1	\(-1\)
+2002	shanghai_science	填空题	4	1	1	\(30^\circ\)
+2002	shanghai_science	填空题	5	1	1	\(\frac{1}{2}\)
+2002	shanghai_science	填空题	6	1	1	\(\frac{4}{3}\)
+2002	shanghai_science	填空题	7	1	1	\(\frac{3}{13}\)
+2002	shanghai_science	填空题	8	1	1	\((0,1)\)
+2002	shanghai_science	填空题	9	1	1	\(\left(\sqrt{19},\arctan\frac{\sqrt{3}}{4}\right)\)
+2002	shanghai_science	填空题	10	1	1	\(\frac{\pi}{4}\)
+2002	shanghai_science	填空题	11	1	1	\(3^{2^{n-1}}\)
+2002	shanghai_science	填空题	12	1	1	\(f^{-1}(0)=a\)，且 \(f^{-1}(x)<x\)（\(x\in A\)）
+2002	shanghai_science	单选题	13	1	1	D
+2002	shanghai_science	单选题	14	1	1	B
+2002	shanghai_science	单选题	15	1	1	C
+2002	shanghai_science	单选题	16	1	1	C
+2002	shanghai_science	解答题	17	0	1	
+2002	shanghai_science	解答题	18	0	1	
+2002	shanghai_science	解答题	19	0	1	
+2002	shanghai_science	解答题	20	0	1	
+2002	shanghai_science	解答题	21	0	1	
+2002	shanghai_science	解答题	22	0	1	
+2002	shanghai_spring	填空题	1	1	1	\(\left(-\infty,-3\right)\cup\left(-3,1\right)\cup\left(1,+\infty\right)\)
+2002	shanghai_spring	填空题	2	1	1	\(\frac{(x-2)^2}{25}+\frac{y^2}{16}=1\)
+2002	shanghai_spring	填空题	3	1	1	\(P\mathbin{\backslash}Q\)
+2002	shanghai_spring	填空题	4	1	1	\(-1\)
+2002	shanghai_spring	填空题	5	1	1	\(18\)
+2002	shanghai_spring	填空题	6	1	1	\(\frac{2}{\sin\alpha}\)
+2002	shanghai_spring	填空题	7	1	1	\(\frac{1}{20}\)
+2002	shanghai_spring	填空题	8	1	1	\(F_1(a,b)\ne0\)（或 \(F_2(a,b)\ne0\)）
+2002	shanghai_spring	填空题	9	1	1	\(\frac{3}{4}\)
+2002	shanghai_spring	填空题	10	1	1	\(3\)
+2002	shanghai_spring	填空题	11	1	1	\(40.8\)
+2002	shanghai_spring	填空题	12	1	1	\(\frac{V_{O-P_{1}Q_{1}R_{1}}}{V_{O-P_{2}Q_{2}R_{2}}} = \frac{OP_{1}}{OP_{2}} \cdot \frac{OQ_{1}}{OQ_{2}} \cdot \frac{OR_{1}}{OR_{2}}\)
+2002	shanghai_spring	单选题	13	1	1	D
+2002	shanghai_spring	单选题	14	1	1	C
+2002	shanghai_spring	单选题	15	1	1	B
+2002	shanghai_spring	单选题	16	1	1	C
+2002	shanghai_spring	解答题	17	0	1	
+2002	shanghai_spring	解答题	18	0	1	
+2002	shanghai_spring	解答题	19	0	1	
+2002	shanghai_spring	解答题	20	0	1	
+2002	shanghai_spring	解答题	21	0	1	
+2002	shanghai_spring	解答题	22	0	1	
+2003	shanghai_liberal	填空题	1	1	1	\(\pi\)
+2003	shanghai_liberal	填空题	2	1	1	\(\frac{4\pi}{3}\)
+2003	shanghai_liberal	填空题	3	1	1	\(-49\)
+2003	shanghai_liberal	填空题	4	1	1	\(\left(-\frac{1}{2},\frac{1}{2}\right)\)
+2003	shanghai_liberal	填空题	5	1	1	\(\arctan 2\)
+2003	shanghai_liberal	填空题	6	1	1	\(\left[1,3\right]\)
+2003	shanghai_liberal	填空题	7	1	1	\(\arccos\frac{11}{16}\)
+2003	shanghai_liberal	填空题	8	1	1	\(\left(1,\frac{1}{2}\right)\)
+2003	shanghai_liberal	填空题	9	1	1	\(\frac{119}{190}\)
+2003	shanghai_liberal	填空题	10	1	1	\(2.6\)
+2003	shanghai_liberal	填空题	11	1	1	\(4\pi\)
+2003	shanghai_liberal	填空题	12	1	1	\(\left|PF_{2}\right|=17\)
+2003	shanghai_liberal	单选题	13	1	1	C
+2003	shanghai_liberal	单选题	14	1	1	D
+2003	shanghai_liberal	单选题	15	1	1	D
+2003	shanghai_liberal	单选题	16	1	1	B
+2003	shanghai_liberal	解答题	17	0	1	
+2003	shanghai_liberal	解答题	18	0	1	
+2003	shanghai_liberal	解答题	19	0	1	
+2003	shanghai_liberal	解答题	20	0	1	
+2003	shanghai_liberal	解答题	21	0	1	
+2003	shanghai_liberal	解答题	22	0	1	
+2003	shanghai_science	填空题	1	1	1	\(\pi\)
+2003	shanghai_science	填空题	2	1	1	\(\frac{4\pi}{3}\)
+2003	shanghai_science	填空题	3	1	1	\(-49\)
+2003	shanghai_science	填空题	4	1	1	\(\left(\frac{\sqrt{2}}{2}, \frac{3\pi}{4}\right)\)
+2003	shanghai_science	填空题	5	1	1	\(\arctan 2\)
+2003	shanghai_science	填空题	6	1	1	\([1,3]\)
+2003	shanghai_science	填空题	7	1	1	\(\arccos\frac{11}{16}\)
+2003	shanghai_science	填空题	8	1	1	\(\left(1,\frac{1}{2}\right)\)
+2003	shanghai_science	填空题	9	1	1	\(\frac{119}{190}\)
+2003	shanghai_science	填空题	10	1	1	\(2.6\)
+2003	shanghai_science	填空题	11	1	1	\(4\pi\)
+2003	shanghai_science	填空题	12	1	1	\(17\)
+2003	shanghai_science	单选题	13	1	1	C
+2003	shanghai_science	单选题	14	1	1	D
+2003	shanghai_science	单选题	15	1	1	D
+2003	shanghai_science	单选题	16	1	1	B
+2003	shanghai_science	解答题	17	0	1	
+2003	shanghai_science	解答题	18	0	1	
+2003	shanghai_science	解答题	19	0	1	
+2003	shanghai_science	解答题	20	0	1	
+2003	shanghai_science	解答题	21	0	1	
+2003	shanghai_science	解答题	22	0	1	
+2003	shanghai_spring	填空题	1	1	1	\(4\)
+2003	shanghai_spring	填空题	2	1	1	\(\dfrac{\pi}{3}\)
+2003	shanghai_spring	填空题	3	1	1	二
+2003	shanghai_spring	填空题	4	1	1	\((3,2)\)
+2003	shanghai_spring	填空题	5	1	1	\((-\infty,-2]\)
+2003	shanghai_spring	填空题	6	1	1	\(z=u+\i v\)，其中 \(u>1\)，\(u\)，\(v\in\R\)
+2003	shanghai_spring	填空题	7	1	1	\(4-\sqrt{5}\) 或 \(4+\sqrt{5}\)
+2003	shanghai_spring	填空题	8	1	1	\(\left(0,\dfrac{\pi}{2}\right)\)
+2003	shanghai_spring	填空题	9	1	1	\(16\)
+2003	shanghai_spring	填空题	10	1	1	\(\arctan\dfrac{3}{8}\)
+2003	shanghai_spring	填空题	11	1	1	\(6\)
+2003	shanghai_spring	填空题	12	1	1	\(3\sqrt{2}\)
+2003	shanghai_spring	单选题	13	1	1	D
+2003	shanghai_spring	单选题	14	1	1	A
+2003	shanghai_spring	单选题	15	1	1	C
+2003	shanghai_spring	单选题	16	1	1	A
+2003	shanghai_spring	解答题	17	0	1	
+2003	shanghai_spring	解答题	18	0	1	
+2003	shanghai_spring	解答题	19	0	1	
+2003	shanghai_spring	解答题	20	0	1	
+2003	shanghai_spring	解答题	21	0	1	
+2003	shanghai_spring	解答题	22	0	1	
+2004	shanghai_liberal	填空题	1	1	1	\(3\)
+2004	shanghai_liberal	填空题	2	1	1	\(\left(5,0\right)\)
+2004	shanghai_liberal	填空题	3	1	1	\(\{1,2,5\}\)
+2004	shanghai_liberal	填空题	4	1	1	\(2\)
+2004	shanghai_liberal	填空题	5	1	1	\(\left(-2,0\right)\cup\left(2,5\right]\)
+2004	shanghai_liberal	填空题	6	1	1	\(\left(5,14\right)\)
+2004	shanghai_liberal	填空题	7	1	1	\(6\)
+2004	shanghai_liberal	填空题	8	1	1	\(\left(x-2\right)^2+\left(y+3\right)^2=5\)
+2004	shanghai_liberal	填空题	9	1	1	\(\frac{4}{11}\)
+2004	shanghai_liberal	填空题	10	1	1	\(a>0\)，\(b\leqslant 0\)
+2004	shanghai_liberal	填空题	11	1	1	用代数的方法研究图形的几何性质
+2004	shanghai_liberal	填空题	12	1	1	\(\circled{1}\)，\(\circled{4}\)
+2004	shanghai_liberal	单选题	13	1	1	B
+2004	shanghai_liberal	单选题	14	1	1	C
+2004	shanghai_liberal	单选题	15	1	1	A
+2004	shanghai_liberal	单选题	16	1	1	B
+2004	shanghai_liberal	解答题	17	0	1	
+2004	shanghai_liberal	解答题	18	0	1	
+2004	shanghai_liberal	解答题	19	0	1	
+2004	shanghai_liberal	解答题	20	0	1	
+2004	shanghai_liberal	解答题	21	0	1	
+2004	shanghai_liberal	解答题	22	0	1	
+2004	shanghai_science	填空题	1	1	1	\(3\)
+2004	shanghai_science	填空题	2	1	1	\((5,0)\)
+2004	shanghai_science	填空题	3	1	1	\(\{1,2,5\}\)
+2004	shanghai_science	填空题	4	1	1	\(2\)
+2004	shanghai_science	填空题	5	1	1	\((-2,0) \cup (2,5]\)
+2004	shanghai_science	填空题	6	1	1	\((5,4)\)
+2004	shanghai_science	填空题	7	1	1	\(\frac{2\sqrt{15}}{5}\)
+2004	shanghai_science	填空题	8	1	1	\(\left(x-2\right)^2+\left(y+3\right)^2=5\)
+2004	shanghai_science	填空题	9	1	1	\(\frac{4}{11}\)
+2004	shanghai_science	填空题	10	1	1	\(a>0\) 且 \(b\leqslant 0\)
+2004	shanghai_science	填空题	11	1	1	用代数的方法研究图形的几何性质.
+2004	shanghai_science	填空题	12	1	1	\(\circled{1}\)、\(\circled{4}\)
+2004	shanghai_science	单选题	13	1	1	B
+2004	shanghai_science	单选题	14	1	1	C
+2004	shanghai_science	单选题	15	1	1	A
+2004	shanghai_science	单选题	16	1	1	B
+2004	shanghai_science	解答题	17	0	1	
+2004	shanghai_science	解答题	18	0	1	
+2004	shanghai_science	解答题	19	0	1	
+2004	shanghai_science	解答题	20	0	1	
+2004	shanghai_science	解答题	21	0	1	
+2004	shanghai_science	解答题	22	0	1	
+2004	shanghai_spring	填空题	1	1	1	1
+2004	shanghai_spring	填空题	2	1	1	2
+2004	shanghai_spring	填空题	3	1	1	2
+2004	shanghai_spring	填空题	4	1	1	\((x-1)^2+y^2=4\)
+2004	shanghai_spring	填空题	5	1	1	1
+2004	shanghai_spring	填空题	6	1	1	\(\arctan\dfrac{1}{4}\)
+2004	shanghai_spring	填空题	7	1	1	3
+2004	shanghai_spring	填空题	8	1	1	\(n^2-n+1\)
+2004	shanghai_spring	填空题	9	1	1	\(\dfrac{5}{14}\)
+2004	shanghai_spring	填空题	10	1	1	\(\dfrac{(x-3)^2}{9}+\dfrac{(y-2)^2}{4}=1\)
+2004	shanghai_spring	填空题	11	1	1	34
+2004	shanghai_spring	填空题	12	1	1	\(a\)，\(-a\)，\(a\)，\(-a\)，\(\ldots\)（\(a\ne0\)，\(r\) 与 \(s\) 同为奇数或偶数）
+2004	shanghai_spring	单选题	13	1	1	D
+2004	shanghai_spring	单选题	14	1	1	B
+2004	shanghai_spring	单选题	15	1	1	C
+2004	shanghai_spring	单选题	16	1	1	B
+2004	shanghai_spring	解答题	17	0	1	
+2004	shanghai_spring	解答题	18	0	1	
+2004	shanghai_spring	解答题	19	0	1	
+2004	shanghai_spring	解答题	20	0	1	
+2004	shanghai_spring	解答题	21	0	1	
+2004	shanghai_spring	解答题	22	0	1	
+2005	shanghai_liberal	填空题	1	1	1	\(4^x-1\)
+2005	shanghai_liberal	填空题	2	1	1	\(x=0\)
+2005	shanghai_liberal	填空题	3	1	1	\(11\)
+2005	shanghai_liberal	填空题	4	1	1	\(x+2y-4=0\)
+2005	shanghai_liberal	填空题	5	1	1	\(\pi\)
+2005	shanghai_liberal	填空题	6	1	1	\(-\frac{11}{14}\)
+2005	shanghai_liberal	填空题	7	1	1	\(\frac{x^2}{80}+\frac{y^2}{20}=1\)
+2005	shanghai_liberal	填空题	8	1	1	\(\frac{3}{7}\)
+2005	shanghai_liberal	填空题	9	1	1	\(x+2y-2=0\)
+2005	shanghai_liberal	填空题	10	1	1	\(3\)
+2005	shanghai_liberal	填空题	11	1	1	\(1<k<3\)
+2005	shanghai_liberal	填空题	12	1	1	\(0<a<\sqrt{\frac{5}{3}}\)
+2005	shanghai_liberal	单选题	13	1	1	A
+2005	shanghai_liberal	单选题	14	1	1	B
+2005	shanghai_liberal	单选题	15	1	1	B
+2005	shanghai_liberal	单选题	16	1	1	C
+2005	shanghai_liberal	解答题	17	0	1	
+2005	shanghai_liberal	解答题	18	0	1	
+2005	shanghai_liberal	解答题	19	0	1	
+2005	shanghai_liberal	解答题	20	0	1	
+2005	shanghai_liberal	解答题	21	0	1	
+2005	shanghai_liberal	解答题	22	0	1	
+2005	shanghai_science	填空题	1	1	1	\(4^x-1\)
+2005	shanghai_science	填空题	2	1	1	\(x=0\)
+2005	shanghai_science	填空题	3	1	1	\(x+2y-4=0\)
+2005	shanghai_science	填空题	4	1	1	\(-\frac{1}{2}\)
+2005	shanghai_science	填空题	5	1	1	\(x^2-\frac{y^2}{9}=1\)
+2005	shanghai_science	填空题	6	1	1	\((x-1)^2+y^2=4\)
+2005	shanghai_science	填空题	7	1	1	\(3\)
+2005	shanghai_science	填空题	8	1	1	\(\frac{3}{7}\)
+2005	shanghai_science	填空题	9	1	1	\(\frac{15\sqrt{3}}{4}\)
+2005	shanghai_science	填空题	10	1	1	\(1<k<3\)
+2005	shanghai_science	填空题	11	1	1	\(0<a<\frac{\sqrt{15}}{3}\)
+2005	shanghai_science	填空题	12	1	1	\(-1080\)
+2005	shanghai_science	单选题	13	1	1	A
+2005	shanghai_science	单选题	14	1	1	B
+2005	shanghai_science	单选题	15	1	1	B
+2005	shanghai_science	单选题	16	1	1	C
+2005	shanghai_science	解答题	17	0	1	
+2005	shanghai_science	解答题	18	0	1	
+2005	shanghai_science	解答题	19	0	1	
+2005	shanghai_science	解答题	20	0	1	
+2005	shanghai_science	解答题	21	0	1	
+2005	shanghai_science	解答题	22	0	1	
+2005	shanghai_spring	填空题	1	1	1	\(\{-1,2\}\)
+2005	shanghai_spring	填空题	2	1	1	0
+2005	shanghai_spring	填空题	3	1	1	\(\dfrac{1}{2}\)
+2005	shanghai_spring	填空题	4	1	1	\(f^{-1}(x)=-\sqrt{-x}\)（\(x\leqslant-4\)）
+2005	shanghai_spring	填空题	5	1	1	16
+2005	shanghai_spring	填空题	6	1	1	\(\dfrac{1}{260}\)
+2005	shanghai_spring	填空题	7	1	1	\(\dfrac{5}{6}\)
+2005	shanghai_spring	填空题	8	1	1	11
+2005	shanghai_spring	填空题	9	1	1	\(\circled{1}\circled{2}\circled{3}\)
+2005	shanghai_spring	填空题	10	1	1	\(\{1\}\)
+2005	shanghai_spring	填空题	11	1	1	\(\left[-\dfrac{\pi}{2}-\sin1,\dfrac{\pi}{2}+\sin1\right]\)
+2005	shanghai_spring	填空题	12	1	1	110
+2005	shanghai_spring	单选题	13	1	1	D
+2005	shanghai_spring	单选题	14	1	1	B
+2005	shanghai_spring	单选题	15	1	1	A
+2005	shanghai_spring	单选题	16	1	1	B
+2005	shanghai_spring	解答题	17	0	1	
+2005	shanghai_spring	解答题	18	0	1	
+2005	shanghai_spring	解答题	19	0	1	
+2005	shanghai_spring	解答题	20	0	1	
+2005	shanghai_spring	解答题	21	0	1	
+2005	shanghai_spring	解答题	22	0	1	
+2006	shanghai_liberal	填空题	1	1	1	\(4\)
+2006	shanghai_liberal	填空题	2	1	1	\(2\)
+2006	shanghai_liberal	填空题	3	1	1	\(\dfrac{1}{2}\)
+2006	shanghai_liberal	填空题	4	1	1	\(\dfrac{1}{6}\)
+2006	shanghai_liberal	填空题	5	1	1	\(3\)
+2006	shanghai_liberal	填空题	6	1	1	\(\pi\)
+2006	shanghai_liberal	填空题	7	1	1	\(\dfrac{x^2}{9} - \dfrac{y^2}{16} = 1\)
+2006	shanghai_liberal	填空题	8	1	1	\(5\)
+2006	shanghai_liberal	填空题	9	1	1	\(0\)
+2006	shanghai_liberal	填空题	10	1	1	\(\dfrac{14}{33}\)
+2006	shanghai_liberal	填空题	11	1	1	\(-1\leqslant b\leqslant 1\)
+2006	shanghai_liberal	填空题	12	1	1	\(4\)
+2006	shanghai_liberal	单选题	13	1	1	C
+2006	shanghai_liberal	单选题	14	1	1	A
+2006	shanghai_liberal	单选题	15	1	1	A
+2006	shanghai_liberal	单选题	16	1	1	D
+2006	shanghai_liberal	解答题	17	0	1	
+2006	shanghai_liberal	解答题	18	0	1	
+2006	shanghai_liberal	解答题	19	0	1	
+2006	shanghai_liberal	解答题	20	0	1	
+2006	shanghai_liberal	解答题	21	0	1	
+2006	shanghai_liberal	解答题	22	0	1	
+2006	shanghai_science	填空题	1	1	1	\(\left\{-\sqrt{3},1,\sqrt{3}\right\}\)
+2006	shanghai_science	填空题	2	1	1	\(\frac{\sqrt{2}}{2}\)
+2006	shanghai_science	填空题	3	1	1	\(\frac{1}{2}\)
+2006	shanghai_science	填空题	4	1	1	\(\frac{1}{6}\)
+2006	shanghai_science	填空题	5	1	1	\(-1+\i\)
+2006	shanghai_science	填空题	6	1	1	\(\frac{2\sqrt{6}}{5}\)
+2006	shanghai_science	填空题	7	1	1	\(\frac{x^2}{16}+\frac{y^2}{4}=1\)
+2006	shanghai_science	填空题	8	1	1	\(5\)
+2006	shanghai_science	填空题	9	1	1	\(\frac{1}{35}\)
+2006	shanghai_science	填空题	10	1	1	\(36\)
+2006	shanghai_science	填空题	11	1	1	\(k=0\)，\(b\in(-1,1)\)
+2006	shanghai_science	填空题	12	1	1	\(a\in(-\infty,10]\)
+2006	shanghai_science	单选题	13	1	1	C
+2006	shanghai_science	单选题	14	1	1	A
+2006	shanghai_science	单选题	15	1	1	A
+2006	shanghai_science	单选题	16	1	1	D
+2006	shanghai_science	解答题	17	0	1	
+2006	shanghai_science	解答题	18	0	1	
+2006	shanghai_science	解答题	19	0	1	
+2006	shanghai_science	解答题	20	0	1	
+2006	shanghai_science	解答题	21	0	1	
+2006	shanghai_science	解答题	22	0	1	
+2006	shanghai_spring	填空题	1	1	1	\(\dfrac34\)
+2006	shanghai_spring	填空题	2	1	1	\(2\)
+2006	shanghai_spring	填空题	3	1	1	\(\dfrac13(x-5)\)，\(x\in[5,8]\)
+2006	shanghai_spring	填空题	4	1	1	\(\left(-1,\dfrac12\right)\)
+2006	shanghai_spring	填空题	5	1	1	\((0,\sqrt{10})\)
+2006	shanghai_spring	填空题	6	1	1	\(-x-x^4\)
+2006	shanghai_spring	填空题	7	1	1	\(48\)
+2006	shanghai_spring	填空题	8	1	1	\(\dfrac{16}{3}\)
+2006	shanghai_spring	填空题	9	1	1	\(\dfrac{7}{25}\)
+2006	shanghai_spring	填空题	10	1	1	\(2\)
+2006	shanghai_spring	填空题	11	1	1	\(4\)
+2006	shanghai_spring	填空题	12	1	1	\(\dfrac{a_1+a_2+\cdots+a_m}{m}\le\dfrac{a_1+a_2+\cdots+a_n}{n}\)（\(1\le m<n\)），且 \(\dfrac{a_{m+1}+a_{m+2}+\cdots+a_n}{n-m}\ge\dfrac{a_1+a_2+\cdots+a_n}{n}\)（\(1\le m<n\)）.
+2006	shanghai_spring	单选题	13	1	1	B
+2006	shanghai_spring	单选题	14	1	1	C
+2006	shanghai_spring	单选题	15	1	1	A
+2006	shanghai_spring	单选题	16	1	1	B
+2006	shanghai_spring	解答题	17	0	1	
+2006	shanghai_spring	解答题	18	0	1	
+2006	shanghai_spring	解答题	19	0	1	
+2006	shanghai_spring	解答题	20	0	1	
+2006	shanghai_spring	解答题	21	0	1	
+2006	shanghai_spring	解答题	22	0	1	
+2007	shanghai_liberal	填空题	1	1	1	\(-1\)
+2007	shanghai_liberal	填空题	2	1	1	\(\frac{x+1}{x}\)（\(x\neq0\)）
+2007	shanghai_liberal	填空题	3	1	1	\(\pi-\arctan4\)
+2007	shanghai_liberal	填空题	4	1	1	\(\pi\)
+2007	shanghai_liberal	填空题	5	1	1	\(y^2=12x\)
+2007	shanghai_liberal	填空题	6	1	1	\(\frac{1}{2}\)
+2007	shanghai_liberal	填空题	7	1	1	\(\arccos\frac{\sqrt{6}}{6}\)
+2007	shanghai_liberal	填空题	8	1	1	\(3\)
+2007	shanghai_liberal	填空题	9	1	1	\(0.3\)
+2007	shanghai_liberal	填空题	10	1	1	\(\circled{2}\circled{4}\)
+2007	shanghai_liberal	填空题	11	1	1	\(\left(0,2-\frac{\pi}{2}\right]\)
+2007	shanghai_liberal	单选题	12	1	1	A
+2007	shanghai_liberal	单选题	13	1	1	C
+2007	shanghai_liberal	单选题	14	1	1	B
+2007	shanghai_liberal	单选题	15	1	1	D
+2007	shanghai_liberal	解答题	16	0	1	
+2007	shanghai_liberal	解答题	17	0	1	
+2007	shanghai_liberal	解答题	18	0	1	
+2007	shanghai_liberal	解答题	19	0	1	
+2007	shanghai_liberal	解答题	20	0	1	
+2007	shanghai_liberal	解答题	21	0	1	
+2007	shanghai_science	填空题	1	1	1	\(\{x\mid x<4,\ x\ne3\}\)
+2007	shanghai_science	填空题	2	1	1	\(-\frac{2}{3}\)
+2007	shanghai_science	填空题	3	1	1	\(\frac{x}{x-1}\)，\(x\ne1\)
+2007	shanghai_science	填空题	4	1	1	\(x=\log_{3}7\)
+2007	shanghai_science	填空题	5	1	1	\(\frac{1}{16}\)
+2007	shanghai_science	填空题	6	1	1	\(\pi\)
+2007	shanghai_science	填空题	7	1	1	\(0.3\)
+2007	shanghai_science	填空题	8	1	1	\(y^2=12(x+3)\)
+2007	shanghai_science	填空题	9	1	1	\circled{2}\circled{4}
+2007	shanghai_science	填空题	10	1	1	\(s_{1}\parallel s_{2}\)，且 \(t_{1}\) 与 \(t_{2}\) 相交.
+2007	shanghai_science	填空题	11	1	1	\(d=2\sin\theta\)，\(0<\theta<\pi\)
+2007	shanghai_science	单选题	12	1	1	A
+2007	shanghai_science	单选题	13	1	1	C
+2007	shanghai_science	单选题	14	1	1	B
+2007	shanghai_science	单选题	15	1	1	D
+2007	shanghai_science	解答题	16	0	1	
+2007	shanghai_science	解答题	17	0	1	
+2007	shanghai_science	解答题	18	0	1	
+2007	shanghai_science	解答题	19	0	1	
+2007	shanghai_science	解答题	20	0	1	
+2007	shanghai_science	解答题	21	0	1	
+2007	shanghai_spring	填空题	1	1	1	\(\frac{2}{3}\)
+2007	shanghai_spring	填空题	2	1	1	\(2\)
+2007	shanghai_spring	填空题	3	1	1	\(4\)
+2007	shanghai_spring	填空题	4	1	1	\(\pi\)
+2007	shanghai_spring	填空题	5	1	1	\(-3\)
+2007	shanghai_spring	填空题	6	1	1	\(5\)
+2007	shanghai_spring	填空题	7	1	1	\(2\)
+2007	shanghai_spring	填空题	8	1	1	\(\frac{3\pi}{4}\)
+2007	shanghai_spring	填空题	9	1	1	\(-1\)
+2007	shanghai_spring	填空题	10	1	1	\(120\)
+2007	shanghai_spring	填空题	11	1	1	\(y= \begin{cases} \sqrt{x-1}, & x\geqslant 1,\\ \frac{2}{x}, & x<0 \end{cases} \)
+2007	shanghai_spring	单选题	12	1	1	A
+2007	shanghai_spring	单选题	13	1	1	B
+2007	shanghai_spring	单选题	14	1	1	B
+2007	shanghai_spring	单选题	15	1	1	D
+2007	shanghai_spring	解答题	16	0	1	
+2007	shanghai_spring	解答题	17	0	1	
+2007	shanghai_spring	解答题	18	0	1	
+2007	shanghai_spring	解答题	19	0	1	
+2007	shanghai_spring	解答题	20	0	1	
+2007	shanghai_spring	解答题	21	0	1	
+2008	shanghai_liberal	填空题	1	1	1	\(\left(0,2\right)\)
+2008	shanghai_liberal	填空题	2	1	1	\(2\)
+2008	shanghai_liberal	填空题	3	1	1	\(1+\i\)
+2008	shanghai_liberal	填空题	4	1	1	\(2^x\)
+2008	shanghai_liberal	填空题	5	1	1	\(\sqrt{7}\)
+2008	shanghai_liberal	填空题	6	1	1	\(-1\)
+2008	shanghai_liberal	填空题	7	1	1	\(4\)
+2008	shanghai_liberal	填空题	8	1	1	\(\frac{4}{5}\)
+2008	shanghai_liberal	填空题	9	1	1	\(-2x^2+4\)
+2008	shanghai_liberal	填空题	10	1	1	\(a=10.5\)，\(b=10.5\)
+2008	shanghai_liberal	填空题	11	1	1	\(\left(\frac{5}{2},5\right)\)
+2008	shanghai_liberal	单选题	12	1	1	D
+2008	shanghai_liberal	单选题	13	1	1	B
+2008	shanghai_liberal	单选题	14	1	1	B
+2008	shanghai_liberal	单选题	15	1	1	D
+2008	shanghai_liberal	解答题	16	0	1	
+2008	shanghai_liberal	解答题	17	0	1	
+2008	shanghai_liberal	解答题	18	0	1	
+2008	shanghai_liberal	解答题	19	0	1	
+2008	shanghai_liberal	解答题	20	0	1	
+2008	shanghai_liberal	解答题	21	0	1	
+2008	shanghai_science	填空题	1	1	1	\( (0,2) \)
+2008	shanghai_science	填空题	2	1	1	\(2\)
+2008	shanghai_science	填空题	3	1	1	\(1+\i\)
+2008	shanghai_science	填空题	4	1	1	\(2\)
+2008	shanghai_science	填空题	5	1	1	\(\sqrt{7}\)
+2008	shanghai_science	填空题	6	1	1	\(2\)
+2008	shanghai_science	填空题	7	1	1	\(\frac{3}{4}\)
+2008	shanghai_science	填空题	8	1	1	\((-1,0)\cup(1,+\infty)\)
+2008	shanghai_science	填空题	9	1	1	\(a=10.5\)，\(b=10.5\)
+2008	shanghai_science	填空题	10	1	1	\(h_1\cot\theta_1+h_2\cot\theta_2\leqslant 2a\)
+2008	shanghai_science	填空题	11	1	1	\((- \infty,-6)\cup(6,+\infty)\)
+2008	shanghai_science	单选题	12	1	1	D
+2008	shanghai_science	单选题	13	1	1	C
+2008	shanghai_science	单选题	14	1	1	B
+2008	shanghai_science	单选题	15	1	1	D
+2008	shanghai_science	解答题	16	0	1	
+2008	shanghai_science	解答题	17	0	1	
+2008	shanghai_science	解答题	18	0	1	
+2008	shanghai_science	解答题	19	0	1	
+2008	shanghai_science	解答题	20	0	1	
+2008	shanghai_science	解答题	21	0	1	
+2008	shanghai_spring	填空题	1	1	1	\(\{x \mid x<4\}\).
+2008	shanghai_spring	填空题	2	1	1	\(\frac{1}{3}\).
+2008	shanghai_spring	填空题	3	1	1	\(\left[-2,1\right)\cup\left(1,3\right]\).
+2008	shanghai_spring	填空题	4	1	1	\(x=\frac{7\pi}{12}\).
+2008	shanghai_spring	填空题	5	1	1	\(a_n=2n-1\).
+2008	shanghai_spring	填空题	6	1	1	\(\cos \alpha\).
+2008	shanghai_spring	填空题	7	1	1	\(5\).
+2008	shanghai_spring	填空题	8	1	1	\(1+\frac{\sqrt{2}}{6}\).
+2008	shanghai_spring	填空题	9	1	1	\(-1\).
+2008	shanghai_spring	填空题	10	1	1	\(\frac{1}{12}\).
+2008	shanghai_spring	填空题	11	1	1	\(a_k-a_{k-1}\).
+2008	shanghai_spring	填空题	12	1	1	\(\frac{3}{2}\).
+2008	shanghai_spring	单选题	13	1	1	C
+2008	shanghai_spring	单选题	14	1	1	D
+2008	shanghai_spring	单选题	15	1	1	A
+2008	shanghai_spring	单选题	16	1	1	B
+2008	shanghai_spring	解答题	17	0	1	
+2008	shanghai_spring	解答题	18	0	1	
+2008	shanghai_spring	解答题	19	0	1	
+2008	shanghai_spring	解答题	20	0	1	
+2008	shanghai_spring	解答题	21	0	1	
+2008	shanghai_spring	解答题	22	0	1	
+2009	shanghai_liberal	填空题	1	1	1	\(\sqrt[3]{x-1}\).
+2009	shanghai_liberal	填空题	2	1	1	\(a \leqslant 1\).
+2009	shanghai_liberal	填空题	3	1	1	\(x > \frac{8}{3}\).
+2009	shanghai_liberal	填空题	4	1	1	\(y = \begin{cases} x-2, & x>1,\\ 2^x, & x\leqslant 1. \end{cases}\)
+2009	shanghai_liberal	填空题	5	1	1	\(\arctan\sqrt{5}\).
+2009	shanghai_liberal	填空题	6	1	1	\(2\).
+2009	shanghai_liberal	填空题	7	1	1	\(-9\).
+2009	shanghai_liberal	填空题	8	1	1	\(\frac{8\pi}{3}\).
+2009	shanghai_liberal	填空题	9	1	1	\(2\sqrt{6}\).
+2009	shanghai_liberal	填空题	10	1	1	\(1-\sqrt{2}\).
+2009	shanghai_liberal	填空题	11	1	1	\(\frac{5}{7}\).
+2009	shanghai_liberal	填空题	12	1	1	\(3\).
+2009	shanghai_liberal	填空题	13	1	1	\(14\).
+2009	shanghai_liberal	填空题	14	1	1	\((3,3)\).
+2009	shanghai_liberal	单选题	15	1	1	C
+2009	shanghai_liberal	单选题	16	1	1	B
+2009	shanghai_liberal	单选题	17	1	1	A
+2009	shanghai_liberal	单选题	18	1	1	D
+2009	shanghai_liberal	解答题	19	0	1	
+2009	shanghai_liberal	解答题	20	0	1	
+2009	shanghai_liberal	解答题	21	0	1	
+2009	shanghai_liberal	解答题	22	0	1	
+2009	shanghai_liberal	解答题	23	0	1	
+2009	shanghai_science	填空题	1	1	1	\(\i\).
+2009	shanghai_science	填空题	2	1	1	\(\alpha \leqslant 1\).
+2009	shanghai_science	填空题	3	1	1	\(x > \frac{8}{3}\).
+2009	shanghai_science	填空题	4	1	1	\[ y=\begin{cases} 2^x,&x\leqslant 1,\\ x-2,&x>1. \end{cases} \]
+2009	shanghai_science	填空题	5	1	1	\(\arctan\sqrt{5}\).
+2009	shanghai_science	填空题	6	1	1	\(1 - \sqrt{2}\).
+2009	shanghai_science	填空题	7	1	1	\(\frac{4}{7}\).
+2009	shanghai_science	填空题	8	1	1	\(\sqrt{S_1} + 2\sqrt{S_2} = 3\sqrt{S_3}\).
+2009	shanghai_science	填空题	9	1	1	\(3\).
+2009	shanghai_science	填空题	10	1	1	\(\frac{3 - \sqrt{3}}{4}\).
+2009	shanghai_science	填空题	11	1	1	\(k \leqslant 1\).
+2009	shanghai_science	填空题	12	1	1	\(14\).
+2009	shanghai_science	填空题	13	1	1	\((3, 3)\).
+2009	shanghai_science	填空题	14	1	1	\(\arctan\frac{2}{3}\).
+2009	shanghai_science	单选题	15	1	1	A.
+2009	shanghai_science	单选题	16	1	1	B.
+2009	shanghai_science	单选题	17	1	1	D.
+2009	shanghai_science	单选题	18	1	1	B.
+2009	shanghai_science	解答题	19	0	1	
+2009	shanghai_science	解答题	20	0	1	
+2009	shanghai_science	解答题	21	0	1	
+2009	shanghai_science	解答题	22	0	1	
+2009	shanghai_science	解答题	23	0	1	
+2009	shanghai_spring	填空题	1	1	1	\((1,+\infty)\).
+2009	shanghai_spring	填空题	2	1	1	\(-2\i\).
+2009	shanghai_spring	填空题	3	1	1	\(4\pi\).
+2009	shanghai_spring	填空题	4	1	1	\(\{x\mid 1<x<2\}\).
+2009	shanghai_spring	填空题	5	1	1	\(x=-\frac14\).
+2009	shanghai_spring	填空题	6	1	1	\(\frac{2}{3}\pi\).
+2009	shanghai_spring	填空题	7	1	1	\(y=x-5\).
+2009	shanghai_spring	填空题	8	1	1	\(\sqrt6\).
+2009	shanghai_spring	填空题	9	1	1	\(0\).
+2009	shanghai_spring	填空题	10	1	1	\(\frac{5}{26^6}\).
+2009	shanghai_spring	填空题	11	1	1	\(\frac14\)，\(\frac34\)；\(\frac{j}{2^n}\)，\(j\)为\([1,2^n]\)中的所有奇数.
+2009	shanghai_spring	单选题	12	1	1	B
+2009	shanghai_spring	单选题	13	1	1	C
+2009	shanghai_spring	单选题	14	1	1	A
+2009	shanghai_spring	单选题	15	1	1	C
+2009	shanghai_spring	解答题	16	0	1	
+2009	shanghai_spring	解答题	17	0	1	
+2009	shanghai_spring	解答题	18	0	1	
+2009	shanghai_spring	解答题	19	0	1	
+2009	shanghai_spring	解答题	20	0	1	
+2010	shanghai_liberal	填空题	1	1	1	\(2\)
+2010	shanghai_liberal	填空题	2	1	1	\((-4,2)\)
+2010	shanghai_liberal	填空题	3	1	1	\(0.5\)
+2010	shanghai_liberal	填空题	4	1	1	\(6-2\i\)
+2010	shanghai_liberal	填空题	5	1	1	\(20\)
+2010	shanghai_liberal	填空题	6	1	1	\(96\)
+2010	shanghai_liberal	填空题	7	1	1	\(3\)
+2010	shanghai_liberal	填空题	8	1	1	\(y^{2}=8x\)
+2010	shanghai_liberal	填空题	9	1	1	\((0,-2)\)
+2010	shanghai_liberal	填空题	10	1	1	\(\frac{1}{17}\)
+2010	shanghai_liberal	填空题	11	1	1	\(S\leftarrow S+a\)
+2010	shanghai_liberal	填空题	12	1	1	\(45\)
+2010	shanghai_liberal	填空题	13	1	1	\(4ab=1\)
+2010	shanghai_liberal	填空题	14	1	1	\(\frac{1}{2}\)
+2010	shanghai_liberal	单选题	15	1	1	C
+2010	shanghai_liberal	单选题	16	1	1	A
+2010	shanghai_liberal	单选题	17	1	1	D
+2010	shanghai_liberal	单选题	18	1	1	C
+2010	shanghai_liberal	解答题	19	0	1	
+2010	shanghai_liberal	解答题	20	0	1	
+2010	shanghai_liberal	解答题	21	0	1	
+2010	shanghai_liberal	解答题	22	0	1	
+2010	shanghai_liberal	解答题	23	0	1	
+2010	shanghai_science	填空题	1	1	1	\((-4,2)\)
+2010	shanghai_science	填空题	2	1	1	\(6-2\i\)
+2010	shanghai_science	填空题	3	1	1	\(y^2=8x\)
+2010	shanghai_science	填空题	4	1	1	0
+2010	shanghai_science	填空题	5	1	1	3
+2010	shanghai_science	填空题	6	1	1	8.2
+2010	shanghai_science	填空题	7	1	1	\(S\leftarrow S+a\)
+2010	shanghai_science	填空题	8	1	1	\((0,-2)\)
+2010	shanghai_science	填空题	9	1	1	\(\frac{7}{26}\)
+2010	shanghai_science	填空题	10	1	1	45
+2010	shanghai_science	填空题	11	1	1	1
+2010	shanghai_science	填空题	12	1	1	\(\frac{8\sqrt{2}}{3}\)
+2010	shanghai_science	填空题	13	1	1	\(4ab=1\)
+2010	shanghai_science	填空题	14	1	1	36
+2010	shanghai_science	单选题	15	1	1	A
+2010	shanghai_science	单选题	16	1	1	C
+2010	shanghai_science	单选题	17	1	1	C
+2010	shanghai_science	单选题	18	1	1	D
+2010	shanghai_science	解答题	19	0	1	
+2010	shanghai_science	解答题	20	0	1	
+2010	shanghai_science	解答题	21	0	1	
+2010	shanghai_science	解答题	22	0	1	
+2010	shanghai_science	解答题	23	0	1	
+2010	shanghai_spring	填空题	1	1	1	\(\pi\)
+2010	shanghai_spring	填空题	2	1	1	\(0\)
+2010	shanghai_spring	填空题	3	1	1	\(1+\i\)
+2010	shanghai_spring	填空题	4	1	1	\(\{x\mid -1<x<2\}\)
+2010	shanghai_spring	填空题	5	1	1	\(4\)
+2010	shanghai_spring	填空题	6	1	1	\(80\)
+2010	shanghai_spring	填空题	7	1	1	\(\dfrac{x^2}{2/3}-\dfrac{y^2}{2}=1\)
+2010	shanghai_spring	填空题	8	1	1	\(60\)
+2010	shanghai_spring	填空题	9	1	1	\(\dfrac{1}{12}\)
+2010	shanghai_spring	填空题	10	1	1	\(\dfrac{\sqrt{2}}{6}\)
+2010	shanghai_spring	填空题	11	1	1	\(\{-3,2\}\)
+2010	shanghai_spring	填空题	12	1	1	\(\dfrac{7}{3}\)
+2010	shanghai_spring	填空题	13	1	1	\(2600\pi\)
+2010	shanghai_spring	填空题	14	1	1	\(1\)
+2010	shanghai_spring	单选题	15	1	1	D
+2010	shanghai_spring	单选题	16	1	1	B
+2010	shanghai_spring	单选题	17	1	1	B
+2010	shanghai_spring	单选题	18	1	1	C
+2010	shanghai_spring	解答题	19	0	1	
+2010	shanghai_spring	解答题	20	0	1	
+2010	shanghai_spring	解答题	21	0	1	
+2010	shanghai_spring	解答题	22	0	1	
+2010	shanghai_spring	解答题	23	0	1	
+2011	shanghai_liberal	填空题	1	1	1	\(\{x\mid x<1\}\)
+2011	shanghai_liberal	填空题	2	1	1	\(-2\)
+2011	shanghai_liberal	填空题	3	1	1	\(-\frac{3}{2}\)
+2011	shanghai_liberal	填空题	4	1	1	\(\sqrt{5}\)
+2011	shanghai_liberal	填空题	5	1	1	\(x+2y-11=0\)
+2011	shanghai_liberal	填空题	6	1	1	\(\{x\mid x<0\text{ 或 }x>1\}\)
+2011	shanghai_liberal	填空题	7	1	1	\(3\pi\)
+2011	shanghai_liberal	填空题	8	1	1	\(\sqrt{6}\)
+2011	shanghai_liberal	填空题	9	1	1	\(\frac{5}{2}\)
+2011	shanghai_liberal	填空题	10	1	1	\(2\)
+2011	shanghai_liberal	填空题	11	1	1	\(6\)
+2011	shanghai_liberal	填空题	12	1	1	\(\frac{15}{2}\)
+2011	shanghai_liberal	填空题	13	1	1	\(0.985\)
+2011	shanghai_liberal	填空题	14	1	1	\([-2,7]\)
+2011	shanghai_liberal	单选题	15	1	1	A
+2011	shanghai_liberal	单选题	16	1	1	D
+2011	shanghai_liberal	单选题	17	1	1	A
+2011	shanghai_liberal	单选题	18	1	1	B
+2011	shanghai_liberal	解答题	19	0	1	
+2011	shanghai_liberal	解答题	20	0	1	
+2011	shanghai_liberal	解答题	21	0	1	
+2011	shanghai_liberal	解答题	22	0	1	
+2011	shanghai_liberal	解答题	23	0	1	
+2011	shanghai_science	填空题	1	1	1	\(\frac{1}{x}+2\)
+2011	shanghai_science	填空题	2	1	1	\((0,1)\)
+2011	shanghai_science	填空题	3	1	1	16
+2011	shanghai_science	填空题	4	1	1	\(x<0\) 或 \(x\geqslant\frac{1}{2}\)
+2011	shanghai_science	填空题	5	1	1	\(\arctan\frac{1}{2}\)
+2011	shanghai_science	填空题	6	1	1	\(\sqrt{6}\)
+2011	shanghai_science	填空题	7	1	1	\(\frac{\pi\sqrt{3}}{3}\)
+2011	shanghai_science	填空题	8	1	1	\(\frac{2+\sqrt{3}}{4}\)
+2011	shanghai_science	填空题	9	1	1	2
+2011	shanghai_science	填空题	10	1	1	6
+2011	shanghai_science	填空题	11	1	1	\(\frac{15}{2}\)
+2011	shanghai_science	填空题	12	1	1	0.985
+2011	shanghai_science	填空题	13	1	1	\([-15,11]\)
+2011	shanghai_science	填空题	14	1	1	\(\sqrt{3}\)
+2011	shanghai_science	单选题	15	1	1	D
+2011	shanghai_science	单选题	16	1	1	A
+2011	shanghai_science	单选题	17	1	1	B
+2011	shanghai_science	单选题	18	1	1	D
+2011	shanghai_science	解答题	19	0	1	
+2011	shanghai_science	解答题	20	0	1	
+2011	shanghai_science	解答题	21	0	1	
+2011	shanghai_science	解答题	22	0	1	
+2011	shanghai_science	解答题	23	0	1	
+2011	shanghai_spring	填空题	1	1	1	\((2,+\infty)\)
+2011	shanghai_spring	填空题	2	1	1	\(\{x\mid1\le x\le2\}\)
+2011	shanghai_spring	填空题	3	1	1	\(\frac{\sqrt{22}}{11}\)
+2011	shanghai_spring	填空题	4	1	1	\(1\)
+2011	shanghai_spring	填空题	5	1	1	\(\arcsin\frac{1}{3}\)
+2011	shanghai_spring	填空题	6	1	1	\(20\)
+2011	shanghai_spring	填空题	7	1	1	\(\frac{\pi}{12}\)
+2011	shanghai_spring	填空题	8	1	1	\(-7\)
+2011	shanghai_spring	填空题	9	1	1	\(\frac{x^2}{9}+\frac{y^2}{4}=1\)
+2011	shanghai_spring	填空题	10	1	1	\(2\)
+2011	shanghai_spring	填空题	11	1	1	\(7\)
+2011	shanghai_spring	填空题	12	1	1	\(168\)
+2011	shanghai_spring	填空题	13	1	1	\(\frac{\pi}{3}\)
+2011	shanghai_spring	填空题	14	1	1	\(\frac{-1-\sqrt{5}\pm\sqrt{10-2\sqrt{5}}\i}{4}\)，\(\frac{-1+\sqrt{5}\pm\sqrt{10+2\sqrt{5}}\i}{4}\) 中的一个虚根
+2011	shanghai_spring	单选题	15	1	1	C
+2011	shanghai_spring	单选题	16	1	1	A
+2011	shanghai_spring	单选题	17	1	1	D
+2011	shanghai_spring	单选题	18	1	1	B
+2011	shanghai_spring	解答题	19	0	1	
+2011	shanghai_spring	解答题	20	0	1	
+2011	shanghai_spring	解答题	21	0	1	
+2011	shanghai_spring	解答题	22	0	1	
+2011	shanghai_spring	解答题	23	0	1	
+2012	shanghai_liberal	填空题	1	1	1	\(1-2\i\)
+2012	shanghai_liberal	填空题	2	1	1	\(\left\{x \mid \frac{1}{2}<x<1\right\}\)
+2012	shanghai_liberal	填空题	3	1	1	\(\pi\)
+2012	shanghai_liberal	填空题	4	1	1	\(\arctan\frac{1}{2}\)
+2012	shanghai_liberal	填空题	5	1	1	\(6\pi\)
+2012	shanghai_liberal	填空题	6	1	1	\(\log_{2}3\)
+2012	shanghai_liberal	填空题	7	1	1	\(\frac{8}{7}\)
+2012	shanghai_liberal	填空题	8	1	1	\(-20\)
+2012	shanghai_liberal	填空题	9	1	1	\(3\)
+2012	shanghai_liberal	填空题	10	1	1	\(-2\)
+2012	shanghai_liberal	填空题	11	1	1	\(\frac{2}{3}\)
+2012	shanghai_liberal	填空题	12	1	1	\([1,4]\)
+2012	shanghai_liberal	填空题	13	1	1	\(\frac{1}{4}\)
+2012	shanghai_liberal	填空题	14	1	1	\(\frac{3+13\sqrt{5}}{26}\)
+2012	shanghai_liberal	单选题	15	1	1	D
+2012	shanghai_liberal	单选题	16	1	1	B
+2012	shanghai_liberal	单选题	17	1	1	A
+2012	shanghai_liberal	单选题	18	1	1	C
+2012	shanghai_liberal	解答题	19	0	1	
+2012	shanghai_liberal	解答题	20	0	1	
+2012	shanghai_liberal	解答题	21	0	1	
+2012	shanghai_liberal	解答题	22	0	1	
+2012	shanghai_liberal	解答题	23	0	1	
+2012	shanghai_science	填空题	1	1	1	\(1-2\i\)
+2012	shanghai_science	填空题	2	1	1	\(\left(-\frac{1}{2},3\right)\)
+2012	shanghai_science	填空题	3	1	1	\(\left[-\frac{5}{2},-\frac{3}{2}\right]\)
+2012	shanghai_science	填空题	4	1	1	\(\arctan 2\)
+2012	shanghai_science	填空题	5	1	1	\(-160\)
+2012	shanghai_science	填空题	6	1	1	\(\frac{8}{7}\)
+2012	shanghai_science	填空题	7	1	1	\((-\infty,1]\)
+2012	shanghai_science	填空题	8	1	1	\(\frac{\sqrt{3}}{3}\pi\)
+2012	shanghai_science	填空题	9	1	1	\(-1\)
+2012	shanghai_science	填空题	10	1	1	\(\frac{1}{\sin\left(\frac{\pi}{6}-\theta\right)}\)
+2012	shanghai_science	填空题	11	1	1	\(\frac{2}{3}\)
+2012	shanghai_science	填空题	12	1	1	\([2,5]\)
+2012	shanghai_science	填空题	13	1	1	\(\frac{5}{4}\)
+2012	shanghai_science	填空题	14	1	1	\(\frac{2}{3}c\sqrt{a^{2}-c^{2}-1}\)
+2012	shanghai_science	单选题	15	1	1	B
+2012	shanghai_science	单选题	16	1	1	C
+2012	shanghai_science	单选题	17	1	1	A
+2012	shanghai_science	单选题	18	1	1	D
+2012	shanghai_science	解答题	19	0	1	
+2012	shanghai_science	解答题	20	0	1	
+2012	shanghai_science	解答题	21	0	1	
+2012	shanghai_science	解答题	22	0	1	
+2012	shanghai_science	解答题	23	0	1	
+2012	shanghai_spring	填空题	1	1	1	\(3\)
+2012	shanghai_spring	填空题	2	1	1	\([-1,\infty)\)
+2012	shanghai_spring	填空题	3	1	1	\((2,0)\)
+2012	shanghai_spring	填空题	4	1	1	\(1-\i\)
+2012	shanghai_spring	填空题	5	1	1	\(\pi\)
+2012	shanghai_spring	填空题	6	1	1	\(x=1\)
+2012	shanghai_spring	填空题	7	1	1	\(1\)
+2012	shanghai_spring	填空题	8	1	1	\(-2\)
+2012	shanghai_spring	填空题	9	1	1	\(5\)
+2012	shanghai_spring	填空题	10	1	1	\(2\pi\)
+2012	shanghai_spring	填空题	11	1	1	\(\dfrac{14}{15}\)
+2012	shanghai_spring	填空题	12	1	1	\((-\infty,2]\)
+2012	shanghai_spring	填空题	13	1	1	\(1006\)
+2012	shanghai_spring	填空题	14	1	1	\(8\)
+2012	shanghai_spring	单选题	15	1	1	D
+2012	shanghai_spring	单选题	16	1	1	B
+2012	shanghai_spring	单选题	17	1	1	D
+2012	shanghai_spring	单选题	18	1	1	C
+2012	shanghai_spring	解答题	19	0	1	
+2012	shanghai_spring	解答题	20	0	1	
+2012	shanghai_spring	解答题	21	0	1	
+2012	shanghai_spring	解答题	22	0	1	
+2012	shanghai_spring	解答题	23	0	1	
+2013	shanghai_liberal	填空题	1	1	1	\(0 < x < \frac{1}{2}\)
+2013	shanghai_liberal	填空题	2	1	1	\(15\)
+2013	shanghai_liberal	填空题	3	1	1	\(-2\)
+2013	shanghai_liberal	填空题	4	1	1	\(3\)
+2013	shanghai_liberal	填空题	5	1	1	\(\frac{2\pi}{3}\)
+2013	shanghai_liberal	填空题	6	1	1	\(78\)
+2013	shanghai_liberal	填空题	7	1	1	\(-2\)
+2013	shanghai_liberal	填空题	8	1	1	\(x = \log_{3}4\)
+2013	shanghai_liberal	填空题	9	1	1	\(-\frac{7}{9}\)
+2013	shanghai_liberal	填空题	10	1	1	\(\sqrt{3}\)
+2013	shanghai_liberal	填空题	11	1	1	\(\frac{5}{7}\)
+2013	shanghai_liberal	填空题	12	1	1	\(\frac{4\sqrt{6}}{3}\)
+2013	shanghai_liberal	填空题	13	1	1	\(a \geqslant \frac{1}{5}\)
+2013	shanghai_liberal	填空题	14	1	1	\(-5\)
+2013	shanghai_liberal	选择题	15	1	1	A
+2013	shanghai_liberal	选择题	16	1	1	B
+2013	shanghai_liberal	选择题	17	1	1	B
+2013	shanghai_liberal	选择题	18	1	1	D
+2013	shanghai_liberal	解答题	19	0	1	
+2013	shanghai_liberal	解答题	20	0	1	
+2013	shanghai_liberal	解答题	21	0	1	
+2013	shanghai_liberal	解答题	22	0	1	
+2013	shanghai_liberal	解答题	23	0	1	
+2013	shanghai_science	填空题	1	1	1	\(\frac{1}{3}\)
+2013	shanghai_science	填空题	2	1	1	\(-2\)
+2013	shanghai_science	填空题	3	1	1	\(0\)
+2013	shanghai_science	填空题	4	1	1	\(\pi-\arccos\left(\frac{1}{3}\right)\)
+2013	shanghai_science	填空题	5	1	1	\(-2\)
+2013	shanghai_science	填空题	6	1	1	\(\log_{3}4\)
+2013	shanghai_science	填空题	7	1	1	\(\frac{1+\sqrt{5}}{2}\)
+2013	shanghai_science	填空题	8	1	1	\(\frac{13}{18}\)
+2013	shanghai_science	填空题	9	1	1	\(\frac{4\sqrt{6}}{3}\)
+2013	shanghai_science	填空题	10	1	1	\(30d^2\)
+2013	shanghai_science	填空题	11	1	1	\(\frac{2}{3}\)
+2013	shanghai_science	填空题	12	1	1	\(\left(-\infty,-\frac{8}{7}\right]\)
+2013	shanghai_science	填空题	13	1	1	\(2\pi^2+16\pi\)
+2013	shanghai_science	填空题	14	1	1	\(2\)
+2013	shanghai_science	单选题	15	1	1	B
+2013	shanghai_science	单选题	16	1	1	B
+2013	shanghai_science	单选题	17	1	1	A
+2013	shanghai_science	单选题	18	1	1	D
+2013	shanghai_science	解答题	19	0	1	
+2013	shanghai_science	解答题	20	0	1	
+2013	shanghai_science	解答题	21	0	1	
+2013	shanghai_science	解答题	22	0	1	
+2013	shanghai_science	解答题	23	0	1	
+2013	shanghai_spring	填空题	1	1	1	\( (-2, +\infty) \)
+2013	shanghai_spring	填空题	2	1	1	\(3\)
+2013	shanghai_spring	填空题	3	1	1	\(x=-2\)
+2013	shanghai_spring	填空题	4	1	1	\(2\pi\)
+2013	shanghai_spring	填空题	5	1	1	\(-\frac{3}{4}\)
+2013	shanghai_spring	填空题	6	1	1	\(5\)
+2013	shanghai_spring	填空题	7	1	1	\(\sqrt{13}\)
+2013	shanghai_spring	填空题	8	1	1	\(8\)
+2013	shanghai_spring	填空题	9	1	1	\(\frac{\pi}{3}\)
+2013	shanghai_spring	填空题	10	1	1	\(\frac{4}{5}\)
+2013	shanghai_spring	填空题	11	1	1	\(\frac{5n^{2}-7n}{6}\)
+2013	shanghai_spring	填空题	12	1	1	\(4836\)
+2013	shanghai_spring	单选题	13	1	1	B
+2013	shanghai_spring	单选题	14	1	1	B
+2013	shanghai_spring	单选题	15	1	1	D
+2013	shanghai_spring	单选题	16	1	1	A
+2013	shanghai_spring	单选题	17	1	1	D
+2013	shanghai_spring	单选题	18	1	1	A
+2013	shanghai_spring	单选题	19	1	1	C
+2013	shanghai_spring	单选题	20	1	1	B
+2013	shanghai_spring	单选题	21	1	1	C
+2013	shanghai_spring	单选题	22	1	1	A
+2013	shanghai_spring	单选题	23	1	1	D
+2013	shanghai_spring	单选题	24	1	1	C
+2013	shanghai_spring	解答题	25	0	1	
+2013	shanghai_spring	解答题	26	0	1	
+2013	shanghai_spring	解答题	27	0	1	
+2013	shanghai_spring	解答题	28	0	1	
+2013	shanghai_spring	解答题	29	0	1	
+2013	shanghai_spring	解答题	30	0	1	
+2013	shanghai_spring	解答题	31	0	1	
+2014	shanghai_liberal	填空题	1	1	1	\(\frac{\pi}{2}\)
+2014	shanghai_liberal	填空题	2	1	1	\(6\)
+2014	shanghai_liberal	填空题	3	1	1	\(3\)
+2014	shanghai_liberal	填空题	4	1	1	\(x=-2\)
+2014	shanghai_liberal	填空题	5	1	1	\(70\)
+2014	shanghai_liberal	填空题	6	1	1	\(2\sqrt{2}\)
+2014	shanghai_liberal	填空题	7	1	1	\(24\)
+2014	shanghai_liberal	填空题	8	1	1	\(\arcsin\frac{1}{3}\)
+2014	shanghai_liberal	填空题	9	1	1	\(\left[0,2\right]\)
+2014	shanghai_liberal	填空题	10	1	1	\(\frac{\sqrt{5}-1}{2}\)
+2014	shanghai_liberal	填空题	11	1	1	\(\left(0,1\right)\)
+2014	shanghai_liberal	填空题	12	1	1	\(\frac{7\pi}{3}\)
+2014	shanghai_liberal	填空题	13	1	1	\(\frac{1}{15}\)
+2014	shanghai_liberal	填空题	14	1	1	\([2,3]\)
+2014	shanghai_liberal	单选题	15	1	1	B
+2014	shanghai_liberal	单选题	16	1	1	D
+2014	shanghai_liberal	单选题	17	1	1	C
+2014	shanghai_liberal	单选题	18	1	1	B
+2014	shanghai_liberal	解答题	19	0	1	
+2014	shanghai_liberal	解答题	20	0	1	
+2014	shanghai_liberal	解答题	21	0	1	
+2014	shanghai_liberal	解答题	22	0	1	
+2014	shanghai_liberal	解答题	23	0	1	
+2014	shanghai_science	填空题	1	1	1	\(\frac{\pi}{2}\)
+2014	shanghai_science	填空题	2	1	1	\(6\)
+2014	shanghai_science	填空题	3	1	1	\(x=-2\)
+2014	shanghai_science	填空题	4	1	1	\((-\infty,2]\)
+2014	shanghai_science	填空题	5	1	1	\(2\sqrt{2}\)
+2014	shanghai_science	填空题	6	1	1	\(\arccos\frac{1}{3}\)
+2014	shanghai_science	填空题	7	1	1	\(\frac{1}{3}\)
+2014	shanghai_science	填空题	8	1	1	\(\frac{\sqrt{5}-1}{2}\)
+2014	shanghai_science	填空题	9	1	1	\((0,1)\)
+2014	shanghai_science	填空题	10	1	1	\(\frac{1}{15}\)
+2014	shanghai_science	填空题	11	1	1	\(-1\)
+2014	shanghai_science	填空题	12	1	1	\(\frac{7\pi}{3}\)
+2014	shanghai_science	填空题	13	1	1	\(0.2\)
+2014	shanghai_science	填空题	14	1	1	\([2,3]\)
+2014	shanghai_science	单选题	15	1	1	B
+2014	shanghai_science	单选题	16	1	1	A
+2014	shanghai_science	单选题	17	1	1	B
+2014	shanghai_science	单选题	18	1	1	D
+2014	shanghai_science	解答题	19	0	1	
+2014	shanghai_science	解答题	20	0	1	
+2014	shanghai_science	解答题	21	0	1	
+2014	shanghai_science	解答题	22	0	1	
+2014	shanghai_science	解答题	23	0	1	
+2014	shanghai_spring	填空题	1	1	1	\(2\)
+2014	shanghai_spring	填空题	2	1	1	\(-1+\i\)
+2014	shanghai_spring	填空题	3	1	1	\(2\)
+2014	shanghai_spring	填空题	4	1	1	\(0\)
+2014	shanghai_spring	填空题	5	1	1	\(2\sqrt{2}\)
+2014	shanghai_spring	填空题	6	1	1	\(y=\frac{1}{x}-1\)
+2014	shanghai_spring	填空题	7	1	1	\(n^2\)
+2014	shanghai_spring	填空题	8	1	1	\(-\frac{7}{9}\)
+2014	shanghai_spring	填空题	9	1	1	\(\frac{1}{4}\)
+2014	shanghai_spring	填空题	10	1	1	\(\frac{5}{12}\)
+2014	shanghai_spring	填空题	11	1	1	\(6\sqrt{2}\)
+2014	shanghai_spring	填空题	12	1	1	\((x-1)^2+(y-1)^2=1\)
+2014	shanghai_spring	单选题	13	1	1	B
+2014	shanghai_spring	单选题	14	1	1	A
+2014	shanghai_spring	单选题	15	1	1	B
+2014	shanghai_spring	单选题	16	1	1	A
+2014	shanghai_spring	单选题	17	1	1	D
+2014	shanghai_spring	单选题	18	1	1	C
+2014	shanghai_spring	单选题	19	1	1	C
+2014	shanghai_spring	单选题	20	1	1	D
+2014	shanghai_spring	单选题	21	1	1	B
+2014	shanghai_spring	单选题	22	1	1	A
+2014	shanghai_spring	单选题	23	1	1	C
+2014	shanghai_spring	单选题	24	1	1	D
+2014	shanghai_spring	解答题	25	0	1	
+2014	shanghai_spring	解答题	26	0	1	
+2014	shanghai_spring	解答题	27	0	1	
+2014	shanghai_spring	解答题	28	0	1	
+2014	shanghai_spring	解答题	29	0	1	
+2014	shanghai_spring	附加题	30	0	1	
+2014	shanghai_spring	附加题	31	0	1	
+2014	shanghai_spring	附加题	32	0	1	
+2015	shanghai_liberal	填空题	1	1	1	\(\pi\)
+2015	shanghai_liberal	填空题	2	1	1	\(\{1,3,4\}\)
+2015	shanghai_liberal	填空题	3	1	1	\(\frac{1}{4}+\frac{1}{2}\i\)
+2015	shanghai_liberal	填空题	4	1	1	\(-\frac{2}{3}\)
+2015	shanghai_liberal	填空题	5	1	1	16
+2015	shanghai_liberal	填空题	6	1	1	4
+2015	shanghai_liberal	填空题	7	1	1	2
+2015	shanghai_liberal	填空题	8	1	1	2
+2015	shanghai_liberal	填空题	9	1	1	3
+2015	shanghai_liberal	填空题	10	1	1	120
+2015	shanghai_liberal	填空题	11	1	1	240
+2015	shanghai_liberal	填空题	12	1	1	\(\frac{x^2}{4}-\frac{y^2}{4}=1\)
+2015	shanghai_liberal	填空题	13	1	1	\(3+\sqrt{5}\)
+2015	shanghai_liberal	填空题	14	1	1	8
+2015	shanghai_liberal	单选题	15	1	1	A
+2015	shanghai_liberal	单选题	16	1	1	B
+2015	shanghai_liberal	单选题	17	1	1	D
+2015	shanghai_liberal	单选题	18	1	1	A
+2015	shanghai_liberal	解答题	19	0	1	
+2015	shanghai_liberal	解答题	20	0	1	
+2015	shanghai_liberal	解答题	21	0	1	
+2015	shanghai_liberal	解答题	22	0	1	
+2015	shanghai_liberal	解答题	23	0	1	
+2015	shanghai_science	填空题	1	1	1	\(\{1,4\}\)
+2015	shanghai_science	填空题	2	1	1	\(\frac{1}{4}+\frac{1}{2}\i\)
+2015	shanghai_science	填空题	3	1	1	16
+2015	shanghai_science	填空题	4	1	1	4
+2015	shanghai_science	填空题	5	1	1	2
+2015	shanghai_science	填空题	6	1	1	\(\frac{\pi}{3}\)
+2015	shanghai_science	填空题	7	1	1	2
+2015	shanghai_science	填空题	8	1	1	120
+2015	shanghai_science	填空题	9	1	1	\(y=\pm\frac{\sqrt{3}}{2}x\)
+2015	shanghai_science	填空题	10	1	1	4
+2015	shanghai_science	填空题	11	1	1	45
+2015	shanghai_science	填空题	12	1	1	0.2
+2015	shanghai_science	填空题	13	1	1	8
+2015	shanghai_science	填空题	14	1	1	\(-\frac{16}{15}\)
+2015	shanghai_science	单选题	15	1	1	B
+2015	shanghai_science	单选题	16	1	1	D
+2015	shanghai_science	单选题	17	1	1	B
+2015	shanghai_science	单选题	18	1	1	A
+2015	shanghai_science	解答题	19	0	1	
+2015	shanghai_science	解答题	20	0	1	
+2015	shanghai_science	解答题	21	0	1	
+2015	shanghai_science	解答题	22	0	1	
+2015	shanghai_science	解答题	23	0	1	
+2015	shanghai_spring	填空题	1	1	1	\(\{3\}\)
+2015	shanghai_spring	填空题	2	1	1	\(1-\i\)
+2015	shanghai_spring	填空题	3	1	1	\(\pi\)
+2015	shanghai_spring	填空题	4	1	1	\(\frac{1}{2}\)
+2015	shanghai_spring	填空题	5	1	1	\( (x-2)^2+(y-6)^2=1 \)
+2015	shanghai_spring	填空题	6	1	1	\(3\)
+2015	shanghai_spring	填空题	7	1	1	\([3,4]\)
+2015	shanghai_spring	填空题	8	1	1	\(2\)
+2015	shanghai_spring	填空题	9	1	1	\(\{2\}\)
+2015	shanghai_spring	填空题	10	1	1	\(84\)
+2015	shanghai_spring	填空题	11	1	1	题面缺少所用数字集合，答案无法唯一确定.
+2015	shanghai_spring	填空题	12	1	1	\(y^2=2x-1\)
+2015	shanghai_spring	单选题	13	1	1	D
+2015	shanghai_spring	单选题	14	1	1	A
+2015	shanghai_spring	单选题	15	1	1	D
+2015	shanghai_spring	单选题	16	1	1	B
+2015	shanghai_spring	单选题	17	1	1	A
+2015	shanghai_spring	单选题	18	1	1	D
+2015	shanghai_spring	单选题	19	1	1	B
+2015	shanghai_spring	单选题	20	1	1	D
+2015	shanghai_spring	单选题	21	1	1	C
+2015	shanghai_spring	单选题	22	1	1	A
+2015	shanghai_spring	单选题	23	1	1	A
+2015	shanghai_spring	单选题	24	1	1	B
+2015	shanghai_spring	解答题	25	0	1	
+2015	shanghai_spring	解答题	26	0	1	
+2015	shanghai_spring	解答题	27	0	1	
+2015	shanghai_spring	解答题	28	0	1	
+2015	shanghai_spring	解答题	29	0	1	
+2015	shanghai_spring	附加题：选择题	30	1	1	C
+2015	shanghai_spring	附加题：选择题	31	1	1	B
+2015	shanghai_spring	附加题：选择题	32	1	1	D
+2015	shanghai_spring	附加题：填空题	33	1	1	\(2\sqrt2\)
+2015	shanghai_spring	附加题：填空题	34	1	1	\(\sqrt3\)
+2015	shanghai_spring	附加题：填空题	35	1	1	\(f(x)=\begin{cases} x,&-1<x<0,\\ 1,&0<x<1. \end{cases}\)
+2015	shanghai_spring	附加题：解答题	36	0	1	
+2016	shanghai_liberal	填空题	1	1	1	\((2,4)\)
+2016	shanghai_liberal	填空题	2	1	1	\(-3\)
+2016	shanghai_liberal	填空题	3	1	1	\(\dfrac{2\sqrt{5}}{5}\)
+2016	shanghai_liberal	填空题	4	1	1	\(1.76\)
+2016	shanghai_liberal	填空题	5	1	1	\(\pm 3\)
+2016	shanghai_liberal	填空题	6	1	1	\(\log_2(x-1)\)
+2016	shanghai_liberal	填空题	7	1	1	\(-2\)
+2016	shanghai_liberal	填空题	8	1	1	\(\frac{\pi}{6}\)，\(\frac{5\pi}{6}\)
+2016	shanghai_liberal	填空题	9	1	1	\(112\)
+2016	shanghai_liberal	填空题	10	1	1	\(\dfrac{7\sqrt{3}}{3}\)
+2016	shanghai_liberal	填空题	11	1	1	\(\dfrac{1}{6}\)
+2016	shanghai_liberal	填空题	12	1	1	\([-1,\sqrt{2}]\)
+2016	shanghai_liberal	填空题	13	1	1	\((2,+\infty)\)
+2016	shanghai_liberal	填空题	14	1	1	4
+2016	shanghai_liberal	单选题	15	1	1	A
+2016	shanghai_liberal	单选题	16	1	1	D
+2016	shanghai_liberal	单选题	17	1	1	B
+2016	shanghai_liberal	单选题	18	1	1	D
+2016	shanghai_liberal	解答题	19	0	1	
+2016	shanghai_liberal	解答题	20	0	1	
+2016	shanghai_liberal	解答题	21	0	1	
+2016	shanghai_liberal	解答题	22	0	1	
+2016	shanghai_liberal	解答题	23	0	1	
+2016	shanghai_science	填空题	1	1	1	\((2,4)\)
+2016	shanghai_science	填空题	2	1	1	\(-3\)
+2016	shanghai_science	填空题	3	1	1	\(\dfrac{2\sqrt5}{5}\)
+2016	shanghai_science	填空题	4	1	1	\(1.76\)
+2016	shanghai_science	填空题	5	1	1	\(\log_2(x-1)\)
+2016	shanghai_science	填空题	6	1	1	\(2\sqrt2\)
+2016	shanghai_science	填空题	7	1	1	\(\dfrac{\pi}{6}\)，\(\dfrac{5\pi}{6}\)
+2016	shanghai_science	填空题	8	1	1	\(112\)
+2016	shanghai_science	填空题	9	1	1	\(\dfrac{7\sqrt3}{3}\)
+2016	shanghai_science	填空题	10	1	1	\((2,+\infty)\)
+2016	shanghai_science	填空题	11	1	1	\(4\)
+2016	shanghai_science	填空题	12	1	1	\([0,1+\sqrt2]\)
+2016	shanghai_science	填空题	13	1	1	\(4\)
+2016	shanghai_science	填空题	14	1	1	\(\dfrac5{28}\)
+2016	shanghai_science	单选题	15	1	1	A
+2016	shanghai_science	单选题	16	1	1	D
+2016	shanghai_science	单选题	17	1	1	B
+2016	shanghai_science	单选题	18	1	1	D
+2016	shanghai_science	解答题	19	0	1	
+2016	shanghai_science	解答题	20	0	1	
+2016	shanghai_science	解答题	21	0	1	
+2016	shanghai_science	解答题	22	0	1	
+2016	shanghai_science	解答题	23	0	1	
+2016	shanghai_spring	填空题	1	1	1	\(3\)
+2016	shanghai_spring	填空题	2	1	1	\(7\)
+2016	shanghai_spring	填空题	3	1	1	\(\dfrac{\pi}{4}\)
+2016	shanghai_spring	填空题	4	1	1	\([2,+\infty)\)
+2016	shanghai_spring	填空题	5	1	1	\(8\)
+2016	shanghai_spring	填空题	6	1	1	\(1\)
+2016	shanghai_spring	填空题	7	1	1	\(2\sqrt3\)
+2016	shanghai_spring	填空题	8	1	1	\(24\)
+2016	shanghai_spring	填空题	9	1	1	\(3\)
+2016	shanghai_spring	填空题	10	1	1	\(-4\)
+2016	shanghai_spring	填空题	11	1	1	\([1,2]\)
+2016	shanghai_spring	填空题	12	1	1	\(4\)
+2016	shanghai_spring	单选题	13	1	1	B
+2016	shanghai_spring	单选题	14	1	1	D
+2016	shanghai_spring	单选题	15	1	1	C
+2016	shanghai_spring	单选题	16	1	1	C
+2016	shanghai_spring	单选题	17	1	1	A
+2016	shanghai_spring	单选题	18	1	1	C
+2016	shanghai_spring	单选题	19	1	1	D
+2016	shanghai_spring	单选题	20	1	1	B
+2016	shanghai_spring	单选题	21	1	1	B
+2016	shanghai_spring	单选题	22	1	1	D
+2016	shanghai_spring	单选题	23	1	1	A
+2016	shanghai_spring	单选题	24	1	1	B
+2016	shanghai_spring	解答题	25	0	1	
+2016	shanghai_spring	解答题	26	0	1	
+2016	shanghai_spring	解答题	27	0	1	
+2016	shanghai_spring	解答题	28	0	1	
+2016	shanghai_spring	解答题	29	0	1	
+2016	shanghai_spring	附加题：选择题	30	1	1	B
+2016	shanghai_spring	附加题：选择题	31	1	1	D
+2016	shanghai_spring	附加题：选择题	32	1	1	B
+2016	shanghai_spring	附加题：填空题	33	1	1	\(5\)
+2016	shanghai_spring	附加题：填空题	34	1	1	\(50\pi\)
+2016	shanghai_spring	附加题：填空题	35	1	1	\(28\)
+2016	shanghai_spring	附加题：解答题	36	0	1	
+2017	shanghai	填空题	1	1	1	\(\{3,4\}\)
+2017	shanghai	填空题	2	1	1	\(3\)
+2017	shanghai	填空题	3	1	1	\((-\infty,0)\)
+2017	shanghai	填空题	4	1	1	\(9\pi\)
+2017	shanghai	填空题	5	1	1	\(\sqrt3\)
+2017	shanghai	填空题	6	1	1	\(11\)
+2017	shanghai	填空题	7	1	1	\((-4,3,2)\)
+2017	shanghai	填空题	8	1	1	\(\dfrac89\)
+2017	shanghai	填空题	9	1	1	\(\dfrac13\)
+2017	shanghai	填空题	10	1	1	\(2\)
+2017	shanghai	填空题	11	1	1	\(\dfrac\pi4\)
+2017	shanghai	填空题	12	1	1	\(P_1\)，\(P_3\)，\(P_4\)
+2017	shanghai	单选题	13	1	1	C
+2017	shanghai	单选题	14	1	1	B
+2017	shanghai	单选题	15	1	1	A
+2017	shanghai	单选题	16	1	1	D
+2017	shanghai	解答题	17	0	1	
+2017	shanghai	解答题	18	0	1	
+2017	shanghai	解答题	19	0	1	
+2017	shanghai	解答题	20	0	1	
+2017	shanghai	解答题	21	0	1	
+2017	shanghai_spring	填空题	1	1	1	\(\{1,2,3,4\}\)
+2017	shanghai_spring	填空题	2	1	1	\((-2,4)\)
+2017	shanghai_spring	填空题	3	1	1	\(2-3\i\)
+2017	shanghai_spring	填空题	4	1	1	\(-\dfrac13\)
+2017	shanghai_spring	填空题	5	1	1	\(6\)
+2017	shanghai_spring	填空题	6	1	1	\(10\)
+2017	shanghai_spring	填空题	7	1	1	\(2\)
+2017	shanghai_spring	填空题	8	1	1	\(\dfrac32\)
+2017	shanghai_spring	填空题	9	1	1	\(160\)
+2017	shanghai_spring	填空题	10	1	1	\(6\)
+2017	shanghai_spring	填空题	11	1	1	\(48\)
+2017	shanghai_spring	填空题	12	1	1	\((0,1)\)
+2017	shanghai_spring	单选题	13	1	1	B
+2017	shanghai_spring	单选题	14	1	1	C
+2017	shanghai_spring	单选题	15	1	1	A
+2017	shanghai_spring	单选题	16	1	1	B
+2017	shanghai_spring	解答题	17	0	1	
+2017	shanghai_spring	解答题	18	0	1	
+2017	shanghai_spring	解答题	19	0	1	
+2017	shanghai_spring	解答题	20	0	1	
+2017	shanghai_spring	解答题	21	0	1	
+2018	shanghai	填空题	1	1	1	18
+2018	shanghai	填空题	2	1	1	\(y=\pm\frac{x}{2}\)
+2018	shanghai	填空题	3	1	1	21
+2018	shanghai	填空题	4	1	1	7
+2018	shanghai	填空题	5	1	1	5
+2018	shanghai	填空题	6	1	1	14
+2018	shanghai	填空题	7	1	1	\(-1\)
+2018	shanghai	填空题	8	1	1	\(-3\)
+2018	shanghai	填空题	9	1	1	\(\frac15\)
+2018	shanghai	填空题	10	1	1	3
+2018	shanghai	填空题	11	1	1	6
+2018	shanghai	填空题	12	1	1	\(\sqrt2+\sqrt3\)
+2018	shanghai	单选题	13	1	1	C
+2018	shanghai	单选题	14	1	1	A
+2018	shanghai	单选题	15	1	1	D
+2018	shanghai	单选题	16	1	1	B
+2018	shanghai	解答题	17	0	1	
+2018	shanghai	解答题	18	0	1	
+2018	shanghai	解答题	19	0	1	
+2018	shanghai	解答题	20	0	1	
+2018	shanghai	解答题	21	0	1	
+2018	shanghai_spring	填空题	1	1	1	\((-\infty,-1)\cup(1,+\infty)\)
+2018	shanghai_spring	填空题	2	1	1	\(3\)
+2018	shanghai_spring	填空题	3	1	1	\((0,1)\)
+2018	shanghai_spring	填空题	4	1	1	\(2\)
+2018	shanghai_spring	填空题	5	1	1	\(15\)
+2018	shanghai_spring	填空题	6	1	1	\(\frac{x^2}{4}+\frac{y^2}{3}=1\)
+2018	shanghai_spring	填空题	7	1	1	\(5\)
+2018	shanghai_spring	填空题	8	1	1	\(180\)
+2018	shanghai_spring	填空题	9	1	1	\(4\)
+2018	shanghai_spring	填空题	10	1	1	\(\left(\frac{\sqrt3}{3},+\infty\right)\)
+2018	shanghai_spring	填空题	11	1	1	\(\left(\frac{11\pi}{6},\frac{19\pi}{6}\right]\)
+2018	shanghai_spring	填空题	12	1	1	\(4.4\)
+2018	shanghai_spring	单选题	13	1	1	A
+2018	shanghai_spring	单选题	14	1	1	C
+2018	shanghai_spring	单选题	15	1	1	D
+2018	shanghai_spring	单选题	16	1	1	B
+2018	shanghai_spring	解答题	17	0	1	
+2018	shanghai_spring	解答题	18	0	1	
+2018	shanghai_spring	解答题	19	0	1	
+2018	shanghai_spring	解答题	20	0	1	
+2018	shanghai_spring	解答题	21	0	1	
+2019	shanghai	填空题	1	1	1	\((2,3)\)
+2019	shanghai	填空题	2	1	1	\(5-\i\)
+2019	shanghai	填空题	3	1	1	\(\arccos\dfrac{2}{5}\)
+2019	shanghai	填空题	4	1	1	\(40\)
+2019	shanghai	填空题	5	1	1	\(-6\)
+2019	shanghai	填空题	6	1	1	\(1\)
+2019	shanghai	填空题	7	1	1	\(\dfrac{9}{8}\)
+2019	shanghai	填空题	8	1	1	\(\dfrac{31}{16}\)
+2019	shanghai	填空题	9	1	1	\(3\)
+2019	shanghai	填空题	10	1	1	\(\dfrac{27}{100}\)
+2019	shanghai	填空题	11	1	1	\(\dfrac{2\sqrt{3}}{3}\)
+2019	shanghai	填空题	12	1	1	\(\sqrt{2}\)
+2019	shanghai	单选题	13	1	1	D
+2019	shanghai	单选题	14	1	1	B
+2019	shanghai	单选题	15	1	1	C
+2019	shanghai	单选题	16	1	1	D
+2019	shanghai	解答题	17	0	1	
+2019	shanghai	解答题	18	0	1	
+2019	shanghai	解答题	19	0	1	
+2019	shanghai	解答题	20	0	1	
+2019	shanghai	解答题	21	0	1	
+2019	shanghai_spring	填空题	1	1	1	\(\{3,5\}\)
+2019	shanghai_spring	填空题	2	1	1	\(2\)
+2019	shanghai_spring	填空题	3	1	1	\((-6,4)\)
+2019	shanghai_spring	填空题	4	1	1	\(y=\sqrt{x}\)，\(\,x>0\)
+2019	shanghai_spring	填空题	5	1	1	\(2\sqrt2\)
+2019	shanghai_spring	填空题	6	1	1	\(-2\)
+2019	shanghai_spring	填空题	7	1	1	\(15\)
+2019	shanghai_spring	填空题	8	1	1	\(\sqrt{10}\)
+2019	shanghai_spring	填空题	9	1	1	\(24\)
+2019	shanghai_spring	填空题	10	1	1	\(\sqrt3\)
+2019	shanghai_spring	填空题	11	1	1	\(\left[\pi-\arccos\dfrac13,\pi\right]\)
+2019	shanghai_spring	填空题	12	1	1	\(1\) 或 \(-3\)
+2019	shanghai_spring	单选题	13	1	1	B
+2019	shanghai_spring	单选题	14	1	1	C
+2019	shanghai_spring	单选题	15	1	1	D
+2019	shanghai_spring	单选题	16	1	1	A
+2019	shanghai_spring	解答题	17	0	1	
+2019	shanghai_spring	解答题	18	0	1	
+2019	shanghai_spring	解答题	19	0	1	
+2019	shanghai_spring	解答题	20	0	1	
+2020	shanghai	填空题	1	1	1	\(\{2,4\}\)
+2020	shanghai	填空题	2	1	1	\(\frac13\)
+2020	shanghai	填空题	3	1	1	\(\sqrt5\)
+2020	shanghai	填空题	4	1	1	\(\sqrt[3]{x}\)
+2020	shanghai	填空题	5	1	1	\(-1\)
+2020	shanghai	填空题	6	1	1	\(2\)
+2020	shanghai	填空题	7	1	1	\(36\)
+2020	shanghai	填空题	8	1	1	\(\frac{27}{8}\)
+2020	shanghai	填空题	9	1	1	\(180\)
+2020	shanghai	填空题	10	1	1	\(x+y-1=0\)
+2020	shanghai	填空题	11	1	1	\((-\infty,0)\cup(0,1)\cup(1,+\infty)\)
+2020	shanghai	填空题	12	1	1	\(6\)
+2020	shanghai	单选题	13	1	1	B
+2020	shanghai	单选题	14	1	1	B
+2020	shanghai	单选题	15	1	1	D
+2020	shanghai	单选题	16	1	1	C
+2020	shanghai	解答题	17	0	1	
+2020	shanghai	解答题	18	0	1	
+2020	shanghai	解答题	19	0	1	
+2020	shanghai	解答题	20	0	1	
+2020	shanghai	解答题	21	0	1	
+2020	shanghai_spring	填空题	1	1	1	\(3\)
+2020	shanghai_spring	填空题	2	1	1	\(\left(0,\dfrac{1}{3}\right)\)
+2020	shanghai_spring	填空题	3	1	1	\(\dfrac{\pi}{2}\)
+2020	shanghai_spring	填空题	4	1	1	\(2\)
+2020	shanghai_spring	填空题	5	1	1	\(\arccos\dfrac{1}{3}\)
+2020	shanghai_spring	填空题	6	1	1	\(1\)
+2020	shanghai_spring	填空题	7	1	1	\(\sqrt{2}\)
+2020	shanghai_spring	填空题	8	1	1	\(10\)
+2020	shanghai_spring	填空题	9	1	1	\(\dfrac{19}{4}\)
+2020	shanghai_spring	填空题	10	1	1	\(18\)
+2020	shanghai_spring	填空题	11	1	1	\(\dfrac{\sqrt{6}}{3}\)
+2020	shanghai_spring	填空题	12	1	1	\(\left[\dfrac{3}{4},+\infty\right)\)
+2020	shanghai_spring	单选题	13	1	1	D
+2020	shanghai_spring	单选题	14	1	1	A
+2020	shanghai_spring	单选题	15	1	1	B
+2020	shanghai_spring	单选题	16	1	1	B
+2020	shanghai_spring	解答题	17	0	1	
+2020	shanghai_spring	解答题	18	0	1	
+2020	shanghai_spring	解答题	19	0	1	
+2020	shanghai_spring	解答题	20	0	1	
+2020	shanghai_spring	解答题	21	0	1	
+2021	shanghai	填空题	1	1	1	\(3+4\i\)
+2021	shanghai	填空题	2	1	1	\(\{-1,0\}\)
+2021	shanghai	填空题	3	1	1	\((1,2)\)
+2021	shanghai	填空题	4	1	1	\(9\)
+2021	shanghai	填空题	5	1	1	\(-3\)
+2021	shanghai	填空题	6	1	1	\(2\)
+2021	shanghai	填空题	7	1	1	\(4\)
+2021	shanghai	填空题	8	1	1	\(\dfrac{18}{5}\)
+2021	shanghai	填空题	9	1	1	\([2,\sqrt5]\)
+2021	shanghai	填空题	10	1	1	\(\dfrac23\)
+2021	shanghai	填空题	11	1	1	\(\dfrac{\sqrt5}{2}\)
+2021	shanghai	填空题	12	1	1	31
+2021	shanghai	单选题	13	1	1	A
+2021	shanghai	单选题	14	1	1	B
+2021	shanghai	单选题	15	1	1	B
+2021	shanghai	单选题	16	1	1	A
+2021	shanghai	解答题	17	0	1	
+2021	shanghai	解答题	18	0	1	
+2021	shanghai	解答题	19	0	1	
+2021	shanghai	解答题	20	0	1	
+2021	shanghai	解答题	21	0	1	
+2021	shanghai_spring	填空题	1	1	1	\(21\)
+2021	shanghai_spring	填空题	2	1	1	\(\sqrt5\)
+2021	shanghai_spring	填空题	3	1	1	\((-7,2)\)
+2021	shanghai_spring	填空题	4	1	1	\(4\pi\)
+2021	shanghai_spring	填空题	5	1	1	\(\dfrac{\pi}{6}\)
+2021	shanghai_spring	填空题	6	1	1	\(0\)
+2021	shanghai_spring	填空题	7	1	1	\(20\)
+2021	shanghai_spring	填空题	8	1	1	\(9\)
+2021	shanghai_spring	填空题	9	1	1	\((-4,0)\cup(0,4)\)
+2021	shanghai_spring	填空题	10	1	1	\(23\)
+2021	shanghai_spring	填空题	11	1	1	\(x=-1+\sqrt2\)
+2021	shanghai_spring	填空题	12	1	1	\(\dfrac{2\pi}{5}\)
+2021	shanghai_spring	单选题	13	1	1	C
+2021	shanghai_spring	单选题	14	1	1	D
+2021	shanghai_spring	单选题	15	1	1	D
+2021	shanghai_spring	单选题	16	1	1	B
+2021	shanghai_spring	解答题	17	0	1	
+2021	shanghai_spring	解答题	18	0	1	
+2021	shanghai_spring	解答题	19	0	1	
+2021	shanghai_spring	解答题	20	0	1	
+2021	shanghai_spring	解答题	21	0	1	
+2022	shanghai	填空题	1	1	0	\(2+2\i\)
+2022	shanghai	填空题	2	1	0	\(6\)
+2022	shanghai	填空题	3	1	0	\(\pi\)
+2022	shanghai	填空题	4	1	0	\(3\)
+2022	shanghai	填空题	5	1	0	\(24\pi\)
+2022	shanghai	填空题	6	1	0	\(\frac32\)
+2022	shanghai	填空题	7	1	0	\(10\)
+2022	shanghai	填空题	8	1	0	\(1\)
+2022	shanghai	填空题	9	1	0	\(\frac37\)
+2022	shanghai	填空题	10	1	0	\(98\)
+2022	shanghai	填空题	11	1	0	\(\sqrt[4]{5}\)
+2022	shanghai	填空题	12	1	1	\(\left[\frac{\sqrt5-1}{2},+\infty\right)\)
+2022	shanghai	单选题	13	1	0	B
+2022	shanghai	单选题	14	1	0	A
+2022	shanghai	单选题	15	1	0	D
+2022	shanghai	单选题	16	1	0	B
+2022	shanghai	解答题	17	0	1	
+2022	shanghai	解答题	18	0	1	
+2022	shanghai	解答题	19	0	1	
+2022	shanghai	解答题	20	0	1	
+2022	shanghai	解答题	21	0	1	
+2022	shanghai_spring	填空题	1	1	1	\(2-i\)
+2022	shanghai_spring	填空题	2	1	1	\((1,2)\)
+2022	shanghai_spring	填空题	3	1	1	\(\{x\mid 0<x<1\}\)
+2022	shanghai_spring	填空题	4	1	1	\(-2\)
+2022	shanghai_spring	填空题	5	1	1	\(4\)
+2022	shanghai_spring	填空题	6	1	1	\(3\)
+2022	shanghai_spring	填空题	7	1	1	\(66\)
+2022	shanghai_spring	填空题	8	1	1	\(\dfrac{\sqrt{21}}3\)
+2022	shanghai_spring	填空题	9	1	1	\(17\)
+2022	shanghai_spring	填空题	10	1	1	\(\dfrac78\)
+2022	shanghai_spring	填空题	11	1	1	\(a\ge1\)
+2022	shanghai_spring	填空题	12	1	1	\(2\)
+2022	shanghai_spring	单选题	13	1	1	C
+2022	shanghai_spring	单选题	14	1	1	B
+2022	shanghai_spring	单选题	15	1	1	B
+2022	shanghai_spring	单选题	16	1	1	D
+2022	shanghai_spring	解答题	17	0	1	
+2022	shanghai_spring	解答题	18	0	1	
+2022	shanghai_spring	解答题	19	0	1	
+2022	shanghai_spring	解答题	20	0	1	
+2022	shanghai_spring	解答题	21	0	1	
+2023	shanghai	填空题	1	1	1	\(\left(1,3\right)\)
+2023	shanghai	填空题	2	1	1	\(4\)
+2023	shanghai	填空题	3	1	1	\(189\)
+2023	shanghai	填空题	4	1	1	\(-\frac34\)
+2023	shanghai	填空题	5	1	1	\(\left[1,+\infty\right)\)
+2023	shanghai	填空题	6	1	1	\(\sqrt5\)
+2023	shanghai	填空题	7	1	1	\(-3\)
+2023	shanghai	填空题	8	1	1	\(\frac{\sqrt7}{4}\)
+2023	shanghai	填空题	9	1	1	\(946\)
+2023	shanghai	填空题	10	1	1	\(49\)
+2023	shanghai	填空题	11	1	1	\(\arccos\frac{40}{41}\)
+2023	shanghai	填空题	12	1	1	\(9\)
+2023	shanghai	单选题	13	1	1	A
+2023	shanghai	单选题	14	1	1	C
+2023	shanghai	单选题	15	1	1	D
+2023	shanghai	单选题	16	1	1	C
+2023	shanghai	解答题	17	0	1	
+2023	shanghai	解答题	18	0	1	
+2023	shanghai	解答题	19	0	1	
+2023	shanghai	解答题	20	0	1	
+2023	shanghai	解答题	21	0	1	
+2023	shanghai_spring	填空题	1	1	1	\(2\)
+2023	shanghai_spring	填空题	2	1	1	\(\left(1,0\right)\)
+2023	shanghai_spring	填空题	3	1	1	\(\left[-1,3\right]\)
+2023	shanghai_spring	填空题	4	1	1	\(1\)
+2023	shanghai_spring	填空题	5	1	1	\(\frac{1}{2}\)
+2023	shanghai_spring	填空题	6	1	1	\(\frac{1}{16}\)
+2023	shanghai_spring	填空题	7	1	1	\(7\)
+2023	shanghai_spring	填空题	8	1	1	\(17\)
+2023	shanghai_spring	填空题	9	1	1	\(x=3\)
+2023	shanghai_spring	填空题	10	1	1	\(\frac{1}{2}\)
+2023	shanghai_spring	填空题	11	1	1	\(\left[0,2\sqrt2\right]\)
+2023	shanghai_spring	填空题	12	1	1	\(\frac{\sqrt{21}}{7}\)
+2023	shanghai_spring	单选题	13	1	1	B
+2023	shanghai_spring	单选题	14	1	1	C
+2023	shanghai_spring	单选题	15	1	1	B
+2023	shanghai_spring	单选题	16	1	1	C
+2023	shanghai_spring	解答题	17	0	1	
+2023	shanghai_spring	解答题	18	0	1	
+2023	shanghai_spring	解答题	19	0	1	
+2023	shanghai_spring	解答题	20	0	1	
+2023	shanghai_spring	解答题	21	0	1	
+2024	shanghai	填空题	1	1	1	\(\{1,3,5\}\)
+2024	shanghai	填空题	2	1	1	\(\sqrt{3}\)
+2024	shanghai	填空题	3	1	1	\(\{x\mid -1<x<3\}\)
+2024	shanghai	填空题	4	1	1	0
+2024	shanghai	填空题	5	1	1	15
+2024	shanghai	填空题	6	1	1	10
+2024	shanghai	填空题	7	1	1	\(4\sqrt{2}\)
+2024	shanghai	填空题	8	1	1	0.85
+2024	shanghai	填空题	9	1	1	2
+2024	shanghai	填空题	10	1	1	329
+2024	shanghai	填空题	11	1	1	\(7.8^\circ\)
+2024	shanghai	填空题	12	1	1	\(q\ge 2\)
+2024	shanghai	单选题	13	1	1	C
+2024	shanghai	单选题	14	1	1	A
+2024	shanghai	单选题	15	1	1	C
+2024	shanghai	单选题	16	1	1	B
+2024	shanghai	解答题	17	0	1	
+2024	shanghai	解答题	18	0	1	
+2024	shanghai	解答题	19	0	1	
+2024	shanghai	解答题	20	0	1	
+2024	shanghai	解答题	21	0	1	
+2024	shanghai_spring	填空题	1	1	1	\(\left(0,+\infty\right)\)
+2024	shanghai_spring	填空题	2	1	1	\(\frac{\pi}{4}\)
+2024	shanghai_spring	填空题	3	1	1	\(-1+\i\)
+2024	shanghai_spring	填空题	4	1	1	\(15\)
+2024	shanghai_spring	填空题	5	1	1	\(\frac{3\sqrt2+\sqrt6}{3}\)
+2024	shanghai_spring	填空题	6	1	1	\(12\)
+2024	shanghai_spring	填空题	7	1	1	\(\left(-\infty,-4\right)\)
+2024	shanghai_spring	填空题	8	1	1	\(3\)
+2024	shanghai_spring	填空题	9	1	1	\(\left(-\infty,1\right]\)
+2024	shanghai_spring	填空题	10	1	1	\(\frac{5}{12}\)
+2024	shanghai_spring	填空题	11	1	1	\(2.73\)
+2024	shanghai_spring	填空题	12	1	1	\(48\)
+2024	shanghai_spring	单选题	13	1	1	B
+2024	shanghai_spring	单选题	14	1	1	B
+2024	shanghai_spring	单选题	15	1	1	B
+2024	shanghai_spring	单选题	16	1	1	D
+2024	shanghai_spring	解答题	17	0	1	
+2024	shanghai_spring	解答题	18	0	1	
+2024	shanghai_spring	解答题	19	0	1	
+2024	shanghai_spring	解答题	20	0	1	
+2024	shanghai_spring	解答题	21	0	1	
+2025	shanghai	填空题	1	1	1	\(\bar{A} = \{x \mid 4 \le x \le 5, x \in \R\}=[4,5]\)
+2025	shanghai	填空题	2	1	1	\((1,3)\)
+2025	shanghai	填空题	3	1	1	\(12\)
+2025	shanghai	填空题	4	1	1	\(80\)
+2025	shanghai	填空题	5	1	1	\([0,1]\)
+2025	shanghai	填空题	6	1	1	\(6.3\)
+2025	shanghai	填空题	7	1	1	\(112\)
+2025	shanghai	填空题	8	1	1	\(4\)
+2025	shanghai	填空题	9	1	1	\(288\)
+2025	shanghai	填空题	10	1	1	\(2\sqrt2\)
+2025	shanghai	填空题	11	1	1	\(12.58^\circ\)
+2025	shanghai	填空题	12	1	1	\((1,\sqrt5)\)
+2025	shanghai	单选题	13	1	1	B
+2025	shanghai	单选题	14	1	1	D
+2025	shanghai	单选题	15	1	1	A
+2025	shanghai	单选题	16	1	1	B
+2025	shanghai	解答题	17	0	1	
+2025	shanghai	解答题	18	0	1	
+2025	shanghai	解答题	19	0	1	
+2025	shanghai	解答题	20	0	1	
+2025	shanghai	解答题	21	0	1	
+2025	shanghai_spring	填空题	1	1	1	\(\{1,2\}\)
+2025	shanghai_spring	填空题	2	1	1	\((0,1)\)
+2025	shanghai_spring	填空题	3	1	1	\(\sqrt5\)
+2025	shanghai_spring	填空题	4	1	1	\(\dfrac12\)
+2025	shanghai_spring	填空题	5	1	1	\(0\)
+2025	shanghai_spring	填空题	6	1	1	\(1\)
+2025	shanghai_spring	填空题	7	1	1	\(\dfrac13\)
+2025	shanghai_spring	填空题	8	1	1	\([1,\pi]\)
+2025	shanghai_spring	填空题	9	1	1	\(\dfrac{\pi}{3}\)
+2025	shanghai_spring	填空题	10	1	1	\(\sqrt3\)
+2025	shanghai_spring	填空题	11	1	1	\(\dfrac{4+\sqrt7}{3}\)
+2025	shanghai_spring	填空题	12	1	1	\(4\)
+2025	shanghai_spring	单选题	13	1	1	D
+2025	shanghai_spring	单选题	14	1	1	B
+2025	shanghai_spring	单选题	15	1	1	B
+2025	shanghai_spring	单选题	16	1	1	D
+2025	shanghai_spring	解答题	17	0	1	
+2025	shanghai_spring	解答题	18	0	1	
+2025	shanghai_spring	解答题	19	0	1	
+2025	shanghai_spring	解答题	20	0	1	
+2025	shanghai_spring	解答题	21	0	1	
+2026	shanghai	填空题	1	1	1	\(-2\)
+2026	shanghai	填空题	2	1	1	\(54\)
+2026	shanghai	填空题	3	1	1	\(\frac{23}{25}\)
+2026	shanghai	填空题	4	1	1	\(0.7\)
+2026	shanghai	填空题	5	1	1	\(-1\)
+2026	shanghai	填空题	6	1	1	\(10\)
+2026	shanghai	填空题	7	1	1	\(\frac{1}{4}\)
+2026	shanghai	填空题	8	1	1	\(0.6\)
+2026	shanghai	填空题	9	1	1	\(\left( 0,\frac{1}{3} \right)\)
+2026	shanghai	填空题	10	1	1	\(-6\)
+2026	shanghai	填空题	11	1	1	\(2-2\cos\left( 10\pi t \right)\)
+2026	shanghai	填空题	12	1	1	\(\frac{2}{3}\)
+2026	shanghai	单选题	13	1	1	原卷选项无正确答案
+2026	shanghai	单选题	14	1	1	C
+2026	shanghai	单选题	15	1	1	C
+2026	shanghai	单选题	16	1	1	A
+2026	shanghai	解答题	17	0	1	
+2026	shanghai	解答题	18	0	1	
+2026	shanghai	解答题	19	0	1	
+2026	shanghai	解答题	20	0	1	
+2026	shanghai	解答题	21	0	1	
+2026	shanghai_spring	填空题	1	1	1	\(4\)
+2026	shanghai_spring	填空题	2	1	1	\((-2,3)\)
+2026	shanghai_spring	填空题	3	1	1	\(2\)
+2026	shanghai_spring	填空题	4	1	1	\(\dfrac35\)
+2026	shanghai_spring	填空题	5	1	1	\(18\)
+2026	shanghai_spring	填空题	6	1	1	\(2\)
+2026	shanghai_spring	填空题	7	1	1	\(6\)
+2026	shanghai_spring	填空题	8	1	1	\(1\)
+2026	shanghai_spring	填空题	9	1	1	\(3\)
+2026	shanghai_spring	填空题	10	1	1	\(-\dfrac{39}{32}\)
+2026	shanghai_spring	填空题	11	1	1	\(3\)
+2026	shanghai_spring	填空题	12	1	1	\(14.2^\circ\)
+2026	shanghai_spring	单选题	13	1	1	C
+2026	shanghai_spring	单选题	14	1	1	C
+2026	shanghai_spring	单选题	15	1	1	A
+2026	shanghai_spring	单选题	16	1	1	D
+2026	shanghai_spring	解答题	17	0	1	
+2026	shanghai_spring	解答题	18	0	1	
+2026	shanghai_spring	解答题	19	0	1	
+2026	shanghai_spring	解答题	20	0	1	
+2026	shanghai_spring	解答题	21	0	1	
