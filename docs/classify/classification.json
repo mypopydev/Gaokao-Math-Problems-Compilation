@@ -754,24 +754,25 @@
   "year": 1985,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "函数概念与性质",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -1430,13 +1431,13 @@
   "year": 1986,
   "stem": "shanghai_liberal",
   "qidx": 12,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -1863,13 +1864,13 @@
   "year": 1986,
   "stem": "shanghai_liberal",
   "qidx": 35,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -1998,20 +1999,20 @@
   "year": 1986,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "conic",
-  "primary_name": "圆锥曲线",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "圆锥曲线",
    "直线与圆",
-   "参数方程与极坐标",
    "三角函数",
    "平面向量"
   ],
   "comp": [
-   "直观想象",
    "数学运算",
+   "直观想象",
    "逻辑推理"
   ],
   "level": "水平2-3",
@@ -2096,13 +2097,13 @@
   "year": 1986,
   "stem": "shanghai_science",
   "qidx": 12,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -2432,20 +2433,20 @@
   "year": 1986,
   "stem": "shanghai_science",
   "qidx": 30,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "立体几何初步",
-   "直线与圆",
-   "参数方程与极坐标"
+   "直线与圆"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -2513,13 +2514,13 @@
   "year": 1986,
   "stem": "shanghai_science",
   "qidx": 34,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -2701,20 +2702,20 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 9,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "三角函数",
-   "平面向量",
-   "参数方程与极坐标"
+   "平面向量"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -2908,20 +2909,20 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "conic",
-  "primary_name": "圆锥曲线",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "圆锥曲线",
    "参数方程与极坐标",
+   "圆锥曲线",
    "三角函数",
    "平面向量",
    "直线与圆"
   ],
   "comp": [
-   "直观想象",
    "数学运算",
+   "直观想象",
    "逻辑推理"
   ],
   "level": "水平2-3",
@@ -3051,13 +3052,13 @@
   "year": 1987,
   "stem": "shanghai",
   "qidx": 27,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -3156,18 +3157,18 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 3,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "参数方程与极坐标",
+   "直线与圆",
    "平面向量"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -3270,13 +3271,13 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 9,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -3309,14 +3310,14 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 11,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
-   "立体几何初步",
-   "圆锥曲线"
+   "立体几何初步"
   ],
   "comp": [
    "直观想象",
@@ -3632,22 +3633,22 @@
   "year": 1988,
   "stem": "shanghai",
   "qidx": 28,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "数列",
    "圆锥曲线",
+   "数列",
    "平面向量",
    "复数",
    "立体几何初步",
    "空间向量与立体几何"
   ],
   "comp": [
-   "逻辑推理",
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -4020,19 +4021,19 @@
   "year": 1989,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -4389,19 +4390,19 @@
   "year": 1990,
   "stem": "shanghai",
   "qidx": 11,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "直线与圆",
    "三角函数",
-   "参数方程与极坐标",
    "平面向量"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -4626,41 +4627,42 @@
   "year": 1990,
   "stem": "shanghai",
   "qidx": 23,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 1990,
   "stem": "shanghai",
   "qidx": 24,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
-   "微积分（选修）",
-   "圆锥曲线"
+   "微积分（选修）"
   ],
   "comp": [
    "直观想象",
    "数学运算",
-   "数学抽象",
-   "逻辑推理"
+   "逻辑推理",
+   "数学抽象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -4906,18 +4908,18 @@
   "year": 1991,
   "stem": "shanghai",
   "qidx": 10,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "参数方程与极坐标",
+   "直线与圆",
    "平面向量"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -5079,39 +5081,39 @@
   "year": 1991,
   "stem": "shanghai",
   "qidx": 19,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 1991,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -5136,13 +5138,13 @@
   "year": 1991,
   "stem": "shanghai",
   "qidx": 22,
-  "primary": "space_vec",
-  "primary_name": "空间向量与立体几何",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "空间向量与立体几何",
    "圆锥曲线",
+   "空间向量与立体几何",
    "直线与圆"
   ],
   "comp": [
@@ -5219,21 +5221,21 @@
   "year": 1991,
   "stem": "shanghai",
   "qidx": 26,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -5689,14 +5691,14 @@
   "year": 1992,
   "stem": "shanghai",
   "qidx": 23,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
-   "立体几何初步",
-   "圆锥曲线"
+   "立体几何初步"
   ],
   "comp": [
    "直观想象",
@@ -6207,14 +6209,14 @@
   "year": 1993,
   "stem": "shanghai",
   "qidx": 23,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
-   "平面向量",
-   "圆锥曲线"
+   "平面向量"
   ],
   "comp": [
    "直观想象",
@@ -6731,13 +6733,13 @@
   "year": 1994,
   "stem": "shanghai",
   "qidx": 24,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "复数"
   ],
   "comp": [
@@ -7117,19 +7119,19 @@
   "year": 1994,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
    "概率",
+   "计数原理",
    "统计"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
+   "数学运算",
+   "逻辑推理",
    "数学建模"
   ],
   "level": "水平2-3",
@@ -7238,22 +7240,22 @@
   "year": 1994,
   "stem": "shanghai_liberal",
   "qidx": 24,
-  "primary": "deriv",
-  "primary_name": "一元函数导数及其应用",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "一元函数导数及其应用",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -7628,19 +7630,19 @@
   "year": 1994,
   "stem": "shanghai_science",
   "qidx": 18,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
    "概率",
+   "计数原理",
    "统计"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
+   "数学运算",
+   "逻辑推理",
    "数学建模"
   ],
   "level": "水平2-3",
@@ -7749,21 +7751,21 @@
   "year": 1994,
   "stem": "shanghai_science",
   "qidx": 24,
-  "primary": "deriv",
-  "primary_name": "一元函数导数及其应用",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "一元函数导数及其应用",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -7895,21 +7897,21 @@
   "year": 1995,
   "stem": "shanghai_liberal",
   "qidx": 5,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "常用逻辑用语",
-   "圆锥曲线"
+   "圆锥曲线",
+   "常用逻辑用语"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -8213,18 +8215,18 @@
   "year": 1995,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -8354,23 +8356,22 @@
   "year": 1995,
   "stem": "shanghai_liberal",
   "qidx": 29,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
-   "逻辑推理",
    "直观想象",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -8475,21 +8476,21 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 5,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "常用逻辑用语",
-   "圆锥曲线"
+   "圆锥曲线",
+   "常用逻辑用语"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -8666,19 +8667,19 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 15,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -8796,18 +8797,18 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -8937,23 +8938,22 @@
   "year": 1995,
   "stem": "shanghai_science",
   "qidx": 29,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
-   "逻辑推理",
    "直观想象",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -9270,20 +9270,20 @@
   "year": 1996,
   "stem": "shanghai_liberal",
   "qidx": 16,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -9382,19 +9382,19 @@
   "year": 1996,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
    "概率",
+   "计数原理",
    "数学建模与应用"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
+   "数学运算",
+   "逻辑推理",
    "数学建模"
   ],
   "level": "水平2-3",
@@ -9484,35 +9484,36 @@
   "year": 1996,
   "stem": "shanghai_liberal",
   "qidx": 27,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 1996,
   "stem": "shanghai_liberal",
   "qidx": 28,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "空间向量与立体几何"
@@ -9670,21 +9671,21 @@
   "year": 1996,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -9784,19 +9785,19 @@
   "year": 1996,
   "stem": "shanghai_science",
   "qidx": 13,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "直线与圆",
    "三角函数",
-   "参数方程与极坐标",
    "平面向量"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -9842,20 +9843,20 @@
   "year": 1996,
   "stem": "shanghai_science",
   "qidx": 16,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -10054,35 +10055,36 @@
   "year": 1996,
   "stem": "shanghai_science",
   "qidx": 27,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 1996,
   "stem": "shanghai_science",
   "qidx": 28,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "空间向量与立体几何"
@@ -10481,22 +10483,24 @@
   "year": 1997,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "集合",
    "平面向量",
-   "直线与圆",
-   "概率"
+   "直线与圆"
   ],
   "comp": [
-   "数学抽象",
+   "数据分析",
    "数学运算",
+   "逻辑推理",
+   "数学抽象",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -10521,16 +10525,16 @@
   "year": 1997,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "相等关系与不等关系",
    "立体几何初步",
-   "空间向量与立体几何",
-   "圆锥曲线"
+   "空间向量与立体几何"
   ],
   "comp": [
    "直观想象",
@@ -10586,22 +10590,23 @@
   "year": 1997,
   "stem": "shanghai_liberal",
   "qidx": 25,
-  "primary": "complex",
-  "primary_name": "复数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -10767,21 +10772,21 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
-   "平面向量",
-   "圆锥曲线"
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -11015,22 +11020,24 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 20,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "集合",
    "平面向量",
-   "直线与圆",
-   "概率"
+   "直线与圆"
   ],
   "comp": [
-   "数学抽象",
+   "数据分析",
    "数学运算",
+   "逻辑推理",
+   "数学抽象",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -11055,16 +11062,16 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "相等关系与不等关系",
    "立体几何初步",
-   "空间向量与立体几何",
-   "圆锥曲线"
+   "空间向量与立体几何"
   ],
   "comp": [
    "直观想象",
@@ -11120,22 +11127,23 @@
   "year": 1997,
   "stem": "shanghai_science",
   "qidx": 25,
-  "primary": "complex",
-  "primary_name": "复数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -11593,11 +11601,12 @@
   "year": 1998,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "集合",
    "数列",
    "微积分（选修）",
@@ -11605,15 +11614,15 @@
    "计数原理",
    "函数概念与性质",
    "复数",
-   "立体几何初步",
-   "圆锥曲线"
+   "立体几何初步"
   ],
   "comp": [
-   "数学抽象",
+   "直观想象",
    "数学运算",
-   "逻辑推理"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -11712,19 +11721,19 @@
   "year": 1998,
   "stem": "shanghai_science",
   "qidx": 6,
-  "primary": "conic",
-  "primary_name": "圆锥曲线",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "圆锥曲线",
    "参数方程与极坐标",
+   "圆锥曲线",
    "平面向量",
    "直线与圆"
   ],
   "comp": [
-   "直观想象",
    "数学运算",
+   "直观想象",
    "逻辑推理"
   ],
   "level": "水平2-3",
@@ -11988,23 +11997,23 @@
   "year": 1998,
   "stem": "shanghai_science",
   "qidx": 20,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
    "平面向量",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12030,11 +12039,12 @@
   "year": 1998,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "数列",
    "微积分（选修）",
    "集合",
@@ -12043,12 +12053,12 @@
    "函数概念与性质",
    "复数",
    "立体几何初步",
-   "圆锥曲线",
    "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "直观想象",
    "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
   "level": "水平2-3",
@@ -12245,22 +12255,22 @@
   "year": 1999,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
-  "theme": "几何与代数",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "平面向量",
-   "直线与圆",
-   "概率"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
-   "直观想象",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12303,19 +12313,19 @@
   "year": 1999,
   "stem": "shanghai_liberal",
   "qidx": 14,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12441,22 +12451,23 @@
   "year": 1999,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "函数概念与性质",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
    "直观想象",
    "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12643,13 +12654,14 @@
   "module": "选择性必修",
   "matched": [
    "参数方程与极坐标",
+   "圆锥曲线",
    "三角函数",
-   "平面向量",
-   "圆锥曲线"
+   "平面向量"
   ],
   "comp": [
    "数学运算",
-   "直观想象"
+   "直观想象",
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -12678,22 +12690,22 @@
   "year": 1999,
   "stem": "shanghai_science",
   "qidx": 11,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
-  "theme": "几何与代数",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "平面向量",
-   "直线与圆",
-   "概率"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
-   "直观想象",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12736,19 +12748,19 @@
   "year": 1999,
   "stem": "shanghai_science",
   "qidx": 14,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -12873,22 +12885,23 @@
   "year": 1999,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "函数概念与性质",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
    "直观想象",
    "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -13239,13 +13252,13 @@
   "year": 2000,
   "stem": "shanghai_liberal",
   "qidx": 17,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量"
   ],
   "comp": [
@@ -13687,13 +13700,13 @@
   "year": 2000,
   "stem": "shanghai_science",
   "qidx": 17,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量"
   ],
   "comp": [
@@ -14118,22 +14131,22 @@
   "year": 2000,
   "stem": "shanghai_spring",
   "qidx": 17,
-  "primary": "funcprop",
-  "primary_name": "函数概念与性质",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "函数概念与性质",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算",
    "直观想象",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -14221,25 +14234,25 @@
   "year": 2000,
   "stem": "shanghai_spring",
   "qidx": 22,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "圆锥曲线",
    "三角函数",
    "一元函数导数及其应用",
    "平面向量",
    "复数"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -14284,20 +14297,20 @@
   "year": 2001,
   "stem": "shanghai_liberal",
   "qidx": 3,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -14419,19 +14432,19 @@
   "year": 2001,
   "stem": "shanghai_liberal",
   "qidx": 10,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
    "概率",
+   "计数原理",
    "数学建模与应用"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
+   "数学运算",
+   "逻辑推理",
    "数学建模"
   ],
   "level": "水平2-3",
@@ -14628,22 +14641,23 @@
   "year": 2001,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "集合",
    "复数",
-   "常用逻辑用语",
-   "概率"
+   "常用逻辑用语"
   ],
   "comp": [
-   "数学抽象",
+   "数据分析",
    "数学运算",
-   "逻辑推理"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -14733,20 +14747,20 @@
   "year": 2001,
   "stem": "shanghai_science",
   "qidx": 3,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -15289,18 +15303,18 @@
   "year": 2001,
   "stem": "shanghai_spring",
   "qidx": 9,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -15532,20 +15546,20 @@
   "year": 2001,
   "stem": "shanghai_spring",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "平面向量",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
    "直观想象",
    "数学运算",
-   "数学抽象"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -16136,37 +16150,16 @@
   "year": 2002,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
-   "数据分析"
-  ],
-  "level": "水平2-3",
-  "note": ""
- },
- {
-  "year": 2002,
-  "stem": "shanghai_science",
-  "qidx": 8,
-  "primary": "conic",
-  "primary_name": "圆锥曲线",
-  "theme": "几何与代数",
-  "module": "选择性必修",
-  "matched": [
-   "圆锥曲线",
-   "平面向量",
-   "参数方程与极坐标"
-  ],
-  "comp": [
-   "直观想象",
+   "数据分析",
    "数学运算",
    "逻辑推理"
   ],
@@ -16176,21 +16169,42 @@
  {
   "year": 2002,
   "stem": "shanghai_science",
-  "qidx": 9,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "qidx": 8,
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
+   "圆锥曲线",
+   "平面向量"
+  ],
+  "comp": [
+   "数学运算",
+   "直观想象",
+   "逻辑推理"
+  ],
+  "level": "水平2-3",
+  "note": ""
+ },
+ {
+  "year": 2002,
+  "stem": "shanghai_science",
+  "qidx": 9,
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
+  "matched": [
+   "参数方程与极坐标",
    "三角函数",
-   "平面向量",
-   "参数方程与极坐标"
+   "平面向量"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -17060,21 +17074,21 @@
   "year": 2003,
   "stem": "shanghai_liberal",
   "qidx": 9,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
-   "集合",
-   "概率"
+   "概率",
+   "集合"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -17286,49 +17300,48 @@
   "year": 2003,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 2003,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
    "常用逻辑用语",
    "三角函数",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
-   "逻辑推理",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -17511,21 +17524,21 @@
   "year": 2003,
   "stem": "shanghai_science",
   "qidx": 9,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
-   "集合",
-   "概率"
+   "概率",
+   "集合"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -17740,49 +17753,48 @@
   "year": 2003,
   "stem": "shanghai_science",
   "qidx": 20,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 2003,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
    "常用逻辑用语",
    "三角函数",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
-   "逻辑推理",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -17868,21 +17880,21 @@
   "year": 2003,
   "stem": "shanghai_spring",
   "qidx": 4,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -18209,13 +18221,13 @@
   "year": 2003,
   "stem": "shanghai_spring",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "复数",
    "空间向量与立体几何"
@@ -18411,18 +18423,18 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 9,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -18449,21 +18461,22 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "直线与圆",
-   "平面向量",
-   "圆锥曲线"
+   "平面向量"
   ],
   "comp": [
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -18630,25 +18643,25 @@
   "year": 2004,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数",
    "立体几何初步",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -18857,18 +18870,18 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 9,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -18895,21 +18908,22 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 11,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "直线与圆",
-   "平面向量",
-   "圆锥曲线"
+   "平面向量"
   ],
   "comp": [
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -19121,25 +19135,26 @@
   "year": 2004,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
    "数列",
    "相等关系与不等关系",
    "平面向量",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
+   "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "数学运算"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -19200,13 +19215,13 @@
   "year": 2004,
   "stem": "shanghai_spring",
   "qidx": 4,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "立体几何初步"
   ],
   "comp": [
@@ -19300,18 +19315,18 @@
   "year": 2004,
   "stem": "shanghai_spring",
   "qidx": 9,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -19320,21 +19335,21 @@
   "year": 2004,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -19560,25 +19575,25 @@
   "year": 2004,
   "stem": "shanghai_spring",
   "qidx": 22,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数",
    "空间向量与立体几何",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -19718,18 +19733,18 @@
   "year": 2005,
   "stem": "shanghai_liberal",
   "qidx": 8,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -19971,13 +19986,13 @@
   "year": 2005,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "立体几何初步",
@@ -20111,19 +20126,19 @@
   "year": 2005,
   "stem": "shanghai_science",
   "qidx": 6,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -20148,18 +20163,18 @@
   "year": 2005,
   "stem": "shanghai_science",
   "qidx": 8,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -20366,24 +20381,24 @@
   "year": 2005,
   "stem": "shanghai_science",
   "qidx": 19,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "圆锥曲线",
    "平面向量",
    "复数",
    "空间向量与立体几何"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -20870,13 +20885,13 @@
   "year": 2005,
   "stem": "shanghai_spring",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "立体几何初步"
@@ -21273,24 +21288,24 @@
   "year": 2006,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "圆锥曲线",
    "三角函数",
    "平面向量",
    "复数"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -21470,22 +21485,22 @@
   "year": 2006,
   "stem": "shanghai_science",
   "qidx": 9,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "集合",
-   "计数原理",
-   "概率"
+   "计数原理"
   ],
   "comp": [
-   "数学抽象",
+   "数据分析",
    "数学运算",
    "逻辑推理",
-   "数据分析"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -21700,24 +21715,24 @@
   "year": 2006,
   "stem": "shanghai_science",
   "qidx": 20,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
    "平面向量",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -22030,21 +22045,21 @@
   "year": 2006,
   "stem": "shanghai_spring",
   "qidx": 15,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "常用逻辑用语",
-   "圆锥曲线"
+   "圆锥曲线",
+   "常用逻辑用语"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -22588,24 +22603,24 @@
   "year": 2007,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
    "圆锥曲线",
+   "相等关系与不等关系",
    "三角函数",
    "平面向量",
    "复数",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -23001,13 +23016,13 @@
   "year": 2007,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "三角函数",
    "复数",
@@ -23359,13 +23374,13 @@
   "year": 2007,
   "stem": "shanghai_spring",
   "qidx": 18,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "三角函数",
    "平面向量",
    "复数",
@@ -23581,21 +23596,21 @@
   "year": 2008,
   "stem": "shanghai_liberal",
   "qidx": 8,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
-  "theme": "几何与代数",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "概率"
+   "概率",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
-   "直观想象",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -23830,22 +23845,23 @@
   "year": 2008,
   "stem": "shanghai_liberal",
   "qidx": 20,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
    "平面向量",
    "直线与圆",
-   "圆锥曲线",
    "复数"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -23988,21 +24004,21 @@
   "year": 2008,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
-  "theme": "几何与代数",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "概率"
+   "概率",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
-   "直观想象",
    "数据分析",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -24467,18 +24483,18 @@
   "year": 2008,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -24772,21 +24788,21 @@
   "year": 2009,
   "stem": "shanghai_liberal",
   "qidx": 3,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "集合",
-   "常用逻辑用语",
-   "矩阵与变换"
+   "常用逻辑用语"
   ],
   "comp": [
-   "数学抽象",
    "数学运算",
+   "数学抽象",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -24889,13 +24905,13 @@
   "year": 2009,
   "stem": "shanghai_liberal",
   "qidx": 9,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -25231,21 +25247,21 @@
   "year": 2009,
   "stem": "shanghai_science",
   "qidx": 3,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "集合",
-   "常用逻辑用语",
-   "矩阵与变换"
+   "常用逻辑用语"
   ],
   "comp": [
-   "数学抽象",
    "数学运算",
+   "数学抽象",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -25594,13 +25610,13 @@
   "year": 2009,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
    "圆锥曲线",
+   "平面向量",
    "常用逻辑用语",
    "复数",
    "立体几何初步",
@@ -25608,12 +25624,12 @@
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -25984,13 +26000,13 @@
   "year": 2009,
   "stem": "shanghai_spring",
   "qidx": 18,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -26005,24 +26021,24 @@
   "year": 2009,
   "stem": "shanghai_spring",
   "qidx": 19,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "数列",
    "常用逻辑用语",
    "平面向量",
    "复数",
    "直线与圆",
-   "圆锥曲线",
    "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -26093,20 +26109,20 @@
   "year": 2010,
   "stem": "shanghai_liberal",
   "qidx": 3,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "三角函数",
-   "矩阵与变换"
+   "矩阵与变换",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
-   "直观想象",
-   "数学抽象"
+   "数学抽象",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -26283,20 +26299,20 @@
   "year": 2010,
   "stem": "shanghai_liberal",
   "qidx": 13,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
-   "圆锥曲线"
+   "圆锥曲线",
+   "平面向量"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -26489,22 +26505,22 @@
   "year": 2010,
   "stem": "shanghai_liberal",
   "qidx": 23,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -26568,20 +26584,20 @@
   "year": 2010,
   "stem": "shanghai_science",
   "qidx": 4,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "三角函数",
-   "矩阵与变换"
+   "矩阵与变换",
+   "三角函数"
   ],
   "comp": [
    "数学运算",
-   "直观想象",
-   "数学抽象"
+   "数学抽象",
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -26745,21 +26761,21 @@
   "year": 2010,
   "stem": "shanghai_science",
   "qidx": 13,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
    "圆锥曲线",
+   "平面向量",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -26809,22 +26825,21 @@
   "year": 2010,
   "stem": "shanghai_science",
   "qidx": 16,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "参数方程与极坐标",
    "平面向量",
    "直线与圆",
-   "计数原理",
-   "参数方程与极坐标"
+   "计数原理"
   ],
   "comp": [
    "数学运算",
-   "直观想象",
-   "逻辑推理"
+   "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -26953,25 +26968,25 @@
   "year": 2010,
   "stem": "shanghai_science",
   "qidx": 23,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
    "三角函数",
    "平面向量",
    "直线与圆",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -27280,22 +27295,22 @@
   "year": 2010,
   "stem": "shanghai_spring",
   "qidx": 17,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -27384,24 +27399,24 @@
   "year": 2010,
   "stem": "shanghai_spring",
   "qidx": 22,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "常用逻辑用语",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -27619,20 +27634,20 @@
   "year": 2011,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "相等关系与不等关系",
-   "矩阵与变换"
+   "矩阵与变换",
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -27837,23 +27852,23 @@
   "year": 2011,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
    "圆锥曲线",
+   "相等关系与不等关系",
    "平面向量",
    "复数",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -27958,13 +27973,13 @@
   "year": 2011,
   "stem": "shanghai_science",
   "qidx": 5,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
    "参数方程与极坐标",
+   "三角函数",
    "平面向量",
    "空间向量与立体几何",
    "直线与圆"
@@ -27973,7 +27988,7 @@
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -28056,20 +28071,20 @@
   "year": 2011,
   "stem": "shanghai_science",
   "qidx": 10,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "相等关系与不等关系",
-   "矩阵与变换"
+   "矩阵与变换",
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -28502,21 +28517,21 @@
   "year": 2011,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
    "圆锥曲线",
+   "相等关系与不等关系",
    "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -28715,20 +28730,21 @@
   "year": 2011,
   "stem": "shanghai_spring",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "三角函数",
    "平面向量",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -29073,22 +29089,22 @@
   "year": 2012,
   "stem": "shanghai_liberal",
   "qidx": 16,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -29174,35 +29190,36 @@
   "year": 2012,
   "stem": "shanghai_liberal",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 2012,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "立体几何初步"
@@ -29627,35 +29644,36 @@
   "year": 2012,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "复数",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 2012,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "立体几何初步",
@@ -30342,18 +30360,18 @@
   "year": 2013,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -30477,24 +30495,25 @@
   "year": 2013,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "微积分（选修）",
    "数列",
    "直线与圆",
-   "圆锥曲线",
    "计数原理"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
    "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -30589,13 +30608,13 @@
   "year": 2013,
   "stem": "shanghai_liberal",
   "qidx": 23,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "复数",
    "空间向量与立体几何"
@@ -30749,22 +30768,22 @@
   "year": 2013,
   "stem": "shanghai_science",
   "qidx": 8,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "常用逻辑用语",
-   "计数原理",
-   "概率"
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -30926,22 +30945,22 @@
   "year": 2013,
   "stem": "shanghai_science",
   "qidx": 17,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
-  "module": "选择性必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "数列",
    "集合",
-   "计数原理",
-   "矩阵与变换"
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
    "数学运算",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -31037,13 +31056,13 @@
   "year": 2013,
   "stem": "shanghai_science",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "复数"
   ],
@@ -31252,18 +31271,18 @@
   "year": 2013,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -31308,20 +31327,20 @@
   "year": 2013,
   "stem": "shanghai_spring",
   "qidx": 13,
-  "primary": "counting",
-  "primary_name": "计数原理",
-  "theme": "概率与统计",
-  "module": "选择性必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "计数原理",
-   "矩阵与变换"
+   "矩阵与变换",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
    "数学运算",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -31596,13 +31615,13 @@
   "year": 2013,
   "stem": "shanghai_spring",
   "qidx": 28,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "三角函数",
    "平面向量",
    "复数"
@@ -31619,24 +31638,24 @@
   "year": 2013,
   "stem": "shanghai_spring",
   "qidx": 29,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
    "平面向量",
-   "圆锥曲线",
    "复数",
    "直线与圆"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -31924,18 +31943,18 @@
   "year": 2014,
   "stem": "shanghai_liberal",
   "qidx": 13,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -32021,24 +32040,24 @@
   "year": 2014,
   "stem": "shanghai_liberal",
   "qidx": 18,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "相等关系与不等关系",
    "常用逻辑用语",
    "幂函数、指数函数、对数函数",
    "直线与圆",
-   "计数原理",
-   "矩阵与变换"
+   "计数原理"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -32272,13 +32291,13 @@
   "year": 2014,
   "stem": "shanghai_science",
   "qidx": 7,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
    "参数方程与极坐标",
+   "三角函数",
    "平面向量",
    "空间向量与立体几何"
   ],
@@ -32286,7 +32305,7 @@
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -33032,14 +33051,14 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 24,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "直线与圆",
-   "圆锥曲线",
    "空间向量与立体几何"
   ],
   "comp": [
@@ -33047,7 +33066,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -33116,22 +33135,22 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 28,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
-   "圆锥曲线",
    "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -33161,23 +33180,22 @@
   "year": 2014,
   "stem": "shanghai_spring",
   "qidx": 30,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "立体几何初步",
    "直线与圆",
-   "常用逻辑用语",
-   "圆锥曲线"
+   "常用逻辑用语"
   ],
   "comp": [
    "直观想象",
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -33302,20 +33320,20 @@
   "year": 2015,
   "stem": "shanghai_liberal",
   "qidx": 5,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "相等关系与不等关系",
-   "矩阵与变换"
+   "矩阵与变换",
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -33340,21 +33358,21 @@
   "year": 2015,
   "stem": "shanghai_liberal",
   "qidx": 7,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
    "圆锥曲线",
+   "相等关系与不等关系",
    "空间向量与立体几何"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -33636,21 +33654,22 @@
   "year": 2015,
   "stem": "shanghai_liberal",
   "qidx": 22,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "三角函数",
    "平面向量",
    "复数",
-   "空间向量与立体几何",
-   "圆锥曲线"
+   "空间向量与立体几何"
   ],
   "comp": [
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -33717,20 +33736,20 @@
   "year": 2015,
   "stem": "shanghai_science",
   "qidx": 3,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "相等关系与不等关系",
-   "矩阵与变换"
+   "矩阵与变换",
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -33755,21 +33774,21 @@
   "year": 2015,
   "stem": "shanghai_science",
   "qidx": 5,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
    "圆锥曲线",
+   "相等关系与不等关系",
    "空间向量与立体几何"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -34070,22 +34089,22 @@
   "year": 2015,
   "stem": "shanghai_science",
   "qidx": 21,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "平面向量",
    "复数",
    "立体几何初步",
-   "空间向量与立体几何",
-   "圆锥曲线"
+   "空间向量与立体几何"
   ],
   "comp": [
    "直观想象",
    "数学运算",
-   "数学抽象"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -34274,20 +34293,20 @@
   "year": 2015,
   "stem": "shanghai_spring",
   "qidx": 8,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "相等关系与不等关系",
-   "矩阵与变换"
+   "矩阵与变换",
+   "相等关系与不等关系"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -34671,24 +34690,24 @@
   "year": 2015,
   "stem": "shanghai_spring",
   "qidx": 28,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "空间向量与立体几何",
-   "圆锥曲线",
    "常用逻辑用语",
    "复数",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -35062,18 +35081,18 @@
   "year": 2016,
   "stem": "shanghai_liberal",
   "qidx": 11,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -35581,21 +35600,23 @@
   "year": 2016,
   "stem": "shanghai_science",
   "qidx": 14,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
-  "theme": "几何与代数",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "平面向量",
    "三角函数",
-   "立体几何初步",
-   "概率"
+   "立体几何初步"
   ],
   "comp": [
+   "数据分析",
    "数学运算",
+   "逻辑推理",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -35620,20 +35641,20 @@
   "year": 2016,
   "stem": "shanghai_science",
   "qidx": 16,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
    "参数方程与极坐标",
+   "三角函数",
    "平面向量"
   ],
   "comp": [
    "数学运算",
    "直观想象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -35874,19 +35895,19 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 5,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
-   "集合",
-   "矩阵与变换"
+   "矩阵与变换",
+   "集合"
   ],
   "comp": [
-   "数学抽象",
-   "数学运算"
+   "数学运算",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -36234,23 +36255,23 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 24,
-  "primary": "logic",
-  "primary_name": "常用逻辑用语",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "常用逻辑用语",
    "平面向量",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "逻辑推理",
-   "数学抽象",
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -36298,13 +36319,13 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 27,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "立体几何初步",
    "圆锥曲线",
+   "立体几何初步",
    "空间向量与立体几何",
    "直线与圆"
   ],
@@ -36313,7 +36334,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -36422,13 +36443,13 @@
   "year": 2016,
   "stem": "shanghai_spring",
   "qidx": 33,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "圆锥曲线"
+   "圆锥曲线",
+   "直线与圆"
   ],
   "comp": [
    "直观想象",
@@ -36739,21 +36760,21 @@
   "year": 2017,
   "stem": "shanghai",
   "qidx": 13,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "相等关系与不等关系",
-   "计数原理",
-   "矩阵与变换"
+   "计数原理"
   ],
   "comp": [
    "数学运算",
-   "逻辑推理",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -36802,24 +36823,23 @@
   "year": 2017,
   "stem": "shanghai",
   "qidx": 16,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "平面向量",
    "集合",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
-   "数学运算",
-   "逻辑推理",
    "直观想象",
-   "数学抽象"
+   "数学运算",
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -36892,22 +36912,23 @@
   "year": 2017,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
    "三角函数",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -37496,18 +37517,18 @@
   "year": 2018,
   "stem": "shanghai",
   "qidx": 9,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -38103,13 +38124,13 @@
   "year": 2018,
   "stem": "shanghai_spring",
   "qidx": 19,
-  "primary": "solid_basic",
-  "primary_name": "立体几何初步",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "立体几何初步",
    "圆锥曲线",
+   "立体几何初步",
    "空间向量与立体几何",
    "函数概念与性质",
    "平面向量",
@@ -38121,7 +38142,7 @@
    "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -38342,19 +38363,19 @@
   "year": 2019,
   "stem": "shanghai",
   "qidx": 10,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
    "概率",
+   "计数原理",
    "密码与信息"
   ],
   "comp": [
-   "逻辑推理",
-   "数学运算",
    "数据分析",
+   "数学运算",
+   "逻辑推理",
    "数学抽象"
   ],
   "level": "水平2-3",
@@ -38364,21 +38385,21 @@
   "year": 2019,
   "stem": "shanghai",
   "qidx": 11,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "数列",
    "微积分（选修）",
-   "圆锥曲线",
    "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "直观想象",
    "数学运算",
-   "数学抽象",
-   "直观想象"
+   "逻辑推理",
+   "数学抽象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -38556,13 +38577,13 @@
   "year": 2019,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "三角函数",
    "平面向量",
@@ -38786,21 +38807,22 @@
   "year": 2019,
   "stem": "shanghai_spring",
   "qidx": 11,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "空间向量与立体几何",
-   "直线与圆",
-   "圆锥曲线"
+   "直线与圆"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -38884,13 +38906,13 @@
   "year": 2019,
   "stem": "shanghai_spring",
   "qidx": 16,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "幂函数、指数函数、对数函数"
   ],
   "comp": [
@@ -39158,13 +39180,13 @@
   "year": 2020,
   "stem": "shanghai",
   "qidx": 10,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "三角函数"
   ],
   "comp": [
@@ -39238,17 +39260,17 @@
   "year": 2020,
   "stem": "shanghai",
   "qidx": 14,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "parametric",
+  "primary_name": "参数方程与极坐标",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
-   "参数方程与极坐标"
+   "参数方程与极坐标",
+   "直线与圆"
   ],
   "comp": [
-   "直观想象",
-   "数学运算"
+   "数学运算",
+   "直观想象"
   ],
   "level": "水平2-3",
   "note": ""
@@ -39365,20 +39387,21 @@
   "year": 2020,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "三角函数",
    "平面向量",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
    "直观想象",
-   "数学运算"
+   "数学运算",
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -39693,21 +39716,21 @@
   "year": 2020,
   "stem": "shanghai_spring",
   "qidx": 16,
-  "primary": "seq",
-  "primary_name": "数列",
-  "theme": "函数",
-  "module": "选择性必修",
+  "primary": "matrix",
+  "primary_name": "矩阵与变换",
+  "theme": "几何与代数",
+  "module": "选修",
   "matched": [
+   "矩阵与变换",
    "数列",
-   "计数原理",
-   "矩阵与变换"
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
    "数学运算",
-   "数学抽象"
+   "数学抽象",
+   "逻辑推理"
   ],
-  "level": "水平2-3",
+  "level": "水平3",
   "note": ""
  },
  {
@@ -40012,13 +40035,13 @@
   "year": 2021,
   "stem": "shanghai",
   "qidx": 11,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "三角函数"
   ],
   "comp": [
@@ -40191,13 +40214,13 @@
   "year": 2021,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数",
    "空间向量与立体几何"
@@ -40594,22 +40617,22 @@
   "year": 2021,
   "stem": "shanghai_spring",
   "qidx": 19,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
-   "复数",
-   "圆锥曲线"
+   "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
-   "数学抽象",
-   "逻辑推理"
+   "数学运算",
+   "逻辑推理",
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -41029,15 +41052,15 @@
   "year": 2022,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "直线与圆",
    "相等关系与不等关系",
    "三角函数",
-   "圆锥曲线",
    "平面向量",
    "复数",
    "空间向量与立体几何"
@@ -41262,20 +41285,20 @@
   "year": 2022,
   "stem": "shanghai_spring",
   "qidx": 11,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "相等关系与不等关系",
-   "圆锥曲线"
+   "圆锥曲线",
+   "相等关系与不等关系"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -41442,24 +41465,24 @@
   "year": 2022,
   "stem": "shanghai_spring",
   "qidx": 20,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
    "直线与圆",
-   "圆锥曲线",
    "三角函数",
    "平面向量",
    "复数"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
-   "逻辑推理",
-   "直观想象"
+   "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -41855,24 +41878,24 @@
   "year": 2023,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
-   "平面向量",
    "圆锥曲线",
+   "平面向量",
    "三角函数",
    "复数",
    "空间向量与立体几何",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -42074,18 +42097,18 @@
   "year": 2023,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "counting",
-  "primary_name": "计数原理",
+  "primary": "prob",
+  "primary_name": "概率",
   "theme": "概率与统计",
   "module": "选择性必修",
   "matched": [
-   "计数原理",
-   "概率"
+   "概率",
+   "计数原理"
   ],
   "comp": [
-   "逻辑推理",
+   "数据分析",
    "数学运算",
-   "数据分析"
+   "逻辑推理"
   ],
   "level": "水平2-3",
   "note": ""
@@ -42278,13 +42301,13 @@
   "year": 2023,
   "stem": "shanghai_spring",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "平面向量",
    "复数"
   ],
@@ -42708,23 +42731,23 @@
   "year": 2024,
   "stem": "shanghai",
   "qidx": 20,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "三角函数",
    "平面向量",
-   "圆锥曲线",
    "复数",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -43018,22 +43041,22 @@
   "year": 2024,
   "stem": "shanghai_spring",
   "qidx": 15,
-  "primary": "set",
-  "primary_name": "集合",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "prob",
+  "primary_name": "概率",
+  "theme": "概率与统计",
+  "module": "选择性必修",
   "matched": [
+   "概率",
    "集合",
-   "计数原理",
-   "概率"
+   "计数原理"
   ],
   "comp": [
-   "数学抽象",
+   "数据分析",
    "数学运算",
    "逻辑推理",
-   "数据分析"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -43128,24 +43151,24 @@
   "year": 2024,
   "stem": "shanghai_spring",
   "qidx": 20,
-  "primary": "vector2d",
-  "primary_name": "平面向量",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
-  "module": "必修",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "平面向量",
    "直线与圆",
-   "圆锥曲线",
    "常用逻辑用语",
    "三角函数",
    "复数"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -43762,43 +43785,43 @@
   "year": 2025,
   "stem": "shanghai_spring",
   "qidx": 10,
-  "primary": "trig",
-  "primary_name": "三角函数",
-  "theme": "函数",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
-   "三角函数",
    "圆锥曲线",
+   "三角函数",
    "直线与圆"
   ],
   "comp": [
-   "数学运算",
    "直观想象",
+   "数学运算",
    "逻辑推理"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
   "year": 2025,
   "stem": "shanghai_spring",
   "qidx": 11,
-  "primary": "inequality",
-  "primary_name": "相等关系与不等关系",
-  "theme": "预备知识",
-  "module": "必修",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
+  "theme": "几何与代数",
+  "module": "选择性必修",
   "matched": [
+   "圆锥曲线",
    "相等关系与不等关系",
-   "函数概念与性质",
-   "圆锥曲线"
+   "函数概念与性质"
   ],
   "comp": [
+   "直观想象",
    "数学运算",
    "逻辑推理",
-   "数学抽象",
-   "直观想象"
+   "数学抽象"
   ],
-  "level": "水平1-2",
+  "level": "水平2-3",
   "note": ""
  },
  {
@@ -43972,13 +43995,13 @@
   "year": 2025,
   "stem": "shanghai_spring",
   "qidx": 20,
-  "primary": "line_circle",
-  "primary_name": "直线与圆",
+  "primary": "conic",
+  "primary_name": "圆锥曲线",
   "theme": "几何与代数",
   "module": "选择性必修",
   "matched": [
-   "直线与圆",
    "圆锥曲线",
+   "直线与圆",
    "常用逻辑用语",
    "三角函数",
    "平面向量",

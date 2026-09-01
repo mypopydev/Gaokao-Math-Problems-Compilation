@@ -98,6 +98,44 @@ def classify(text, taxo):
             if hit_stat:
                 scored = [s for s in scored if s[0]["id"] != "stat"]
                 scored.insert(0, (hit_stat[0][0], 1, ["(统计优先)"]))
+
+    def promote(unit_id, marker):
+        nonlocal scored
+        hit = next((s for s in scored if s[0]["id"] == unit_id), None)
+        if hit is None:
+            return
+        scored = [s for s in scored if s[0]["id"] != unit_id]
+        scored.insert(0, (hit[0], 1, [marker]))
+        return True
+
+    # 阶段一优先级规则：优先识别被通用关键词吞掉的专题。
+    # 概率 > 非课标专题 > 圆锥曲线；统计优先已在上方执行，因此统计不会被概率覆盖。
+    if scored and scored[0][0]["id"] in {
+            "counting", "set", "vector2d", "inequality", "logic"}:
+        if re.search(r"概率|分布列|随机变量|古典概型|互斥|独立事件|正态分布|二项分布", text):
+            promote("prob", "(概率优先)")
+
+    # 椭圆/双曲线/抛物线等专属词优先于“直线/圆/最大值”等通用词。
+    # 复数题的复平面轨迹可能在选项中出现这些词，保持复数分类。
+    if (scored and scored[0][0]["id"] != "prob"
+            and not re.search(r"复数|虚数|复平面|共轭|实部|虚部|虚根", text)):
+        if re.search(r"椭圆|双曲线|抛物线|焦点|离心率|渐近线|准线|圆锥曲线", text):
+            promote("conic", "(圆锥曲线优先)")
+
+    # 非课标专题最后提升，覆盖圆锥曲线选项噪声；不把“极限”作为微积分信号，
+    # 因数列中的无穷等比数列极限仍属于数列单元。
+    nonstandard_priority = (
+        ("matrix", r"矩阵|行列式"),
+        ("parametric", r"参数方程|极坐标"),
+        ("calc_adv", r"定积分|不定积分|微积分"),
+        ("algorithm", r"程序框图|(?<!运)算法|框图"),
+    )
+    if scored and scored[0][0]["id"] != "prob":
+        for unit_id, signal in nonstandard_priority:
+            if re.search(signal, text):
+                promote(unit_id, "(非课标优先)")
+                break
+
     if not scored:
         # “函数” 兜底：含 函数 但无具体单元命中
         if "函数" in text:
