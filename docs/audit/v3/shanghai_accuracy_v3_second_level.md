@@ -17,8 +17,8 @@
 | `verified_correct` | 35 |
 | `verified_solution_error` | 13 |
 | `verified_answer_error` | 1 |
-| `verified_transcription_error` | 9 |
-| `ambiguous_problem` | 13 |
+| `verified_transcription_error` | 5 |
+| `ambiguous_problem` | 17 |
 | **合计** | **71** |
 
 逐条证据保存在：
