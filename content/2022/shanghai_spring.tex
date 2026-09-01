@@ -327,7 +327,10 @@ D
 \begin{enumerate}
 \item 由甲变化，\(g(x)=f(x)-f(x-1)=2^x-2^{x-1}=2^{x-1}\). 令 \(g(x)=2\)，解得 \(x=2\).
 \item 由乙变化，\(h(x)=\lvert(x+t)^2-x^2\rvert=t\lvert2x+t\rvert\). 当 \(2x+t<0\)，即 \(x<-\dfrac t2\) 时，\(t\lvert2x+t\rvert\le x^2\) 恒成立；当 \(2x+t\ge0\)，即 \(x\ge-\dfrac t2\) 时，解 \(t(2x+t)\le x^2\)，得 \(x\le(1-\sqrt2)t\) 或 \(x\ge(1+\sqrt2)t\). 所以解集为 \(\left(-\infty,(1-\sqrt2)t\right]\cup\left[(1+\sqrt2)t,+\infty\right)\).
-\item 记 \(u(x)=f(x)-f(x-t)\)，则 \(h_1(x)=\lvert u(x+t)-u(x)\rvert=\lvert f(x+t)-2f(x)+f(x-t)\rvert\). 记 \(v(x)=\lvert f(x+t)-f(x)\rvert\)，则 \(h_2(x)=v(x)-v(x-t)=\lvert f(x+t)-f(x)\rvert-\lvert f(x)-f(x-t)\rvert\). 由题设，对任意 \(t>0\)，总存在 \(x\) 使 \(h_1(x)=h_2(x)\)，即
-\(\left\lvert[f(x+t)-f(x)]-[f(x)-f(x-t)]\right\rvert=\lvert f(x+t)-f(x)\rvert-\lvert f(x)-f(x-t)\rvert\). 因而存在 \(x\) 使 \(f(x+t)>f(x)>f(x-t)\)，且 \(f(x+t)-f(x)>f(x)-f(x-t)\). 于是对任意 \(t>0\)，存在正增量，结合 \(f(x)\) 在 \((-infty,0)\) 上单调递增，可得 \(f(x+t)>f(x)\) 对任意 \(x\in\R\) 成立，故 \(f(x)\) 在 \(\R\) 上单调递增.
+\item 记 \(u(x)=f(x)-f(x-t)\)，则 \(h_1(x)=\lvert u(x+t)-u(x)\rvert\)；记 \(v(x)=\lvert f(x+t)-f(x)\rvert\)，则 \(h_2(x)=v(x)-v(x-t)\). 题设的“对任意 \(t>0\)，总存在 \(x\)”并不能推出对任意 \(x\) 的单调性。反例为
+\[
+f(x)=\begin{cases}x,&x<0,\\-1,&x\ge0.\end{cases}
+\]
+它在 \((-\infty,0)\) 上单调递增；对任意 \(t>0\)，取 \(x<-t\)，则两次增量均为 \(t\)，从而 \(h_1(x)=h_2(x)=0\)，但 \(f\) 在 \(0\) 处向下跳跃，并非在 \(\R\) 上单调递增。因此原命题按字面不成立，不能给出所要求的证明.
 \end{enumerate}
 \end{solution}
