@@ -202,7 +202,7 @@ def main():
             fh.write("\t".join([
                 str(y), stem, str(i), r["primary_name"], r["theme"],
                 r["module"], ";".join(r["matched"]), ";".join(r["comp"]),
-                r["level"], r["note"],
+                r["level"], r["note"] or '""',
             ]) + "\n")
 
     js = [{"year": y, "stem": stem, "qidx": i, **r}
